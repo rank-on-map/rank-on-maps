@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-10T08:50:30.845820+00:00",
+  "generated_at": "2026-08-10T09:20:50.180641+00:00",
   "totals": {
-    "total_leads": 597,
-    "leads_30d": 226,
-    "total_opps": 397,
+    "total_leads": 598,
+    "leads_30d": 227,
+    "total_opps": 398,
     "calls_booked": 59,
     "ppas_signed": 16,
     "pipeline_value": 110853000
   },
   "channels_30d": {
-    "Other": 35,
+    "Other": 36,
     "Eligibility": 79,
     "REA": 109,
     "Contact": 3
   },
   "channels_total": {
-    "Other": 96,
+    "Other": 97,
     "Eligibility": 126,
     "REA": 367,
     "Contact": 8
   },
   "stages": {
+    "New Lead": 147,
     "Booked": 26,
-    "New Lead": 146,
     "Lost": 133,
     "Showed Up": 9,
     "Not Yet Ready": 38,
@@ -270,6 +270,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Sam Ph",
+        0.0
       ],
       [
         "Mohit Tyagi",
@@ -1646,8 +1650,8 @@
     ]
   },
   "stage_pipeline_value": {
-    "Booked": 3250000.0,
     "New Lead": 41375000.0,
+    "Booked": 3250000.0,
     "Lost": 50100000.0,
     "Showed Up": 2175000.0,
     "Not Yet Ready": 7625000.0,
@@ -1680,9 +1684,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 54,
-      "leads_total": 148,
-      "opps_total": 109,
+      "leads_30d": 55,
+      "leads_total": 149,
+      "opps_total": 110,
       "opps_qualified": 1,
       "opps_won": 5
     },
