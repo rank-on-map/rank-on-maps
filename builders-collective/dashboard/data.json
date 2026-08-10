@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-08-10T03:16:45.631510+00:00",
+  "generated_at": "2026-08-10T03:47:09.648185+00:00",
   "totals": {
-    "total_leads": 595,
+    "total_leads": 596,
     "leads_30d": 227,
-    "total_opps": 389,
+    "total_opps": 397,
     "calls_booked": 57,
     "ppas_signed": 16,
-    "pipeline_value": 108203000
+    "pipeline_value": 110853000
   },
   "channels_30d": {
-    "Eligibility": 80,
+    "Other": 35,
+    "Eligibility": 79,
     "REA": 110,
-    "Other": 34,
     "Contact": 3
   },
   "channels_total": {
+    "Other": 95,
     "Eligibility": 126,
     "REA": 367,
-    "Other": 94,
     "Contact": 8
   },
   "stages": {
-    "New Lead": 142,
+    "New Lead": 150,
     "Lost": 131,
     "Showed Up": 9,
     "Booked": 24,
@@ -58,6 +58,14 @@
       [
         "bernie \u2014 REA",
         925000.0
+      ],
+      [
+        "Adam williams",
+        775000.0
+      ],
+      [
+        "Gowsi Manoharan",
+        775000.0
       ],
       [
         "Donna Pryor",
@@ -138,6 +146,10 @@
       [
         "Balamurugan Arumugam",
         775000.0
+      ],
+      [
+        "Alifiya Gandhi",
+        625000.0
       ],
       [
         "Sangeetha Manian",
@@ -256,6 +268,10 @@
         625000.0
       ],
       [
+        "Christopher Nicdao",
+        475000.0
+      ],
+      [
         "tina and shaun tink \u2014 REA",
         475000.0
       ],
@@ -266,6 +282,22 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Mohit Tyagi",
+        0.0
+      ],
+      [
+        "Christine Phoon",
+        0.0
+      ],
+      [
+        "Jeyakumar Tharmakulasingam",
+        0.0
+      ],
+      [
+        "Jeyakumar Tharmakulasingam 1",
+        0.0
       ],
       [
         "Braydon  Fidge",
@@ -1614,7 +1646,7 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 40750000.0,
+    "New Lead": 43400000.0,
     "Lost": 48850000.0,
     "Showed Up": 2175000.0,
     "Booked": 2475000.0,
@@ -1630,7 +1662,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 62,
+      "leads_30d": 61,
       "leads_total": 135,
       "opps_total": 100,
       "opps_qualified": 0,
@@ -1641,7 +1673,7 @@
       "initial": "A",
       "leads_30d": 38,
       "leads_total": 107,
-      "opps_total": 105,
+      "opps_total": 108,
       "opps_qualified": 0,
       "opps_won": 9
     },
@@ -1650,7 +1682,7 @@
       "initial": "H",
       "leads_30d": 54,
       "leads_total": 148,
-      "opps_total": 104,
+      "opps_total": 109,
       "opps_qualified": 1,
       "opps_won": 5
     },
