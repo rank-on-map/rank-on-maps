@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-10T05:18:09.106690+00:00",
+  "generated_at": "2026-08-10T05:48:28.841534+00:00",
   "totals": {
     "total_leads": 597,
     "leads_30d": 228,
     "total_opps": 397,
-    "calls_booked": 58,
+    "calls_booked": 59,
     "ppas_signed": 16,
     "pipeline_value": 110853000
   },
@@ -21,8 +21,8 @@
     "Contact": 8
   },
   "stages": {
-    "Booked": 25,
-    "New Lead": 149,
+    "Booked": 26,
+    "New Lead": 148,
     "Lost": 131,
     "Showed Up": 9,
     "Not Yet Ready": 38,
@@ -381,10 +381,6 @@
       ],
       [
         "Nicole  Bridger",
-        0.0
-      ],
-      [
-        "Geir Cuizon",
         0.0
       ],
       [
@@ -757,6 +753,10 @@
       ],
       [
         "Maya Sharpe",
+        0.0
+      ],
+      [
+        "Geir Cuizon",
         0.0
       ],
       [
