@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T01:45:39.716435+00:00",
+  "generated_at": "2026-08-10T02:16:02.782384+00:00",
   "totals": {
     "total_leads": 595,
     "leads_30d": 227,
@@ -21,8 +21,8 @@
     "Contact": 8
   },
   "stages": {
-    "New Lead": 143,
-    "Lost": 130,
+    "New Lead": 142,
+    "Lost": 131,
     "Showed Up": 9,
     "Booked": 24,
     "Not Yet Ready": 38,
@@ -289,10 +289,6 @@
       ],
       [
         "Annalise Theodorakis",
-        0.0
-      ],
-      [
-        "Clement Mathieux ",
         0.0
       ],
       [
@@ -1346,6 +1342,10 @@
       [
         "Shynae Otway",
         25000.0
+      ],
+      [
+        "Clement Mathieux ",
+        0.0
       ],
       [
         "Christine Richter",
