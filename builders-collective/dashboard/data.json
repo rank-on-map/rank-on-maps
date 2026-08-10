@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T06:18:48.783505+00:00",
+  "generated_at": "2026-08-10T06:49:08.204527+00:00",
   "totals": {
     "total_leads": 597,
     "leads_30d": 228,
@@ -22,8 +22,8 @@
   },
   "stages": {
     "Booked": 26,
-    "New Lead": 148,
-    "Lost": 131,
+    "New Lead": 146,
+    "Lost": 133,
     "Showed Up": 9,
     "Not Yet Ready": 38,
     "Nurturing": 21,
@@ -61,10 +61,6 @@
       ],
       [
         "Gowsi Manoharan",
-        775000.0
-      ],
-      [
-        "Donna Pryor",
         775000.0
       ],
       [
@@ -262,10 +258,6 @@
       [
         "fuatai williams \u2014 REA",
         625000.0
-      ],
-      [
-        "Christopher Nicdao",
-        475000.0
       ],
       [
         "tina and shaun tink \u2014 REA",
@@ -1184,6 +1176,10 @@
         925000.0
       ],
       [
+        "Donna Pryor",
+        775000.0
+      ],
+      [
         "Thida Aung",
         775000.0
       ],
@@ -1362,6 +1358,10 @@
       [
         "Sheenu Chitra",
         625000.0
+      ],
+      [
+        "Christopher Nicdao",
+        475000.0
       ],
       [
         "Sajin Ts",
@@ -1647,8 +1647,8 @@
   },
   "stage_pipeline_value": {
     "Booked": 3250000.0,
-    "New Lead": 42625000.0,
-    "Lost": 48850000.0,
+    "New Lead": 41375000.0,
+    "Lost": 50100000.0,
     "Showed Up": 2175000.0,
     "Not Yet Ready": 7625000.0,
     "Nurturing": 4650000.0,
