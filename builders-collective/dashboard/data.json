@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-11T07:24:40.190304+00:00",
+  "generated_at": "2026-08-11T07:55:01.438393+00:00",
   "totals": {
     "total_leads": 615,
     "leads_30d": 231,
     "total_opps": 409,
-    "calls_booked": 60,
+    "calls_booked": 61,
     "ppas_signed": 16,
     "pipeline_value": 110853000
   },
@@ -21,8 +21,8 @@
     "Contact": 8
   },
   "stages": {
-    "New Lead": 155,
-    "Booked": 26,
+    "New Lead": 154,
+    "Booked": 27,
     "Not Yet Ready": 39,
     "Lost": 134,
     "Showed Up": 9,
@@ -293,10 +293,6 @@
       ],
       [
         "Deanne  Terpstra ",
-        0.0
-      ],
-      [
-        "Cody Jayes",
         0.0
       ],
       [
@@ -761,6 +757,10 @@
       ],
       [
         "Pasquale Bambaci",
+        0.0
+      ],
+      [
+        "Cody Jayes",
         0.0
       ],
       [
