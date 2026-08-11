@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-11T06:23:57.995036+00:00",
+  "generated_at": "2026-08-11T06:54:18.998411+00:00",
   "totals": {
     "total_leads": 615,
     "leads_30d": 231,
     "total_opps": 409,
-    "calls_booked": 59,
+    "calls_booked": 60,
     "ppas_signed": 16,
     "pipeline_value": 110853000
   },
@@ -21,17 +21,17 @@
     "Contact": 8
   },
   "stages": {
-    "New Lead": 156,
-    "Not Yet Ready": 39,
+    "New Lead": 155,
     "Booked": 26,
+    "Not Yet Ready": 39,
     "Lost": 134,
     "Showed Up": 9,
+    "Qualified": 4,
     "Nurturing": 21,
     "Contract Review": 1,
     "Builder Shortlist Sent": 2,
     "Won \u2014 Build Confirmed": 16,
-    "Site Visit Scheduled": 2,
-    "Qualified": 3
+    "Site Visit Scheduled": 2
   },
   "stage_top_deals": {
     "New Lead": [
@@ -273,10 +273,6 @@
       ],
       [
         "Kira Webb",
-        0.0
-      ],
-      [
-        "Pasquale Bambaci",
         0.0
       ],
       [
@@ -764,6 +760,10 @@
         775000.0
       ],
       [
+        "Pasquale Bambaci",
+        0.0
+      ],
+      [
         "Leon Smith",
         0.0
       ],
@@ -777,10 +777,6 @@
       ],
       [
         "Jordan Bruce",
-        0.0
-      ],
-      [
-        "Manish Malla",
         0.0
       ],
       [
@@ -891,6 +887,10 @@
       ]
     ],
     "Qualified": [
+      [
+        "Manish Malla",
+        0.0
+      ],
       [
         "Zhen Loo",
         0.0
@@ -1695,16 +1695,16 @@
   },
   "stage_pipeline_value": {
     "New Lead": 41375000.0,
-    "Not Yet Ready": 7625000.0,
     "Booked": 3250000.0,
+    "Not Yet Ready": 7625000.0,
     "Lost": 50100000.0,
     "Showed Up": 2175000.0,
+    "Qualified": 0.0,
     "Nurturing": 4650000.0,
     "Contract Review": 625000.0,
     "Builder Shortlist Sent": 55000.0,
     "Won \u2014 Build Confirmed": 373000.0,
-    "Site Visit Scheduled": 625000.0,
-    "Qualified": 0.0
+    "Site Visit Scheduled": 625000.0
   },
   "per_rep": {
     "nNlkTC2z33NTPyxTxdE8": {
@@ -1740,7 +1740,7 @@
       "leads_30d": 59,
       "leads_total": 155,
       "opps_total": 82,
-      "opps_qualified": 2,
+      "opps_qualified": 3,
       "opps_won": 0
     }
   },
