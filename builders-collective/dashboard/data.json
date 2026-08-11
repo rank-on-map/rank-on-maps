@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T08:55:45.518027+00:00",
+  "generated_at": "2026-08-11T09:26:07.508026+00:00",
   "totals": {
     "total_leads": 615,
     "leads_30d": 231,
@@ -21,10 +21,10 @@
     "Contact": 8
   },
   "stages": {
-    "New Lead": 154,
+    "New Lead": 153,
     "Booked": 27,
     "Not Yet Ready": 39,
-    "Lost": 134,
+    "Lost": 135,
     "Showed Up": 9,
     "Qualified": 4,
     "Nurturing": 21,
@@ -329,10 +329,6 @@
       ],
       [
         "Stephen  Davies",
-        0.0
-      ],
-      [
-        "Vance Vu",
         0.0
       ],
       [
@@ -1418,6 +1414,10 @@
       [
         "Shynae Otway",
         25000.0
+      ],
+      [
+        "Vance Vu",
+        0.0
       ],
       [
         "Clement Mathieux ",
