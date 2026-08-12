@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-08-12T11:08:01.484090+00:00",
+  "generated_at": "2026-08-12T13:37:34.768666+00:00",
   "totals": {
-    "total_leads": 622,
-    "leads_30d": 229,
+    "total_leads": 624,
+    "leads_30d": 230,
     "total_opps": 417,
     "calls_booked": 63,
     "ppas_signed": 18,
     "pipeline_value": 111805000
   },
   "channels_30d": {
-    "Eligibility": 87,
-    "REA": 101,
-    "Other": 38,
+    "REA": 102,
+    "Eligibility": 88,
+    "Other": 37,
     "Contact": 3
   },
   "channels_total": {
-    "Eligibility": 141,
-    "REA": 374,
-    "Other": 99,
+    "REA": 376,
+    "Eligibility": 142,
+    "Other": 98,
     "Contact": 8
   },
   "stages": {
@@ -1748,7 +1748,7 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 40,
+      "leads_30d": 39,
       "leads_total": 111,
       "opps_total": 112,
       "opps_qualified": 0,
@@ -1757,8 +1757,8 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 58,
-      "leads_total": 157,
+      "leads_30d": 59,
+      "leads_total": 158,
       "opps_total": 115,
       "opps_qualified": 1,
       "opps_won": 6
@@ -1766,8 +1766,8 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 58,
-      "leads_total": 157,
+      "leads_30d": 59,
+      "leads_total": 158,
       "opps_total": 82,
       "opps_qualified": 3,
       "opps_won": 0
