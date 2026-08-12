@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T07:49:07.344023+00:00",
+  "generated_at": "2026-08-12T09:06:33.331464+00:00",
   "totals": {
     "total_leads": 620,
     "leads_30d": 229,
     "total_opps": 415,
     "calls_booked": 61,
-    "ppas_signed": 17,
-    "pipeline_value": 112403000
+    "ppas_signed": 18,
+    "pipeline_value": 111805000
   },
   "channels_30d": {
     "REA": 101,
@@ -21,16 +21,15 @@
     "Contact": 8
   },
   "stages": {
-    "Lost": 137,
-    "New Lead": 156,
-    "Booked": 26,
+    "Lost": 139,
+    "New Lead": 155,
     "Not Yet Ready": 40,
-    "Qualified": 6,
-    "Showed Up": 7,
-    "Nurturing": 21,
-    "Contract Review": 1,
+    "Booked": 24,
+    "Qualified": 7,
+    "Showed Up": 8,
+    "Nurturing": 20,
+    "Won \u2014 Build Confirmed": 18,
     "Builder Shortlist Sent": 2,
-    "Won \u2014 Build Confirmed": 17,
     "Site Visit Scheduled": 2
   },
   "stage_top_deals": {
@@ -292,6 +291,10 @@
         0.0
       ],
       [
+        "Pasquale Bambaci",
+        0.0
+      ],
+      [
         "Symonne Sykes",
         0.0
       ],
@@ -316,10 +319,6 @@
         0.0
       ],
       [
-        "Sam Ph",
-        0.0
-      ],
-      [
         "Mohit Tyagi",
         0.0
       ],
@@ -337,10 +336,6 @@
       ],
       [
         "Braydon  Fidge",
-        0.0
-      ],
-      [
-        "Stephen  Davies",
         0.0
       ],
       [
@@ -674,10 +669,6 @@
         775000.0
       ],
       [
-        "Hermann Kengwah Kinfer",
-        775000.0
-      ],
-      [
         "YORDANOS Tadese",
         625000.0
       ],
@@ -764,10 +755,6 @@
         775000.0
       ],
       [
-        "Pasquale Bambaci",
-        0.0
-      ],
-      [
         "Cody Jayes",
         0.0
       ],
@@ -777,10 +764,6 @@
       ],
       [
         "Simeon Omonze ",
-        0.0
-      ],
-      [
-        "Chris Jones",
         0.0
       ],
       [
@@ -854,6 +837,10 @@
     ],
     "Showed Up": [
       [
+        "Chris Jones",
+        0.0
+      ],
+      [
         "Jordan Bruce",
         0.0
       ],
@@ -892,6 +879,10 @@
         625000.0
       ],
       [
+        "Stephen  Davies",
+        0.0
+      ],
+      [
         "Manish Malla",
         0.0
       ],
@@ -928,12 +919,7 @@
         25000.0
       ]
     ],
-    "Contract Review": [
-      [
-        "Eric Mensah",
-        625000.0
-      ]
-    ],
+    "Contract Review": [],
     "Won \u2014 Build Confirmed": [
       [
         "Malak Aly",
@@ -946,6 +932,10 @@
       [
         "Junclar Curit",
         30000.0
+      ],
+      [
+        "Eric Mensah",
+        27000.0
       ],
       [
         "Brett Brownlow",
@@ -1352,6 +1342,10 @@
         775000.0
       ],
       [
+        "Hermann Kengwah Kinfer",
+        775000.0
+      ],
+      [
         "Tarlochan Singh Grewal",
         625000.0
       ],
@@ -1437,6 +1431,10 @@
       ],
       [
         "Sadiq Wafa",
+        0.0
+      ],
+      [
+        "Sam Ph",
         0.0
       ],
       [
@@ -1718,16 +1716,15 @@
     ]
   },
   "stage_pipeline_value": {
-    "Lost": 50875000.0,
+    "Lost": 51650000.0,
     "New Lead": 42150000.0,
-    "Booked": 3250000.0,
     "Not Yet Ready": 7625000.0,
+    "Booked": 3250000.0,
     "Qualified": 1400000.0,
     "Showed Up": 0.0,
-    "Nurturing": 4650000.0,
-    "Contract Review": 625000.0,
+    "Nurturing": 3875000.0,
+    "Won \u2014 Build Confirmed": 1175000.0,
     "Builder Shortlist Sent": 55000.0,
-    "Won \u2014 Build Confirmed": 1148000.0,
     "Site Visit Scheduled": 625000.0
   },
   "per_rep": {
@@ -1737,7 +1734,7 @@
       "leads_30d": 53,
       "leads_total": 138,
       "opps_total": 105,
-      "opps_qualified": 2,
+      "opps_qualified": 3,
       "opps_won": 2
     },
     "94SP86nEZ9qrsSTJB2Qe": {
@@ -1756,7 +1753,7 @@
       "leads_total": 156,
       "opps_total": 114,
       "opps_qualified": 1,
-      "opps_won": 5
+      "opps_won": 6
     },
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
