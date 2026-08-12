@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T02:04:23.381385+00:00",
+  "generated_at": "2026-08-12T02:34:45.965664+00:00",
   "totals": {
     "total_leads": 619,
     "leads_30d": 230,
@@ -21,8 +21,8 @@
     "Contact": 8
   },
   "stages": {
-    "Lost": 135,
-    "New Lead": 157,
+    "Lost": 136,
+    "New Lead": 156,
     "Booked": 27,
     "Not Yet Ready": 40,
     "Qualified": 7,
@@ -277,10 +277,6 @@
       ],
       [
         "Analie Salvacion",
-        0.0
-      ],
-      [
-        "Sadiq Wafa",
         0.0
       ],
       [
@@ -1442,6 +1438,10 @@
       [
         "Shynae Otway",
         25000.0
+      ],
+      [
+        "Sadiq Wafa",
+        0.0
       ],
       [
         "Vance Vu",
