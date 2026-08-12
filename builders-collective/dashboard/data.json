@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-08-12T02:34:45.965664+00:00",
+  "generated_at": "2026-08-12T04:16:33.215806+00:00",
   "totals": {
-    "total_leads": 619,
-    "leads_30d": 230,
+    "total_leads": 620,
+    "leads_30d": 231,
     "total_opps": 415,
-    "calls_booked": 62,
+    "calls_booked": 61,
     "ppas_signed": 17,
     "pipeline_value": 112403000
   },
   "channels_30d": {
+    "REA": 101,
     "Eligibility": 89,
-    "REA": 100,
     "Other": 38,
     "Contact": 3
   },
   "channels_total": {
+    "REA": 374,
     "Eligibility": 139,
-    "REA": 373,
     "Other": 99,
     "Contact": 8
   },
   "stages": {
-    "Lost": 136,
+    "Lost": 137,
     "New Lead": 156,
-    "Booked": 27,
+    "Booked": 26,
     "Not Yet Ready": 40,
-    "Qualified": 7,
+    "Qualified": 6,
+    "Showed Up": 7,
     "Nurturing": 21,
     "Contract Review": 1,
     "Builder Shortlist Sent": 2,
-    "Showed Up": 6,
     "Won \u2014 Build Confirmed": 17,
     "Site Visit Scheduled": 2
   },
@@ -784,10 +784,6 @@
         0.0
       ],
       [
-        "Jordan Bruce",
-        0.0
-      ],
-      [
         "Maya Sharpe",
         0.0
       ],
@@ -858,6 +854,10 @@
     ],
     "Showed Up": [
       [
+        "Jordan Bruce",
+        0.0
+      ],
+      [
         "Megan Kjellgren",
         0.0
       ],
@@ -890,10 +890,6 @@
       [
         "clement Mensah",
         625000.0
-      ],
-      [
-        "Clement Mathieux ",
-        0.0
       ],
       [
         "Manish Malla",
@@ -1448,6 +1444,10 @@
         0.0
       ],
       [
+        "Clement Mathieux ",
+        0.0
+      ],
+      [
         "Christine Richter",
         0.0
       ],
@@ -1723,10 +1723,10 @@
     "Booked": 3250000.0,
     "Not Yet Ready": 7625000.0,
     "Qualified": 1400000.0,
+    "Showed Up": 0.0,
     "Nurturing": 4650000.0,
     "Contract Review": 625000.0,
     "Builder Shortlist Sent": 55000.0,
-    "Showed Up": 0.0,
     "Won \u2014 Build Confirmed": 1148000.0,
     "Site Visit Scheduled": 625000.0
   },
@@ -1737,7 +1737,7 @@
       "leads_30d": 54,
       "leads_total": 138,
       "opps_total": 105,
-      "opps_qualified": 3,
+      "opps_qualified": 2,
       "opps_won": 2
     },
     "94SP86nEZ9qrsSTJB2Qe": {
@@ -1761,8 +1761,8 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 58,
-      "leads_total": 156,
+      "leads_30d": 59,
+      "leads_total": 157,
       "opps_total": 82,
       "opps_qualified": 3,
       "opps_won": 0
