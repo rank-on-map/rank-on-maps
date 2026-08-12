@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T01:33:57.876472+00:00",
+  "generated_at": "2026-08-12T02:04:23.381385+00:00",
   "totals": {
     "total_leads": 619,
     "leads_30d": 230,
-    "total_opps": 411,
-    "calls_booked": 61,
-    "ppas_signed": 16,
-    "pipeline_value": 110853000
+    "total_opps": 415,
+    "calls_booked": 62,
+    "ppas_signed": 17,
+    "pipeline_value": 112403000
   },
   "channels_30d": {
     "Eligibility": 89,
@@ -21,16 +21,16 @@
     "Contact": 8
   },
   "stages": {
-    "New Lead": 155,
-    "Booked": 27,
-    "Not Yet Ready": 39,
     "Lost": 135,
-    "Showed Up": 9,
-    "Qualified": 4,
+    "New Lead": 157,
+    "Booked": 27,
+    "Not Yet Ready": 40,
+    "Qualified": 7,
     "Nurturing": 21,
     "Contract Review": 1,
     "Builder Shortlist Sent": 2,
-    "Won \u2014 Build Confirmed": 16,
+    "Showed Up": 6,
+    "Won \u2014 Build Confirmed": 17,
     "Site Visit Scheduled": 2
   },
   "stage_top_deals": {
@@ -58,6 +58,10 @@
       [
         "bernie \u2014 REA",
         925000.0
+      ],
+      [
+        "Ric Bien Hipolito",
+        775000.0
       ],
       [
         "Gowsi Manoharan",
@@ -272,6 +276,14 @@
         325000.0
       ],
       [
+        "Analie Salvacion",
+        0.0
+      ],
+      [
+        "Sadiq Wafa",
+        0.0
+      ],
+      [
         "Nikita Goveas",
         0.0
       ],
@@ -281,10 +293,6 @@
       ],
       [
         "Kira Webb",
-        0.0
-      ],
-      [
-        "Partap Singh",
         0.0
       ],
       [
@@ -854,18 +862,6 @@
     ],
     "Showed Up": [
       [
-        "Nicholas Mentiplay",
-        775000.0
-      ],
-      [
-        "Malak Aly",
-        775000.0
-      ],
-      [
-        "clement Mensah",
-        625000.0
-      ],
-      [
         "Megan Kjellgren",
         0.0
       ],
@@ -891,6 +887,18 @@
       ]
     ],
     "Qualified": [
+      [
+        "Nicholas Mentiplay",
+        775000.0
+      ],
+      [
+        "clement Mensah",
+        625000.0
+      ],
+      [
+        "Clement Mathieux ",
+        0.0
+      ],
       [
         "Manish Malla",
         0.0
@@ -935,6 +943,10 @@
       ]
     ],
     "Won \u2014 Build Confirmed": [
+      [
+        "Malak Aly",
+        775000.0
+      ],
       [
         "Shannon Freeman",
         30000.0
@@ -1044,6 +1056,10 @@
       [
         "Andrew Tan",
         625000.0
+      ],
+      [
+        "Partap Singh",
+        0.0
       ],
       [
         "Adam Strongman",
@@ -1222,6 +1238,10 @@
       [
         "Divya patel",
         925000.0
+      ],
+      [
+        "Jimmy Foley",
+        775000.0
       ],
       [
         "Donna Pryor",
@@ -1425,10 +1445,6 @@
       ],
       [
         "Vance Vu",
-        0.0
-      ],
-      [
-        "Clement Mathieux ",
         0.0
       ],
       [
@@ -1702,16 +1718,16 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 41375000.0,
+    "Lost": 50875000.0,
+    "New Lead": 42150000.0,
     "Booked": 3250000.0,
     "Not Yet Ready": 7625000.0,
-    "Lost": 50100000.0,
-    "Showed Up": 2175000.0,
-    "Qualified": 0.0,
+    "Qualified": 1400000.0,
     "Nurturing": 4650000.0,
     "Contract Review": 625000.0,
     "Builder Shortlist Sent": 55000.0,
-    "Won \u2014 Build Confirmed": 373000.0,
+    "Showed Up": 0.0,
+    "Won \u2014 Build Confirmed": 1148000.0,
     "Site Visit Scheduled": 625000.0
   },
   "per_rep": {
@@ -1720,9 +1736,9 @@
       "initial": "D",
       "leads_30d": 54,
       "leads_total": 138,
-      "opps_total": 102,
-      "opps_qualified": 0,
-      "opps_won": 1
+      "opps_total": 105,
+      "opps_qualified": 3,
+      "opps_won": 2
     },
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
@@ -1738,7 +1754,7 @@
       "initial": "H",
       "leads_30d": 58,
       "leads_total": 156,
-      "opps_total": 113,
+      "opps_total": 114,
       "opps_qualified": 1,
       "opps_won": 5
     },
