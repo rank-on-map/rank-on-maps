@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-13T00:11:16.712273+00:00",
+  "generated_at": "2026-08-13T03:47:09.388875+00:00",
   "totals": {
     "total_leads": 625,
-    "leads_30d": 230,
+    "leads_30d": 228,
     "total_opps": 418,
-    "calls_booked": 63,
+    "calls_booked": 64,
     "ppas_signed": 18,
     "pipeline_value": 111805000
   },
   "channels_30d": {
-    "Eligibility": 88,
-    "REA": 102,
+    "Eligibility": 87,
+    "REA": 101,
     "Other": 37,
     "Contact": 3
   },
@@ -21,9 +21,9 @@
     "Contact": 8
   },
   "stages": {
-    "New Lead": 155,
-    "Lost": 139,
-    "Booked": 24,
+    "Booked": 25,
+    "New Lead": 153,
+    "Lost": 140,
     "Not Yet Ready": 41,
     "Showed Up": 10,
     "Qualified": 7,
@@ -57,10 +57,6 @@
       [
         "bernie \u2014 REA",
         925000.0
-      ],
-      [
-        "Ric Bien Hipolito",
-        775000.0
       ],
       [
         "Gowsi Manoharan",
@@ -273,10 +269,6 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
-      ],
-      [
-        "Declan  Kendrick ",
-        0.0
       ],
       [
         "Ashley Eldon",
@@ -753,6 +745,10 @@
       [
         "Nassa Atekhis",
         775000.0
+      ],
+      [
+        "Declan  Kendrick ",
+        0.0
       ],
       [
         "Nikita Goveas",
@@ -1235,6 +1231,10 @@
       ],
       [
         "Jimmy Foley",
+        775000.0
+      ],
+      [
+        "Ric Bien Hipolito",
         775000.0
       ],
       [
@@ -1728,9 +1728,9 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 42150000.0,
-    "Lost": 51650000.0,
     "Booked": 3250000.0,
+    "New Lead": 41375000.0,
+    "Lost": 52425000.0,
     "Not Yet Ready": 7625000.0,
     "Showed Up": 0.0,
     "Qualified": 1400000.0,
@@ -1761,7 +1761,7 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 59,
+      "leads_30d": 58,
       "leads_total": 158,
       "opps_total": 115,
       "opps_qualified": 1,
@@ -1770,7 +1770,7 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 60,
+      "leads_30d": 59,
       "leads_total": 159,
       "opps_total": 83,
       "opps_qualified": 3,
