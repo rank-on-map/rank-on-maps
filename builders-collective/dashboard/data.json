@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-08-14T04:58:19.465299+00:00",
+  "generated_at": "2026-08-14T07:31:57.523214+00:00",
   "totals": {
-    "total_leads": 629,
-    "leads_30d": 223,
-    "total_opps": 420,
+    "total_leads": 631,
+    "leads_30d": 225,
+    "total_opps": 421,
     "calls_booked": 64,
-    "ppas_signed": 18,
+    "ppas_signed": 19,
     "pipeline_value": 111805000
   },
   "channels_30d": {
+    "REA": 101,
+    "Other": 36,
     "Eligibility": 85,
-    "REA": 100,
-    "Other": 35,
     "Contact": 3
   },
   "channels_total": {
+    "REA": 379,
+    "Other": 99,
     "Eligibility": 145,
-    "REA": 378,
-    "Other": 98,
     "Contact": 8
   },
   "stages": {
+    "Booked": 26,
     "New Lead": 155,
-    "Booked": 25,
-    "Lost": 140,
+    "Lost": 141,
     "Not Yet Ready": 41,
-    "Showed Up": 10,
+    "Showed Up": 9,
     "Qualified": 7,
     "Nurturing": 20,
-    "Won \u2014 Build Confirmed": 18,
-    "Builder Shortlist Sent": 2,
+    "Won \u2014 Build Confirmed": 19,
+    "Builder Shortlist Sent": 1,
     "Site Visit Scheduled": 2
   },
   "stage_top_deals": {
@@ -755,6 +755,10 @@
         775000.0
       ],
       [
+        "Hayden Wood",
+        0.0
+      ],
+      [
         "Declan  Kendrick ",
         0.0
       ],
@@ -869,10 +873,6 @@
         0.0
       ],
       [
-        "Scott",
-        0.0
-      ],
-      [
         "Tharindi Fernando",
         0.0
       ],
@@ -925,10 +925,6 @@
       [
         "Philip Mensah",
         30000.0
-      ],
-      [
-        "Brenton Engelbrecht",
-        25000.0
       ]
     ],
     "Contract Review": [],
@@ -948,6 +944,10 @@
       [
         "Eric Mensah",
         27000.0
+      ],
+      [
+        "Brenton Engelbrecht",
+        25000.0
       ],
       [
         "Brett Brownlow",
@@ -1598,6 +1598,10 @@
         0.0
       ],
       [
+        "Scott",
+        0.0
+      ],
+      [
         "Sarah Boustead",
         0.0
       ],
@@ -1736,15 +1740,15 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 41375000.0,
     "Booked": 3250000.0,
+    "New Lead": 41375000.0,
     "Lost": 52425000.0,
     "Not Yet Ready": 7625000.0,
     "Showed Up": 0.0,
     "Qualified": 1400000.0,
     "Nurturing": 3875000.0,
-    "Won \u2014 Build Confirmed": 1175000.0,
-    "Builder Shortlist Sent": 55000.0,
+    "Won \u2014 Build Confirmed": 1200000.0,
+    "Builder Shortlist Sent": 30000.0,
     "Site Visit Scheduled": 625000.0
   },
   "per_rep": {
@@ -1762,15 +1766,15 @@
       "initial": "A",
       "leads_30d": 39,
       "leads_total": 112,
-      "opps_total": 113,
+      "opps_total": 114,
       "opps_qualified": 0,
-      "opps_won": 9
+      "opps_won": 10
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 57,
-      "leads_total": 158,
+      "leads_30d": 58,
+      "leads_total": 159,
       "opps_total": 115,
       "opps_qualified": 1,
       "opps_won": 6
