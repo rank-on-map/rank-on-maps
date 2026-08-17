@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-17T03:36:45.600623+00:00",
+  "generated_at": "2026-08-17T04:40:55.659247+00:00",
   "totals": {
     "total_leads": 655,
     "leads_30d": 225,
     "total_opps": 429,
-    "calls_booked": 65,
+    "calls_booked": 67,
     "ppas_signed": 19,
     "pipeline_value": 111805000
   },
@@ -21,9 +21,9 @@
     "Contact": 8
   },
   "stages": {
-    "New Lead": 161,
+    "New Lead": 159,
     "Lost": 142,
-    "Booked": 26,
+    "Booked": 28,
     "Qualified": 8,
     "Not Yet Ready": 41,
     "Showed Up": 9,
@@ -323,10 +323,6 @@
         0.0
       ],
       [
-        "Pasquale Bambaci",
-        0.0
-      ],
-      [
         "Symonne Sykes",
         0.0
       ],
@@ -344,10 +340,6 @@
       ],
       [
         "Bob Bobby",
-        0.0
-      ],
-      [
-        "Jess  Buck ",
         0.0
       ],
       [
@@ -788,6 +780,14 @@
       ],
       [
         "Nikita Goveas",
+        0.0
+      ],
+      [
+        "Pasquale Bambaci",
+        0.0
+      ],
+      [
+        "Jess  Buck ",
         0.0
       ],
       [
