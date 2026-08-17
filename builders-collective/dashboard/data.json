@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-17T01:56:46.162045+00:00",
+  "generated_at": "2026-08-17T02:45:52.279099+00:00",
   "totals": {
     "total_leads": 655,
     "leads_30d": 225,
     "total_opps": 429,
-    "calls_booked": 64,
+    "calls_booked": 65,
     "ppas_signed": 19,
     "pipeline_value": 111805000
   },
@@ -21,12 +21,12 @@
     "Contact": 8
   },
   "stages": {
-    "New Lead": 163,
+    "New Lead": 161,
+    "Lost": 142,
     "Booked": 26,
-    "Lost": 141,
+    "Qualified": 8,
     "Not Yet Ready": 41,
     "Showed Up": 9,
-    "Qualified": 7,
     "Nurturing": 20,
     "Won \u2014 Build Confirmed": 19,
     "Builder Shortlist Sent": 1,
@@ -287,10 +287,6 @@
         0.0
       ],
       [
-        "Carmel Morgan",
-        0.0
-      ],
-      [
         "Bronson Scanlan ",
         0.0
       ],
@@ -300,10 +296,6 @@
       ],
       [
         "Sharaine Howson",
-        0.0
-      ],
-      [
-        "Andrea Chin",
         0.0
       ],
       [
@@ -923,6 +915,10 @@
         625000.0
       ],
       [
+        "Andrea Chin",
+        0.0
+      ],
+      [
         "Stephen  Davies",
         0.0
       ],
@@ -1482,6 +1478,10 @@
         25000.0
       ],
       [
+        "Carmel Morgan",
+        0.0
+      ],
+      [
         "Sadiq Wafa",
         0.0
       ],
@@ -1773,11 +1773,11 @@
   },
   "stage_pipeline_value": {
     "New Lead": 41375000.0,
-    "Booked": 3250000.0,
     "Lost": 52425000.0,
+    "Booked": 3250000.0,
+    "Qualified": 1400000.0,
     "Not Yet Ready": 7625000.0,
     "Showed Up": 0.0,
-    "Qualified": 1400000.0,
     "Nurturing": 3875000.0,
     "Won \u2014 Build Confirmed": 1200000.0,
     "Builder Shortlist Sent": 30000.0,
@@ -1790,7 +1790,7 @@
       "leads_30d": 49,
       "leads_total": 146,
       "opps_total": 109,
-      "opps_qualified": 3,
+      "opps_qualified": 4,
       "opps_won": 2
     },
     "94SP86nEZ9qrsSTJB2Qe": {
