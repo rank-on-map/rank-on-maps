@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-17T06:39:39.766234+00:00",
+  "generated_at": "2026-08-17T08:30:11.089322+00:00",
   "totals": {
-    "total_leads": 655,
+    "total_leads": 656,
     "leads_30d": 224,
-    "total_opps": 431,
+    "total_opps": 432,
     "calls_booked": 67,
     "ppas_signed": 19,
     "pipeline_value": 113055000
   },
   "channels_30d": {
-    "REA": 106,
-    "Other": 33,
+    "Other": 34,
+    "REA": 105,
     "Eligibility": 82,
     "Contact": 3
   },
   "channels_total": {
+    "Other": 101,
     "REA": 394,
-    "Other": 100,
     "Eligibility": 153,
     "Contact": 8
   },
   "stages": {
-    "New Lead": 161,
-    "Lost": 142,
-    "Booked": 28,
+    "Booked": 29,
+    "New Lead": 151,
+    "Lost": 153,
     "Qualified": 8,
     "Not Yet Ready": 41,
-    "Showed Up": 9,
+    "Showed Up": 8,
     "Nurturing": 20,
     "Won \u2014 Build Confirmed": 19,
     "Builder Shortlist Sent": 1,
@@ -34,10 +34,6 @@
   },
   "stage_top_deals": {
     "New Lead": [
-      [
-        "Adam Haller",
-        1225000.0
-      ],
       [
         "Arron Mc Kenna",
         925000.0
@@ -64,10 +60,6 @@
       ],
       [
         "Gowsi Manoharan",
-        775000.0
-      ],
-      [
-        "Miriam Igasan",
         775000.0
       ],
       [
@@ -295,10 +287,6 @@
         0.0
       ],
       [
-        "Bronson Scanlan ",
-        0.0
-      ],
-      [
         "Jane Mathews",
         0.0
       ],
@@ -383,23 +371,11 @@
         0.0
       ],
       [
-        "Angelina Steele",
-        0.0
-      ],
-      [
         "Michael Rozic",
         0.0
       ],
       [
         "Jesse Grant",
-        0.0
-      ],
-      [
-        "Kevin Loreto",
-        0.0
-      ],
-      [
-        "Megan Crossley",
         0.0
       ],
       [
@@ -420,10 +396,6 @@
       ],
       [
         "Lucas  Glass",
-        0.0
-      ],
-      [
-        "Michelle Walker",
         0.0
       ],
       [
@@ -491,10 +463,6 @@
         0.0
       ],
       [
-        "Subin Wright-Simon",
-        0.0
-      ],
-      [
         "Miki Trbojevich",
         0.0
       ],
@@ -555,10 +523,6 @@
         0.0
       ],
       [
-        "Thomas Waratini",
-        0.0
-      ],
-      [
         "Morgan  Fromant",
         0.0
       ],
@@ -592,10 +556,6 @@
       ],
       [
         "Lance Williams",
-        0.0
-      ],
-      [
-        "Genevieve Iones",
         0.0
       ],
       [
@@ -779,6 +739,10 @@
         775000.0
       ],
       [
+        "Tiffany Christopher",
+        0.0
+      ],
+      [
         "Hayden Wood",
         0.0
       ],
@@ -894,10 +858,6 @@
       ],
       [
         "Sway Smith",
-        0.0
-      ],
-      [
-        "Karim Elgawady",
         0.0
       ],
       [
@@ -1214,6 +1174,10 @@
         1225000.0
       ],
       [
+        "Adam Haller",
+        1225000.0
+      ],
+      [
         "Sanja Maric",
         1075000.0
       ],
@@ -1283,6 +1247,10 @@
       ],
       [
         "Donna Pryor",
+        775000.0
+      ],
+      [
+        "Miriam Igasan",
         775000.0
       ],
       [
@@ -1490,6 +1458,10 @@
         0.0
       ],
       [
+        "Bronson Scanlan ",
+        0.0
+      ],
+      [
         "Sadiq Wafa",
         0.0
       ],
@@ -1506,6 +1478,10 @@
         0.0
       ],
       [
+        "Angelina Steele",
+        0.0
+      ],
+      [
         "Christine Richter",
         0.0
       ],
@@ -1514,7 +1490,15 @@
         0.0
       ],
       [
+        "Kevin Loreto",
+        0.0
+      ],
+      [
         "Nicole Murazvu",
+        0.0
+      ],
+      [
+        "Megan Crossley",
         0.0
       ],
       [
@@ -1523,6 +1507,10 @@
       ],
       [
         "Lauren Athanasoff",
+        0.0
+      ],
+      [
+        "Michelle Walker",
         0.0
       ],
       [
@@ -1562,6 +1550,10 @@
         0.0
       ],
       [
+        "Subin Wright-Simon",
+        0.0
+      ],
+      [
         "Michael Khan",
         0.0
       ],
@@ -1594,6 +1586,10 @@
         0.0
       ],
       [
+        "Karim Elgawady",
+        0.0
+      ],
+      [
         "Matthew Wynne",
         0.0
       ],
@@ -1615,6 +1611,10 @@
       ],
       [
         "Enayat Mousavi",
+        0.0
+      ],
+      [
+        "Thomas Waratini",
         0.0
       ],
       [
@@ -1647,6 +1647,10 @@
       ],
       [
         "Usama Riaz",
+        0.0
+      ],
+      [
+        "Genevieve Iones",
         0.0
       ],
       [
@@ -1780,9 +1784,9 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 42625000.0,
-    "Lost": 52425000.0,
     "Booked": 3250000.0,
+    "New Lead": 40625000.0,
+    "Lost": 54425000.0,
     "Qualified": 1400000.0,
     "Not Yet Ready": 7625000.0,
     "Showed Up": 0.0,
@@ -1806,14 +1810,14 @@
       "initial": "A",
       "leads_30d": 38,
       "leads_total": 116,
-      "opps_total": 118,
+      "opps_total": 119,
       "opps_qualified": 0,
       "opps_won": 10
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 61,
+      "leads_30d": 60,
       "leads_total": 165,
       "opps_total": 117,
       "opps_qualified": 1,
