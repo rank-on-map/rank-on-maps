@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-17T04:40:55.659247+00:00",
+  "generated_at": "2026-08-17T06:39:39.766234+00:00",
   "totals": {
     "total_leads": 655,
-    "leads_30d": 225,
-    "total_opps": 429,
+    "leads_30d": 224,
+    "total_opps": 431,
     "calls_booked": 67,
     "ppas_signed": 19,
-    "pipeline_value": 111805000
+    "pipeline_value": 113055000
   },
   "channels_30d": {
     "REA": 106,
     "Other": 33,
-    "Eligibility": 83,
+    "Eligibility": 82,
     "Contact": 3
   },
   "channels_total": {
@@ -21,7 +21,7 @@
     "Contact": 8
   },
   "stages": {
-    "New Lead": 159,
+    "New Lead": 161,
     "Lost": 142,
     "Booked": 28,
     "Qualified": 8,
@@ -37,6 +37,10 @@
       [
         "Adam Haller",
         1225000.0
+      ],
+      [
+        "Arron Mc Kenna",
+        925000.0
       ],
       [
         "Nathalya Kennedy",
@@ -265,6 +269,10 @@
       [
         "sana aziz \u2014 REA",
         475000.0
+      ],
+      [
+        "Toni Zwicker",
+        325000.0
       ],
       [
         "shiju naroth \u2014 REA",
@@ -1772,7 +1780,7 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 41375000.0,
+    "New Lead": 42625000.0,
     "Lost": 52425000.0,
     "Booked": 3250000.0,
     "Qualified": 1400000.0,
@@ -1796,9 +1804,9 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 39,
+      "leads_30d": 38,
       "leads_total": 116,
-      "opps_total": 116,
+      "opps_total": 118,
       "opps_qualified": 0,
       "opps_won": 10
     },
