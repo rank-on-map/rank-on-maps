@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-18T09:38:47.040993+00:00",
+  "generated_at": "2026-08-18T10:09:14.127697+00:00",
   "totals": {
     "total_leads": 667,
     "leads_30d": 228,
     "total_opps": 436,
-    "calls_booked": 67,
+    "calls_booked": 68,
     "ppas_signed": 19,
     "pipeline_value": 114755000
   },
@@ -21,9 +21,9 @@
     "Contact": 9
   },
   "stages": {
-    "New Lead": 153,
+    "New Lead": 152,
     "Lost": 155,
-    "Booked": 29,
+    "Booked": 30,
     "Qualified": 8,
     "Not Yet Ready": 41,
     "Showed Up": 8,
@@ -284,10 +284,6 @@
       ],
       [
         "Diethard Lewin",
-        0.0
-      ],
-      [
-        "Katerina De Battista ",
         0.0
       ],
       [
@@ -748,6 +744,10 @@
       ],
       [
         "Tiffany Christopher",
+        0.0
+      ],
+      [
+        "Katerina De Battista ",
         0.0
       ],
       [
