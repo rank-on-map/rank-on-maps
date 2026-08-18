@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T02:03:01.309163+00:00",
+  "generated_at": "2026-08-18T02:33:23.641728+00:00",
   "totals": {
     "total_leads": 663,
     "leads_30d": 228,
@@ -17,8 +17,8 @@
   "channels_total": {
     "REA": 400,
     "Eligibility": 154,
-    "Other": 101,
-    "Contact": 8
+    "Other": 100,
+    "Contact": 9
   },
   "stages": {
     "New Lead": 152,
