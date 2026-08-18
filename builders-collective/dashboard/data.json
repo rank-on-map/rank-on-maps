@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-08-18T07:37:11.505045+00:00",
+  "generated_at": "2026-08-18T08:07:36.956751+00:00",
   "totals": {
-    "total_leads": 665,
+    "total_leads": 666,
     "leads_30d": 228,
-    "total_opps": 433,
+    "total_opps": 436,
     "calls_booked": 67,
     "ppas_signed": 19,
-    "pipeline_value": 113055000
+    "pipeline_value": 114755000
   },
   "channels_30d": {
-    "REA": 112,
-    "Eligibility": 79,
+    "REA": 113,
+    "Eligibility": 78,
     "Other": 34,
     "Contact": 3
   },
   "channels_total": {
-    "REA": 402,
+    "REA": 403,
     "Eligibility": 154,
     "Other": 100,
     "Contact": 9
   },
   "stages": {
-    "New Lead": 152,
+    "New Lead": 155,
     "Booked": 29,
     "Lost": 153,
     "Qualified": 8,
@@ -34,6 +34,10 @@
   },
   "stage_top_deals": {
     "New Lead": [
+      [
+        "nishant patel",
+        925000.0
+      ],
       [
         "Arron Mc Kenna",
         925000.0
@@ -57,6 +61,10 @@
       [
         "bernie \u2014 REA",
         925000.0
+      ],
+      [
+        "Narayanan Kannan",
+        775000.0
       ],
       [
         "Gowsi Manoharan",
@@ -269,6 +277,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "PREETHY TITTU",
+        0.0
       ],
       [
         "Zohaib  Shan",
@@ -1788,7 +1800,7 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 40625000.0,
+    "New Lead": 42325000.0,
     "Booked": 3250000.0,
     "Lost": 54425000.0,
     "Qualified": 1400000.0,
@@ -1804,7 +1816,7 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 50,
-      "leads_total": 148,
+      "leads_total": 149,
       "opps_total": 110,
       "opps_qualified": 4,
       "opps_won": 2
@@ -1814,7 +1826,7 @@
       "initial": "A",
       "leads_30d": 40,
       "leads_total": 119,
-      "opps_total": 119,
+      "opps_total": 122,
       "opps_qualified": 0,
       "opps_won": 10
     },
