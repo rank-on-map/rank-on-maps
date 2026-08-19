@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-19T00:20:57.879765+00:00",
+  "generated_at": "2026-08-19T03:58:01.157571+00:00",
   "totals": {
     "total_leads": 672,
-    "leads_30d": 232,
+    "leads_30d": 230,
     "total_opps": 436,
-    "calls_booked": 68,
+    "calls_booked": 67,
     "ppas_signed": 19,
     "pipeline_value": 114755000
   },
   "channels_30d": {
     "REA": 119,
-    "Eligibility": 76,
-    "Other": 34,
+    "Eligibility": 75,
+    "Other": 33,
     "Contact": 3
   },
   "channels_total": {
@@ -25,8 +25,8 @@
     "Lost": 155,
     "Booked": 30,
     "Qualified": 8,
-    "Not Yet Ready": 41,
-    "Showed Up": 8,
+    "Not Yet Ready": 42,
+    "Showed Up": 7,
     "Nurturing": 20,
     "Won \u2014 Build Confirmed": 19,
     "Builder Shortlist Sent": 1,
@@ -865,10 +865,6 @@
         0.0
       ],
       [
-        "Sway Smith",
-        0.0
-      ],
-      [
         "Sean Coffey",
         0.0
       ],
@@ -1089,6 +1085,10 @@
       ],
       [
         "Tylar Fermandez",
+        0.0
+      ],
+      [
+        "Sway Smith",
         0.0
       ],
       [
@@ -1815,7 +1815,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 51,
+      "leads_30d": 50,
       "leads_total": 151,
       "opps_total": 110,
       "opps_qualified": 4,
@@ -1833,7 +1833,7 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 59,
+      "leads_30d": 58,
       "leads_total": 166,
       "opps_total": 117,
       "opps_qualified": 1,
