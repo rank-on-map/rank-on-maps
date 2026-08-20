@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-20T02:47:37.610397+00:00",
+  "generated_at": "2026-08-20T03:18:01.431633+00:00",
   "totals": {
     "total_leads": 678,
     "leads_30d": 219,
     "total_opps": 440,
-    "calls_booked": 65,
+    "calls_booked": 66,
     "ppas_signed": 19,
     "pipeline_value": 114755000
   },
@@ -21,9 +21,9 @@
     "Contact": 9
   },
   "stages": {
-    "New Lead": 155,
+    "New Lead": 154,
     "Lost": 159,
-    "Booked": 28,
+    "Booked": 29,
     "Qualified": 8,
     "Not Yet Ready": 42,
     "Showed Up": 7,
@@ -300,10 +300,6 @@
       ],
       [
         "Jane Mathews",
-        0.0
-      ],
-      [
-        "Sharaine Howson",
         0.0
       ],
       [
@@ -756,6 +752,10 @@
       ],
       [
         "Katerina De Battista ",
+        0.0
+      ],
+      [
+        "Sharaine Howson",
         0.0
       ],
       [
