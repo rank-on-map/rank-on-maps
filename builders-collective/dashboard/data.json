@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-08-22T09:41:25.570746+00:00",
+  "generated_at": "2026-08-22T10:17:28.757631+00:00",
   "totals": {
-    "total_leads": 701,
-    "leads_30d": 227,
-    "total_opps": 451,
+    "total_leads": 703,
+    "leads_30d": 229,
+    "total_opps": 452,
     "calls_booked": 65,
     "ppas_signed": 19,
     "pipeline_value": 114755000
   },
   "channels_30d": {
-    "REA": 117,
+    "REA": 118,
+    "Contact": 4,
     "Eligibility": 79,
-    "Other": 28,
-    "Contact": 3
+    "Other": 28
   },
   "channels_total": {
-    "REA": 420,
+    "REA": 421,
+    "Contact": 10,
     "Eligibility": 169,
-    "Other": 103,
-    "Contact": 9
+    "Other": 103
   },
   "stages": {
-    "New Lead": 162,
+    "New Lead": 163,
     "Lost": 161,
     "Booked": 29,
     "Qualified": 5,
@@ -269,6 +269,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Jane Wanjiru",
+        0.0
       ],
       [
         "Simon Watts",
@@ -1875,17 +1879,17 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 44,
-      "leads_total": 153,
-      "opps_total": 112,
+      "leads_30d": 45,
+      "leads_total": 154,
+      "opps_total": 113,
       "opps_qualified": 1,
       "opps_won": 2
     },
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 40,
-      "leads_total": 125,
+      "leads_30d": 41,
+      "leads_total": 126,
       "opps_total": 126,
       "opps_qualified": 0,
       "opps_won": 10
