@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T05:20:43.117484+00:00",
+  "generated_at": "2026-08-24T05:57:19.712104+00:00",
   "totals": {
     "total_leads": 714,
     "leads_30d": 219,
-    "total_opps": 452,
+    "total_opps": 457,
     "calls_booked": 65,
     "ppas_signed": 19,
-    "pipeline_value": 114755000
+    "pipeline_value": 118305000
   },
   "channels_30d": {
     "REA": 119,
@@ -21,19 +21,27 @@
     "Eligibility": 169
   },
   "stages": {
-    "New Lead": 163,
+    "New Lead": 167,
+    "Not Yet Ready": 45,
     "Lost": 161,
-    "Booked": 29,
+    "Booked": 26,
+    "Builder Shortlist Sent": 2,
     "Qualified": 5,
-    "Not Yet Ready": 44,
-    "Showed Up": 7,
+    "Showed Up": 9,
     "Site Visit Scheduled": 4,
     "Nurturing": 19,
-    "Won \u2014 Build Confirmed": 19,
-    "Builder Shortlist Sent": 1
+    "Won \u2014 Build Confirmed": 19
   },
   "stage_top_deals": {
     "New Lead": [
+      [
+        "Denny Uneputty",
+        1075000.0
+      ],
+      [
+        "Monisha Monisha",
+        925000.0
+      ],
       [
         "nishant patel",
         925000.0
@@ -61,6 +69,14 @@
       [
         "bernie \u2014 REA",
         925000.0
+      ],
+      [
+        "Manny Vekaria",
+        775000.0
+      ],
+      [
+        "pranjal Patel",
+        775000.0
       ],
       [
         "Gowsi Manoharan",
@@ -271,6 +287,10 @@
         325000.0
       ],
       [
+        "Arezo Sharifi",
+        0.0
+      ],
+      [
         "Jane Wanjiru",
         0.0
       ],
@@ -300,10 +320,6 @@
       ],
       [
         "Grace Quach",
-        0.0
-      ],
-      [
-        "Jaiden Barker",
         0.0
       ],
       [
@@ -787,10 +803,6 @@
         0.0
       ],
       [
-        "Katerina De Battista ",
-        0.0
-      ],
-      [
         "Sharaine Howson",
         0.0
       ],
@@ -807,10 +819,6 @@
         0.0
       ],
       [
-        "Jess  Buck ",
-        0.0
-      ],
-      [
         "Leon Smith",
         0.0
       ],
@@ -824,10 +832,6 @@
       ],
       [
         "William Moir",
-        0.0
-      ],
-      [
-        "Noura Hamza",
         0.0
       ],
       [
@@ -889,6 +893,10 @@
         0.0
       ],
       [
+        "Jess  Buck ",
+        0.0
+      ],
+      [
         "Chris Jones",
         0.0
       ],
@@ -898,6 +906,10 @@
       ],
       [
         "Megan Kjellgren",
+        0.0
+      ],
+      [
+        "Noura Hamza",
         0.0
       ],
       [
@@ -957,6 +969,10 @@
       [
         "Philip Mensah",
         30000.0
+      ],
+      [
+        "Katerina De Battista ",
+        0.0
       ]
     ],
     "Contract Review": [],
@@ -1082,6 +1098,10 @@
       [
         "Andrew Tan",
         625000.0
+      ],
+      [
+        "Jaiden Barker",
+        0.0
       ],
       [
         "Devon Smith",
@@ -1864,16 +1884,16 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 41225000.0,
+    "New Lead": 44775000.0,
+    "Not Yet Ready": 7625000.0,
     "Lost": 55525000.0,
     "Booked": 3250000.0,
+    "Builder Shortlist Sent": 30000.0,
     "Qualified": 0.0,
-    "Not Yet Ready": 7625000.0,
     "Showed Up": 0.0,
     "Site Visit Scheduled": 2025000.0,
     "Nurturing": 3875000.0,
-    "Won \u2014 Build Confirmed": 1200000.0,
-    "Builder Shortlist Sent": 30000.0
+    "Won \u2014 Build Confirmed": 1200000.0
   },
   "per_rep": {
     "nNlkTC2z33NTPyxTxdE8": {
@@ -1890,7 +1910,7 @@
       "initial": "A",
       "leads_30d": 38,
       "leads_total": 127,
-      "opps_total": 126,
+      "opps_total": 131,
       "opps_qualified": 0,
       "opps_won": 10
     },
