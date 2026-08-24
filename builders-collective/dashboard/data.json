@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-24T07:53:01.849549+00:00",
+  "generated_at": "2026-08-24T08:23:26.338661+00:00",
   "totals": {
     "total_leads": 714,
     "leads_30d": 217,
     "total_opps": 457,
-    "calls_booked": 65,
+    "calls_booked": 63,
     "ppas_signed": 19,
     "pipeline_value": 118305000
   },
@@ -21,15 +21,15 @@
     "Eligibility": 169
   },
   "stages": {
-    "New Lead": 167,
+    "New Lead": 166,
     "Not Yet Ready": 45,
-    "Lost": 161,
-    "Booked": 26,
+    "Lost": 163,
+    "Nurturing": 20,
     "Builder Shortlist Sent": 2,
-    "Qualified": 5,
+    "Booked": 24,
     "Showed Up": 9,
+    "Qualified": 5,
     "Site Visit Scheduled": 4,
-    "Nurturing": 19,
     "Won \u2014 Build Confirmed": 19
   },
   "stage_top_deals": {
@@ -623,10 +623,6 @@
         0.0
       ],
       [
-        "Sitti Salwah B Sinwan",
-        0.0
-      ],
-      [
         "Melissa Lewis",
         0.0
       ],
@@ -725,6 +721,14 @@
         625000.0
       ],
       [
+        "Cathy Chau",
+        0.0
+      ],
+      [
+        "Cody Jayes",
+        0.0
+      ],
+      [
         "Prabesh Khatri",
         0.0
       ],
@@ -758,10 +762,6 @@
       ],
       [
         "Hanna Zurub",
-        0.0
-      ],
-      [
-        "Emma James",
         0.0
       ],
       [
@@ -799,15 +799,7 @@
         775000.0
       ],
       [
-        "Cathy Chau",
-        0.0
-      ],
-      [
         "Sharaine Howson",
-        0.0
-      ],
-      [
-        "Hayden Wood",
         0.0
       ],
       [
@@ -889,7 +881,7 @@
     ],
     "Showed Up": [
       [
-        "Cody Jayes",
+        "Hayden Wood",
         0.0
       ],
       [
@@ -1754,6 +1746,10 @@
         0.0
       ],
       [
+        "Sitti Salwah B Sinwan",
+        0.0
+      ],
+      [
         "Maria Farano",
         0.0
       ],
@@ -1767,6 +1763,10 @@
       ],
       [
         "Alicia Sorgiovanni",
+        0.0
+      ],
+      [
+        "Emma James",
         0.0
       ],
       [
@@ -1887,12 +1887,12 @@
     "New Lead": 44775000.0,
     "Not Yet Ready": 7625000.0,
     "Lost": 55525000.0,
-    "Booked": 3250000.0,
-    "Builder Shortlist Sent": 30000.0,
-    "Qualified": 0.0,
-    "Showed Up": 0.0,
-    "Site Visit Scheduled": 2025000.0,
     "Nurturing": 3875000.0,
+    "Builder Shortlist Sent": 30000.0,
+    "Booked": 3250000.0,
+    "Showed Up": 0.0,
+    "Qualified": 0.0,
+    "Site Visit Scheduled": 2025000.0,
     "Won \u2014 Build Confirmed": 1200000.0
   },
   "per_rep": {
