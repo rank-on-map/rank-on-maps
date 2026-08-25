@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-25T11:42:25.813568+00:00",
+  "generated_at": "2026-08-25T12:12:51.151066+00:00",
   "totals": {
-    "total_leads": 723,
-    "leads_30d": 214,
+    "total_leads": 724,
+    "leads_30d": 215,
     "total_opps": 460,
     "calls_booked": 64,
     "ppas_signed": 19,
     "pipeline_value": 118305000
   },
   "channels_30d": {
-    "REA": 118,
+    "REA": 119,
     "Eligibility": 68,
     "Contact": 5,
     "Other": 23
   },
   "channels_total": {
-    "REA": 437,
+    "REA": 438,
     "Eligibility": 171,
     "Contact": 11,
     "Other": 104
@@ -1911,8 +1911,8 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 42,
-      "leads_total": 157,
+      "leads_30d": 43,
+      "leads_total": 158,
       "opps_total": 114,
       "opps_qualified": 1,
       "opps_won": 2
