@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-25T05:45:45.259443+00:00",
+  "generated_at": "2026-08-25T06:16:13.716357+00:00",
   "totals": {
     "total_leads": 720,
     "leads_30d": 213,
     "total_opps": 460,
-    "calls_booked": 63,
+    "calls_booked": 64,
     "ppas_signed": 19,
     "pipeline_value": 118305000
   },
@@ -21,13 +21,13 @@
     "Other": 104
   },
   "stages": {
-    "New Lead": 165,
+    "New Lead": 164,
     "Lost": 167,
     "Not Yet Ready": 45,
     "Nurturing": 20,
     "Builder Shortlist Sent": 3,
     "Booked": 24,
-    "Qualified": 5,
+    "Qualified": 6,
     "Showed Up": 8,
     "Site Visit Scheduled": 4,
     "Won \u2014 Build Confirmed": 19
@@ -224,10 +224,6 @@
       ],
       [
         "siddharth siddharth \u2014 REA",
-        625000.0
-      ],
-      [
-        "Thisara Henarath",
         625000.0
       ],
       [
@@ -910,6 +906,10 @@
       ]
     ],
     "Qualified": [
+      [
+        "Thisara Henarath",
+        625000.0
+      ],
       [
         "Andrea Chin",
         0.0
@@ -1896,13 +1896,13 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 43075000.0,
+    "New Lead": 42450000.0,
     "Lost": 57225000.0,
     "Not Yet Ready": 7625000.0,
     "Nurturing": 3875000.0,
     "Builder Shortlist Sent": 30000.0,
     "Booked": 3250000.0,
-    "Qualified": 0.0,
+    "Qualified": 625000.0,
     "Showed Up": 0.0,
     "Site Visit Scheduled": 2025000.0,
     "Won \u2014 Build Confirmed": 1200000.0
@@ -1941,7 +1941,7 @@
       "leads_30d": 65,
       "leads_total": 189,
       "opps_total": 89,
-      "opps_qualified": 3,
+      "opps_qualified": 4,
       "opps_won": 0
     }
   },
