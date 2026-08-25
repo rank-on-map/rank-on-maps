@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-08-24T09:27:51.304262+00:00",
+  "generated_at": "2026-08-25T05:45:45.259443+00:00",
   "totals": {
-    "total_leads": 714,
-    "leads_30d": 216,
-    "total_opps": 457,
+    "total_leads": 720,
+    "leads_30d": 213,
+    "total_opps": 460,
     "calls_booked": 63,
     "ppas_signed": 19,
     "pipeline_value": 118305000
   },
   "channels_30d": {
-    "REA": 117,
-    "Other": 24,
-    "Contact": 4,
-    "Eligibility": 71
+    "REA": 115,
+    "Eligibility": 69,
+    "Contact": 5,
+    "Other": 24
   },
   "channels_total": {
-    "REA": 431,
-    "Other": 104,
-    "Contact": 10,
-    "Eligibility": 169
+    "REA": 434,
+    "Eligibility": 171,
+    "Contact": 11,
+    "Other": 104
   },
   "stages": {
-    "New Lead": 166,
+    "New Lead": 165,
+    "Lost": 167,
     "Not Yet Ready": 45,
-    "Lost": 163,
     "Nurturing": 20,
-    "Builder Shortlist Sent": 2,
+    "Builder Shortlist Sent": 3,
     "Booked": 24,
-    "Showed Up": 9,
     "Qualified": 5,
+    "Showed Up": 8,
     "Site Visit Scheduled": 4,
     "Won \u2014 Build Confirmed": 19
   },
@@ -37,10 +37,6 @@
       [
         "Denny Uneputty",
         1075000.0
-      ],
-      [
-        "Monisha Monisha",
-        925000.0
       ],
       [
         "nishant patel",
@@ -72,10 +68,6 @@
       ],
       [
         "Manny Vekaria",
-        775000.0
-      ],
-      [
-        "pranjal Patel",
         775000.0
       ],
       [
@@ -287,7 +279,15 @@
         325000.0
       ],
       [
-        "Arezo Sharifi",
+        "",
+        0.0
+      ],
+      [
+        "Samuel Platt",
+        0.0
+      ],
+      [
+        "Denver Byrne",
         0.0
       ],
       [
@@ -408,10 +408,6 @@
       ],
       [
         "Jeyakumar Tharmakulasingam",
-        0.0
-      ],
-      [
-        "Jeyakumar Tharmakulasingam 1",
         0.0
       ],
       [
@@ -881,10 +877,6 @@
     ],
     "Showed Up": [
       [
-        "Hayden Wood",
-        0.0
-      ],
-      [
         "Jess  Buck ",
         0.0
       ],
@@ -964,6 +956,10 @@
       ],
       [
         "Katerina De Battista ",
+        0.0
+      ],
+      [
+        "Hayden Wood",
         0.0
       ]
     ],
@@ -1258,6 +1254,10 @@
         1075000.0
       ],
       [
+        "Monisha Monisha",
+        925000.0
+      ],
+      [
         "Karla McKay",
         925000.0
       ],
@@ -1296,6 +1296,10 @@
       [
         "Divya patel",
         925000.0
+      ],
+      [
+        "pranjal Patel",
+        775000.0
       ],
       [
         "Narayanan Kannan",
@@ -1522,6 +1526,10 @@
         25000.0
       ],
       [
+        "Arezo Sharifi",
+        0.0
+      ],
+      [
         "PREETHY TITTU",
         0.0
       ],
@@ -1551,6 +1559,10 @@
       ],
       [
         "Sam Ph",
+        0.0
+      ],
+      [
+        "Jeyakumar Tharmakulasingam 1",
         0.0
       ],
       [
@@ -1884,14 +1896,14 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 44775000.0,
+    "New Lead": 43075000.0,
+    "Lost": 57225000.0,
     "Not Yet Ready": 7625000.0,
-    "Lost": 55525000.0,
     "Nurturing": 3875000.0,
     "Builder Shortlist Sent": 30000.0,
     "Booked": 3250000.0,
-    "Showed Up": 0.0,
     "Qualified": 0.0,
+    "Showed Up": 0.0,
     "Site Visit Scheduled": 2025000.0,
     "Won \u2014 Build Confirmed": 1200000.0
   },
@@ -1899,9 +1911,9 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 41,
-      "leads_total": 155,
-      "opps_total": 113,
+      "leads_30d": 42,
+      "leads_total": 156,
+      "opps_total": 114,
       "opps_qualified": 1,
       "opps_won": 2
     },
@@ -1909,16 +1921,16 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 38,
-      "leads_total": 127,
-      "opps_total": 131,
+      "leads_total": 129,
+      "opps_total": 133,
       "opps_qualified": 0,
       "opps_won": 10
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 53,
-      "leads_total": 179,
+      "leads_30d": 52,
+      "leads_total": 181,
       "opps_total": 122,
       "opps_qualified": 1,
       "opps_won": 6
@@ -1926,8 +1938,8 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 68,
-      "leads_total": 188,
+      "leads_30d": 65,
+      "leads_total": 189,
       "opps_total": 89,
       "opps_qualified": 3,
       "opps_won": 0
@@ -1935,8 +1947,6 @@
   },
   "round_robin": {
     "last12": [
-      "David",
-      "Hasib",
       "Masih",
       "Abdullah",
       "Hasib",
@@ -1946,16 +1956,18 @@
       "Abdullah",
       "David",
       "Hasib",
-      "Masih"
+      "Masih",
+      "Abdullah",
+      "David"
     ],
     "balance": {
-      "David": 3,
-      "Hasib": 4,
       "Masih": 3,
-      "Abdullah": 2
+      "Abdullah": 3,
+      "Hasib": 3,
+      "David": 3
     },
     "health": "healthy",
-    "sequence_arrow": "David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 Hasib \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih"
+    "sequence_arrow": "Masih \u2192 Abdullah \u2192 Hasib \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David"
   },
   "appointments": []
 }
