@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-08-26T00:47:48.219421+00:00",
+  "generated_at": "2026-08-26T01:22:22.473069+00:00",
   "totals": {
-    "total_leads": 728,
-    "leads_30d": 219,
-    "total_opps": 461,
+    "total_leads": 729,
+    "leads_30d": 220,
+    "total_opps": 462,
     "calls_booked": 64,
     "ppas_signed": 19,
     "pipeline_value": 118305000
   },
   "channels_30d": {
+    "Eligibility": 70,
     "REA": 122,
-    "Eligibility": 69,
     "Contact": 5,
     "Other": 23
   },
   "channels_total": {
+    "Eligibility": 173,
     "REA": 441,
-    "Eligibility": 172,
     "Contact": 11,
     "Other": 104
   },
   "stages": {
-    "New Lead": 165,
+    "New Lead": 166,
     "Lost": 167,
     "Not Yet Ready": 45,
     "Nurturing": 20,
@@ -273,6 +273,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "KESAVAN KUTTY VG PANICKER",
+        0.0
       ],
       [
         "G Asok",
@@ -1942,16 +1946,15 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 65,
-      "leads_total": 190,
-      "opps_total": 89,
+      "leads_30d": 66,
+      "leads_total": 191,
+      "opps_total": 90,
       "opps_qualified": 4,
       "opps_won": 0
     }
   },
   "round_robin": {
     "last12": [
-      "Abdullah",
       "Hasib",
       "David",
       "Hasib",
@@ -1962,16 +1965,17 @@
       "Masih",
       "Abdullah",
       "David",
-      "Hasib"
+      "Hasib",
+      "Masih"
     ],
     "balance": {
-      "Abdullah": 3,
       "Hasib": 4,
       "David": 3,
-      "Masih": 2
+      "Masih": 3,
+      "Abdullah": 2
     },
     "health": "healthy",
-    "sequence_arrow": "Abdullah \u2192 Hasib \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib"
+    "sequence_arrow": "Hasib \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih"
   },
   "appointments": []
 }
