@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-08-26T03:34:27.711276+00:00",
+  "generated_at": "2026-08-26T04:07:44.400749+00:00",
   "totals": {
-    "total_leads": 729,
-    "leads_30d": 220,
+    "total_leads": 730,
+    "leads_30d": 221,
     "total_opps": 462,
     "calls_booked": 64,
     "ppas_signed": 19,
     "pipeline_value": 118305000
   },
   "channels_30d": {
+    "REA": 123,
     "Eligibility": 70,
-    "REA": 122,
     "Contact": 5,
     "Other": 23
   },
   "channels_total": {
+    "REA": 442,
     "Eligibility": 173,
-    "REA": 441,
     "Contact": 11,
     "Other": 104
   },
   "stages": {
-    "New Lead": 166,
+    "New Lead": 165,
     "Lost": 167,
     "Not Yet Ready": 45,
-    "Nurturing": 20,
+    "Nurturing": 21,
     "Builder Shortlist Sent": 3,
     "Booked": 24,
     "Qualified": 6,
@@ -415,10 +415,6 @@
         0.0
       ],
       [
-        "Braydon  Fidge",
-        0.0
-      ],
-      [
         "Charmaine Orlowski",
         0.0
       ],
@@ -726,6 +722,10 @@
       ],
       [
         "Cody Jayes",
+        0.0
+      ],
+      [
+        "Braydon  Fidge",
         0.0
       ],
       [
@@ -1937,8 +1937,8 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 55,
-      "leads_total": 184,
+      "leads_30d": 56,
+      "leads_total": 185,
       "opps_total": 123,
       "opps_qualified": 1,
       "opps_won": 6
