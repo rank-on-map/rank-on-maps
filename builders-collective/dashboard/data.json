@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-27T04:20:51.252847+00:00",
+  "generated_at": "2026-08-27T05:48:49.630874+00:00",
   "totals": {
     "total_leads": 734,
-    "leads_30d": 216,
+    "leads_30d": 215,
     "total_opps": 462,
-    "calls_booked": 64,
+    "calls_booked": 65,
     "ppas_signed": 19,
     "pipeline_value": 118305000
   },
   "channels_30d": {
     "REA": 118,
-    "Other": 23,
+    "Other": 22,
     "Eligibility": 70,
     "Contact": 5
   },
@@ -21,12 +21,12 @@
     "Contact": 11
   },
   "stages": {
-    "New Lead": 165,
-    "Lost": 167,
+    "New Lead": 162,
+    "Lost": 169,
     "Not Yet Ready": 45,
+    "Booked": 25,
     "Nurturing": 21,
     "Builder Shortlist Sent": 3,
-    "Booked": 24,
     "Qualified": 6,
     "Showed Up": 8,
     "Site Visit Scheduled": 4,
@@ -339,10 +339,6 @@
         0.0
       ],
       [
-        "Sydney  Payne",
-        0.0
-      ],
-      [
         "Sebastian Cuba",
         0.0
       ],
@@ -427,10 +423,6 @@
         0.0
       ],
       [
-        "Michael Rozic",
-        0.0
-      ],
-      [
         "Jesse Grant",
         0.0
       ],
@@ -460,10 +452,6 @@
       ],
       [
         "Riki Tai",
-        0.0
-      ],
-      [
-        "Jo Iongi",
         0.0
       ],
       [
@@ -797,6 +785,10 @@
       [
         "Nassa Atekhis",
         775000.0
+      ],
+      [
+        "Sydney  Payne",
+        0.0
       ],
       [
         "Sharaine Howson",
@@ -1594,6 +1586,10 @@
         0.0
       ],
       [
+        "Michael Rozic",
+        0.0
+      ],
+      [
         "",
         0.0
       ],
@@ -1619,6 +1615,10 @@
       ],
       [
         "Michelle Walker",
+        0.0
+      ],
+      [
+        "Jo Iongi",
         0.0
       ],
       [
@@ -1907,9 +1907,9 @@
     "New Lead": 42450000.0,
     "Lost": 57225000.0,
     "Not Yet Ready": 7625000.0,
+    "Booked": 3250000.0,
     "Nurturing": 3875000.0,
     "Builder Shortlist Sent": 30000.0,
-    "Booked": 3250000.0,
     "Qualified": 625000.0,
     "Showed Up": 0.0,
     "Site Visit Scheduled": 2025000.0,
