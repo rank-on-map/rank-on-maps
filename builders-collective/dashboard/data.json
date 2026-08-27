@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T23:37:32.318133+00:00",
+  "generated_at": "2026-08-27T00:43:16.104975+00:00",
   "totals": {
     "total_leads": 732,
     "leads_30d": 214,
@@ -1920,7 +1920,7 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 45,
-      "leads_total": 161,
+      "leads_total": 162,
       "opps_total": 114,
       "opps_qualified": 1,
       "opps_won": 2
@@ -1929,7 +1929,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 36,
-      "leads_total": 129,
+      "leads_total": 128,
       "opps_total": 133,
       "opps_qualified": 0,
       "opps_won": 10
