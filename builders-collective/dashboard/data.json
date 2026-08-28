@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-28T07:43:52.593739+00:00",
+  "generated_at": "2026-08-28T08:17:12.753063+00:00",
   "totals": {
-    "total_leads": 739,
+    "total_leads": 740,
     "leads_30d": 211,
     "total_opps": 465,
     "calls_booked": 67,
@@ -9,13 +9,13 @@
     "pipeline_value": 119705000
   },
   "channels_30d": {
-    "REA": 117,
+    "REA": 118,
     "Other": 22,
-    "Eligibility": 67,
+    "Eligibility": 66,
     "Contact": 5
   },
   "channels_total": {
-    "REA": 448,
+    "REA": 449,
     "Other": 107,
     "Eligibility": 173,
     "Contact": 11
@@ -1931,7 +1931,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 47,
+      "leads_30d": 46,
       "leads_total": 165,
       "opps_total": 117,
       "opps_qualified": 0,
@@ -1949,8 +1949,8 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 55,
-      "leads_total": 187,
+      "leads_30d": 56,
+      "leads_total": 188,
       "opps_total": 123,
       "opps_qualified": 1,
       "opps_won": 6
