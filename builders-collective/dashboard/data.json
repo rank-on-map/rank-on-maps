@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-28T07:10:10.249263+00:00",
+  "generated_at": "2026-08-28T07:43:52.593739+00:00",
   "totals": {
     "total_leads": 739,
     "leads_30d": 211,
     "total_opps": 465,
-    "calls_booked": 68,
-    "ppas_signed": 19,
+    "calls_booked": 67,
+    "ppas_signed": 20,
     "pipeline_value": 119705000
   },
   "channels_30d": {
@@ -23,14 +23,14 @@
   "stages": {
     "New Lead": 161,
     "Lost": 169,
-    "Booked": 27,
+    "Not Yet Ready": 47,
     "Showed Up": 9,
-    "Not Yet Ready": 46,
+    "Booked": 26,
     "Nurturing": 21,
-    "Builder Shortlist Sent": 3,
-    "Qualified": 6,
-    "Site Visit Scheduled": 4,
-    "Won \u2014 Build Confirmed": 19
+    "Builder Shortlist Sent": 4,
+    "Site Visit Scheduled": 3,
+    "Won \u2014 Build Confirmed": 20,
+    "Qualified": 5
   },
   "stage_top_deals": {
     "New Lead": [
@@ -783,10 +783,6 @@
         775000.0
       ],
       [
-        "Jane Wanjiru",
-        0.0
-      ],
-      [
         "Sydney  Payne",
         0.0
       ],
@@ -919,10 +915,6 @@
         625000.0
       ],
       [
-        "Andrea Chin",
-        0.0
-      ],
-      [
         "Manish Malla",
         0.0
       ],
@@ -945,10 +937,6 @@
         775000.0
       ],
       [
-        "clement Mensah",
-        625000.0
-      ],
-      [
         "paul farr \u2014 REA",
         625000.0
       ],
@@ -969,6 +957,10 @@
       [
         "Hayden Wood",
         0.0
+      ],
+      [
+        "Andrea Chin",
+        0.0
       ]
     ],
     "Contract Review": [],
@@ -976,6 +968,10 @@
       [
         "Malak Aly",
         775000.0
+      ],
+      [
+        "clement Mensah",
+        625000.0
       ],
       [
         "Shannon Freeman",
@@ -1094,6 +1090,10 @@
       [
         "Andrew Tan",
         625000.0
+      ],
+      [
+        "Jane Wanjiru",
+        0.0
       ],
       [
         "Jaiden Barker",
@@ -1918,14 +1918,14 @@
   "stage_pipeline_value": {
     "New Lead": 43850000.0,
     "Lost": 57225000.0,
-    "Booked": 3250000.0,
-    "Showed Up": 0.0,
     "Not Yet Ready": 7625000.0,
+    "Showed Up": 0.0,
+    "Booked": 3250000.0,
     "Nurturing": 3875000.0,
     "Builder Shortlist Sent": 30000.0,
-    "Qualified": 625000.0,
-    "Site Visit Scheduled": 2025000.0,
-    "Won \u2014 Build Confirmed": 1200000.0
+    "Site Visit Scheduled": 1400000.0,
+    "Won \u2014 Build Confirmed": 1825000.0,
+    "Qualified": 625000.0
   },
   "per_rep": {
     "nNlkTC2z33NTPyxTxdE8": {
@@ -1934,8 +1934,8 @@
       "leads_30d": 47,
       "leads_total": 165,
       "opps_total": 117,
-      "opps_qualified": 1,
-      "opps_won": 2
+      "opps_qualified": 0,
+      "opps_won": 3
     },
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
