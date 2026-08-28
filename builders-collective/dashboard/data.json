@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-28T05:16:23.924596+00:00",
+  "generated_at": "2026-08-28T07:10:10.249263+00:00",
   "totals": {
     "total_leads": 739,
     "leads_30d": 211,
     "total_opps": 465,
-    "calls_booked": 67,
+    "calls_booked": 68,
     "ppas_signed": 19,
     "pipeline_value": 119705000
   },
@@ -21,14 +21,14 @@
     "Contact": 11
   },
   "stages": {
-    "New Lead": 164,
-    "Lost": 168,
+    "New Lead": 161,
+    "Lost": 169,
     "Booked": 27,
-    "Not Yet Ready": 45,
+    "Showed Up": 9,
+    "Not Yet Ready": 46,
     "Nurturing": 21,
     "Builder Shortlist Sent": 3,
     "Qualified": 6,
-    "Showed Up": 8,
     "Site Visit Scheduled": 4,
     "Won \u2014 Build Confirmed": 19
   },
@@ -315,10 +315,6 @@
         0.0
       ],
       [
-        "Margot Slaughter",
-        0.0
-      ],
-      [
         "Ting",
         0.0
       ],
@@ -328,10 +324,6 @@
       ],
       [
         "Bevan Ong",
-        0.0
-      ],
-      [
-        "Grace Quach",
         0.0
       ],
       [
@@ -396,10 +388,6 @@
       ],
       [
         "Kloe Gordon",
-        0.0
-      ],
-      [
-        "Sam Evans ",
         0.0
       ],
       [
@@ -889,6 +877,10 @@
     ],
     "Showed Up": [
       [
+        "Margot Slaughter",
+        0.0
+      ],
+      [
         "Jess  Buck ",
         0.0
       ],
@@ -1113,6 +1105,10 @@
       ],
       [
         "Partap Singh",
+        0.0
+      ],
+      [
+        "Sam Evans ",
         0.0
       ],
       [
@@ -1546,6 +1542,10 @@
         0.0
       ],
       [
+        "Grace Quach",
+        0.0
+      ],
+      [
         "PREETHY TITTU",
         0.0
       ],
@@ -1919,11 +1919,11 @@
     "New Lead": 43850000.0,
     "Lost": 57225000.0,
     "Booked": 3250000.0,
+    "Showed Up": 0.0,
     "Not Yet Ready": 7625000.0,
     "Nurturing": 3875000.0,
     "Builder Shortlist Sent": 30000.0,
     "Qualified": 625000.0,
-    "Showed Up": 0.0,
     "Site Visit Scheduled": 2025000.0,
     "Won \u2014 Build Confirmed": 1200000.0
   },
