@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-08-28T23:47:55.244289+00:00",
+  "generated_at": "2026-08-29T00:18:18.960012+00:00",
   "totals": {
-    "total_leads": 743,
-    "leads_30d": 207,
-    "total_opps": 465,
+    "total_leads": 744,
+    "leads_30d": 208,
+    "total_opps": 466,
     "calls_booked": 67,
     "ppas_signed": 20,
     "pipeline_value": 119705000
   },
   "channels_30d": {
+    "Eligibility": 65,
     "REA": 115,
     "Other": 23,
-    "Eligibility": 64,
     "Contact": 5
   },
   "channels_total": {
+    "Eligibility": 174,
     "REA": 451,
     "Other": 108,
-    "Eligibility": 173,
     "Contact": 11
   },
   "stages": {
-    "New Lead": 161,
+    "New Lead": 162,
     "Lost": 169,
     "Not Yet Ready": 47,
     "Showed Up": 9,
@@ -281,6 +281,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Eve Williamson ",
+        0.0
       ],
       [
         "Hasindu yenuka",
@@ -1940,9 +1944,9 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 35,
-      "leads_total": 128,
-      "opps_total": 133,
+      "leads_30d": 36,
+      "leads_total": 129,
+      "opps_total": 134,
       "opps_qualified": 0,
       "opps_won": 10
     },
@@ -1967,7 +1971,6 @@
   },
   "round_robin": {
     "last12": [
-      "Hasib",
       "David",
       "Hasib",
       "Masih",
@@ -1978,16 +1981,17 @@
       "Abdullah",
       "David",
       "Hasib",
-      "Masih"
+      "Masih",
+      "Abdullah"
     ],
     "balance": {
-      "Hasib": 4,
       "David": 3,
+      "Hasib": 3,
       "Masih": 3,
-      "Abdullah": 2
+      "Abdullah": 3
     },
     "health": "healthy",
-    "sequence_arrow": "Hasib \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih"
+    "sequence_arrow": "David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah"
   },
   "appointments": []
 }
