@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-08-31T21:06:08.156918+00:00",
+  "generated_at": "2026-08-31T21:36:32.412313+00:00",
   "totals": {
-    "total_leads": 771,
-    "leads_30d": 220,
-    "total_opps": 482,
+    "total_leads": 772,
+    "leads_30d": 221,
+    "total_opps": 483,
     "calls_booked": 68,
     "ppas_signed": 21,
     "pipeline_value": 121730000
   },
   "channels_30d": {
-    "Eligibility": 72,
+    "Eligibility": 73,
     "REA": 122,
     "Other": 23,
     "Contact": 3
   },
   "channels_total": {
-    "Eligibility": 184,
+    "Eligibility": 185,
     "REA": 466,
     "Other": 110,
     "Contact": 11
   },
   "stages": {
-    "New Lead": 173,
+    "New Lead": 174,
     "Showed Up": 10,
     "Lost": 173,
     "Not Yet Ready": 47,
@@ -281,6 +281,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Paige Corunna",
+        0.0
       ],
       [
         "Jaymie Robinson",
@@ -2017,9 +2021,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 54,
-      "leads_total": 192,
-      "opps_total": 124,
+      "leads_30d": 55,
+      "leads_total": 193,
+      "opps_total": 125,
       "opps_qualified": 1,
       "opps_won": 6
     },
@@ -2035,7 +2039,6 @@
   },
   "round_robin": {
     "last12": [
-      "Masih",
       "Abdullah",
       "Abdullah",
       "Abdullah",
@@ -2046,16 +2049,17 @@
       "Masih",
       "Masih",
       "Abdullah",
-      "David"
+      "David",
+      "Hasib"
     ],
     "balance": {
-      "Masih": 4,
       "Abdullah": 5,
+      "Masih": 3,
       "David": 2,
-      "Hasib": 1
+      "Hasib": 2
     },
     "health": "skewed",
-    "sequence_arrow": "Masih \u2192 Abdullah \u2192 Abdullah \u2192 Abdullah \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Masih \u2192 Abdullah \u2192 David"
+    "sequence_arrow": "Abdullah \u2192 Abdullah \u2192 Abdullah \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib"
   },
   "appointments": []
 }
