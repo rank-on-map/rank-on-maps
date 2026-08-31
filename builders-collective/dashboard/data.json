@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T05:54:11.292672+00:00",
+  "generated_at": "2026-08-31T06:24:36.818455+00:00",
   "totals": {
     "total_leads": 765,
     "leads_30d": 215,
-    "total_opps": 475,
+    "total_opps": 480,
     "calls_booked": 68,
     "ppas_signed": 20,
-    "pipeline_value": 119705000
+    "pipeline_value": 121730000
   },
   "channels_30d": {
     "Eligibility": 70,
@@ -21,7 +21,7 @@
     "Contact": 11
   },
   "stages": {
-    "New Lead": 166,
+    "New Lead": 171,
     "Showed Up": 10,
     "Lost": 173,
     "Not Yet Ready": 47,
@@ -65,6 +65,10 @@
       [
         "bernie \u2014 REA",
         925000.0
+      ],
+      [
+        "Emi Vijitra Taboon",
+        775000.0
       ],
       [
         "Janak Bhandari",
@@ -137,6 +141,14 @@
       [
         "Balamurugan Arumugam",
         775000.0
+      ],
+      [
+        "Mikayla Edwards",
+        625000.0
+      ],
+      [
+        "Dilsa Davis",
+        625000.0
       ],
       [
         "Tiffany Marneweck",
@@ -269,6 +281,14 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Charisse Downes",
+        0.0
+      ],
+      [
+        "Dennis Morrison",
+        0.0
       ],
       [
         "Solaimuthu Muthu",
@@ -1956,7 +1976,7 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 41525000.0,
+    "New Lead": 43550000.0,
     "Showed Up": 0.0,
     "Lost": 59550000.0,
     "Not Yet Ready": 7625000.0,
@@ -1973,7 +1993,7 @@
       "initial": "D",
       "leads_30d": 47,
       "leads_total": 171,
-      "opps_total": 118,
+      "opps_total": 123,
       "opps_qualified": 0,
       "opps_won": 3
     },
