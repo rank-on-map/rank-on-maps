@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-01T03:09:47.261277+00:00",
+  "generated_at": "2026-09-01T05:43:55.002937+00:00",
   "totals": {
     "total_leads": 773,
-    "leads_30d": 221,
+    "leads_30d": 220,
     "total_opps": 484,
-    "calls_booked": 69,
+    "calls_booked": 70,
     "ppas_signed": 21,
     "pipeline_value": 121730000
   },
   "channels_30d": {
     "Eligibility": 74,
-    "REA": 122,
+    "REA": 121,
     "Other": 22,
     "Contact": 3
   },
@@ -21,8 +21,8 @@
     "Contact": 11
   },
   "stages": {
-    "Booked": 27,
-    "New Lead": 174,
+    "Booked": 28,
+    "New Lead": 173,
     "Showed Up": 10,
     "Lost": 173,
     "Not Yet Ready": 47,
@@ -68,10 +68,6 @@
       ],
       [
         "Emi Vijitra Taboon",
-        775000.0
-      ],
-      [
-        "Janak Bhandari",
         775000.0
       ],
       [
@@ -821,6 +817,10 @@
       [
         "sarah iddamalgoda \u2014 REA",
         925000.0
+      ],
+      [
+        "Janak Bhandari",
+        775000.0
       ],
       [
         "Adam williams",
@@ -1992,8 +1992,8 @@
     ]
   },
   "stage_pipeline_value": {
-    "Booked": 3250000.0,
-    "New Lead": 43550000.0,
+    "Booked": 4025000.0,
+    "New Lead": 42775000.0,
     "Showed Up": 0.0,
     "Lost": 59550000.0,
     "Not Yet Ready": 7625000.0,
@@ -2007,7 +2007,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 49,
+      "leads_30d": 48,
       "leads_total": 173,
       "opps_total": 124,
       "opps_qualified": 0,
