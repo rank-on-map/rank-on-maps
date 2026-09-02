@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T09:04:51.509246+00:00",
+  "generated_at": "2026-09-02T09:35:19.238609+00:00",
   "totals": {
     "total_leads": 785,
     "leads_30d": 228,
     "total_opps": 490,
-    "calls_booked": 75,
+    "calls_booked": 76,
     "ppas_signed": 22,
     "pipeline_value": 122355000
   },
@@ -21,8 +21,8 @@
     "Contact": 11
   },
   "stages": {
-    "New Lead": 171,
-    "Booked": 33,
+    "New Lead": 170,
+    "Booked": 34,
     "Lost": 176,
     "Showed Up": 10,
     "Not Yet Ready": 47,
@@ -133,10 +133,6 @@
       [
         "Balamurugan Arumugam",
         775000.0
-      ],
-      [
-        "Aiza Alburo",
-        625000.0
       ],
       [
         "Mikayla Edwards",
@@ -829,6 +825,10 @@
       [
         "Nassa Atekhis",
         775000.0
+      ],
+      [
+        "Aiza Alburo",
+        625000.0
       ],
       [
         "Chantel Nind",
@@ -2016,8 +2016,8 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 42325000.0,
-    "Booked": 5100000.0,
+    "New Lead": 41700000.0,
+    "Booked": 5725000.0,
     "Lost": 59550000.0,
     "Showed Up": 0.0,
     "Not Yet Ready": 7625000.0,
