@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-02T09:35:19.238609+00:00",
+  "generated_at": "2026-09-02T10:05:45.770527+00:00",
   "totals": {
-    "total_leads": 785,
-    "leads_30d": 228,
-    "total_opps": 490,
-    "calls_booked": 76,
+    "total_leads": 787,
+    "leads_30d": 229,
+    "total_opps": 491,
+    "calls_booked": 77,
     "ppas_signed": 22,
     "pipeline_value": 122355000
   },
   "channels_30d": {
-    "Eligibility": 77,
-    "Other": 24,
-    "REA": 124,
-    "Contact": 3
+    "Contact": 4,
+    "REA": 125,
+    "Eligibility": 76,
+    "Other": 24
   },
   "channels_total": {
+    "Contact": 12,
+    "REA": 472,
     "Eligibility": 191,
-    "Other": 112,
-    "REA": 471,
-    "Contact": 11
+    "Other": 112
   },
   "stages": {
+    "Booked": 35,
     "New Lead": 170,
-    "Booked": 34,
     "Lost": 176,
     "Showed Up": 10,
     "Not Yet Ready": 47,
@@ -829,6 +829,10 @@
       [
         "Aiza Alburo",
         625000.0
+      ],
+      [
+        "Tracy And Paul Thomson",
+        0.0
       ],
       [
         "Chantel Nind",
@@ -2016,8 +2020,8 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 41700000.0,
     "Booked": 5725000.0,
+    "New Lead": 41700000.0,
     "Lost": 59550000.0,
     "Showed Up": 0.0,
     "Not Yet Ready": 7625000.0,
@@ -2049,9 +2053,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 55,
-      "leads_total": 194,
-      "opps_total": 126,
+      "leads_30d": 56,
+      "leads_total": 195,
+      "opps_total": 127,
       "opps_qualified": 1,
       "opps_won": 7
     },
@@ -2059,7 +2063,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 61,
-      "leads_total": 203,
+      "leads_total": 204,
       "opps_total": 95,
       "opps_qualified": 4,
       "opps_won": 0
