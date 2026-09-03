@@ -1,39 +1,43 @@
 {
-  "generated_at": "2026-09-03T08:19:24.331674+00:00",
+  "generated_at": "2026-09-03T10:07:32.209060+00:00",
   "totals": {
-    "total_leads": 799,
-    "leads_30d": 233,
-    "total_opps": 496,
+    "total_leads": 801,
+    "leads_30d": 235,
+    "total_opps": 498,
     "calls_booked": 76,
-    "ppas_signed": 23,
-    "pipeline_value": 122355000
+    "ppas_signed": 25,
+    "pipeline_value": 123460000
   },
   "channels_30d": {
+    "Other": 28,
     "REA": 124,
-    "Other": 26,
     "Eligibility": 79,
     "Contact": 4
   },
   "channels_total": {
+    "Other": 116,
     "REA": 477,
-    "Other": 114,
     "Eligibility": 196,
     "Contact": 12
   },
   "stages": {
-    "New Lead": 173,
-    "Booked": 33,
+    "New Lead": 174,
+    "Showed Up": 12,
+    "Booked": 30,
     "Nurturing": 18,
-    "Lost": 176,
-    "Showed Up": 9,
+    "Lost": 177,
     "Not Yet Ready": 53,
-    "Won \u2014 Build Confirmed": 23,
+    "Won \u2014 Build Confirmed": 25,
     "Builder Shortlist Sent": 2,
-    "Qualified": 6,
+    "Qualified": 4,
     "Site Visit Scheduled": 3
   },
   "stage_top_deals": {
     "New Lead": [
+      [
+        "Jody Cole",
+        1075000.0
+      ],
       [
         "nishant patel",
         925000.0
@@ -803,19 +807,11 @@
     ],
     "Booked": [
       [
-        "Denny Uneputty",
-        1075000.0
-      ],
-      [
         "sarah iddamalgoda \u2014 REA",
         925000.0
       ],
       [
         "Janak Bhandari",
-        775000.0
-      ],
-      [
-        "Adam williams",
         775000.0
       ],
       [
@@ -844,10 +840,6 @@
       ],
       [
         "Kenny Mckinnon",
-        0.0
-      ],
-      [
-        "Solaimuthu Muthu",
         0.0
       ],
       [
@@ -937,6 +929,18 @@
     ],
     "Showed Up": [
       [
+        "Denny Uneputty",
+        1075000.0
+      ],
+      [
+        "Les Edwards",
+        0.0
+      ],
+      [
+        "Solaimuthu Muthu",
+        0.0
+      ],
+      [
         "",
         0.0
       ],
@@ -975,15 +979,7 @@
     ],
     "Qualified": [
       [
-        "Thisara Henarath",
-        625000.0
-      ],
-      [
         "Jess  Buck ",
-        0.0
-      ],
-      [
-        "Manish Malla",
         0.0
       ],
       [
@@ -1032,6 +1028,14 @@
       [
         "clement Mensah",
         625000.0
+      ],
+      [
+        "Thisara Henarath",
+        625000.0
+      ],
+      [
+        "Hayden Wood",
+        30000.0
       ],
       [
         "Shannon Freeman",
@@ -1106,7 +1110,7 @@
         0.0
       ],
       [
-        "Hayden Wood",
+        "Manish Malla",
         0.0
       ],
       [
@@ -1419,6 +1423,10 @@
       ],
       [
         "Ric Bien Hipolito",
+        775000.0
+      ],
+      [
+        "Adam williams",
         775000.0
       ],
       [
@@ -2040,15 +2048,15 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 41700000.0,
-    "Booked": 4950000.0,
+    "New Lead": 42775000.0,
+    "Showed Up": 1075000.0,
+    "Booked": 3100000.0,
     "Nurturing": 3875000.0,
-    "Lost": 59550000.0,
-    "Showed Up": 0.0,
+    "Lost": 60325000.0,
     "Not Yet Ready": 8400000.0,
-    "Won \u2014 Build Confirmed": 1825000.0,
+    "Won \u2014 Build Confirmed": 2480000.0,
     "Builder Shortlist Sent": 30000.0,
-    "Qualified": 625000.0,
+    "Qualified": 0.0,
     "Site Visit Scheduled": 1400000.0
   },
   "per_rep": {
@@ -2066,7 +2074,7 @@
       "initial": "A",
       "leads_30d": 39,
       "leads_total": 139,
-      "opps_total": 142,
+      "opps_total": 144,
       "opps_qualified": 0,
       "opps_won": 11
     },
@@ -2085,8 +2093,8 @@
       "leads_30d": 61,
       "leads_total": 207,
       "opps_total": 96,
-      "opps_qualified": 4,
-      "opps_won": 0
+      "opps_qualified": 2,
+      "opps_won": 2
     }
   },
   "round_robin": {
