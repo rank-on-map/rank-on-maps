@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T03:07:57.018212+00:00",
+  "generated_at": "2026-09-03T04:30:38.715407+00:00",
   "totals": {
     "total_leads": 796,
     "leads_30d": 230,
     "total_opps": 496,
-    "calls_booked": 78,
-    "ppas_signed": 22,
+    "calls_booked": 76,
+    "ppas_signed": 23,
     "pipeline_value": 122355000
   },
   "channels_30d": {
@@ -21,16 +21,16 @@
     "Contact": 12
   },
   "stages": {
-    "New Lead": 174,
-    "Booked": 36,
+    "New Lead": 173,
+    "Booked": 33,
+    "Nurturing": 18,
     "Lost": 176,
-    "Showed Up": 10,
-    "Not Yet Ready": 47,
-    "Nurturing": 21,
-    "Won \u2014 Build Confirmed": 22,
+    "Showed Up": 9,
+    "Not Yet Ready": 53,
+    "Won \u2014 Build Confirmed": 23,
     "Builder Shortlist Sent": 2,
-    "Site Visit Scheduled": 3,
-    "Qualified": 5
+    "Qualified": 6,
+    "Site Visit Scheduled": 3
   },
   "stage_top_deals": {
     "New Lead": [
@@ -280,10 +280,6 @@
       ],
       [
         "Kudzai Materwa",
-        0.0
-      ],
-      [
-        "Kim Lewis",
         0.0
       ],
       [
@@ -753,6 +749,10 @@
         625000.0
       ],
       [
+        "Kim Lewis",
+        0.0
+      ],
+      [
         "Cathy Chau",
         0.0
       ],
@@ -761,23 +761,11 @@
         0.0
       ],
       [
-        "Braydon  Fidge",
-        0.0
-      ],
-      [
-        "Prabesh Khatri",
-        0.0
-      ],
-      [
         "Lauren Lang",
         0.0
       ],
       [
         "Isioma Onyemgba",
-        0.0
-      ],
-      [
-        "Kulie Lane",
         0.0
       ],
       [
@@ -790,10 +778,6 @@
       ],
       [
         "Peter  Haydon-Wood ",
-        0.0
-      ],
-      [
-        "Jaqui Mellington",
         0.0
       ],
       [
@@ -836,10 +820,6 @@
       ],
       [
         "ann castro \u2014 REA",
-        775000.0
-      ],
-      [
-        "Nassa Atekhis",
         775000.0
       ],
       [
@@ -939,10 +919,6 @@
         0.0
       ],
       [
-        "Jo Semmens",
-        0.0
-      ],
-      [
         "Rebecca Riley",
         0.0
       ],
@@ -957,10 +933,6 @@
       [
         "Mathias  Buko",
         0.0
-      ],
-      [
-        "Gema Kapetanakis ",
-        0.0
       ]
     ],
     "Showed Up": [
@@ -970,10 +942,6 @@
       ],
       [
         "Margot Slaughter",
-        0.0
-      ],
-      [
-        "Jess  Buck ",
         0.0
       ],
       [
@@ -1009,6 +977,10 @@
       [
         "Thisara Henarath",
         625000.0
+      ],
+      [
+        "Jess  Buck ",
+        0.0
       ],
       [
         "Manish Malla",
@@ -1138,6 +1110,10 @@
         0.0
       ],
       [
+        "Jo Semmens",
+        0.0
+      ],
+      [
         "Omar Al Doski",
         0.0
       ]
@@ -1149,6 +1125,10 @@
       ],
       [
         "amandeep kaur \u2014 REA",
+        775000.0
+      ],
+      [
+        "Nassa Atekhis",
         775000.0
       ],
       [
@@ -1216,11 +1196,19 @@
         0.0
       ],
       [
+        "Braydon  Fidge",
+        0.0
+      ],
+      [
         "Janelle Sim",
         0.0
       ],
       [
         "Michelle  P",
+        0.0
+      ],
+      [
+        "Prabesh Khatri",
         0.0
       ],
       [
@@ -1272,11 +1260,23 @@
         0.0
       ],
       [
+        "Kulie Lane",
+        0.0
+      ],
+      [
+        "Gema Kapetanakis ",
+        0.0
+      ],
+      [
         "Bailey  Anderson",
         0.0
       ],
       [
         "Rowan ",
+        0.0
+      ],
+      [
+        "Jaqui Mellington",
         0.0
       ],
       [
@@ -2041,15 +2041,15 @@
   },
   "stage_pipeline_value": {
     "New Lead": 41700000.0,
-    "Booked": 5725000.0,
+    "Booked": 4950000.0,
+    "Nurturing": 3875000.0,
     "Lost": 59550000.0,
     "Showed Up": 0.0,
-    "Not Yet Ready": 7625000.0,
-    "Nurturing": 3875000.0,
+    "Not Yet Ready": 8400000.0,
     "Won \u2014 Build Confirmed": 1825000.0,
     "Builder Shortlist Sent": 30000.0,
-    "Site Visit Scheduled": 1400000.0,
-    "Qualified": 625000.0
+    "Qualified": 625000.0,
+    "Site Visit Scheduled": 1400000.0
   },
   "per_rep": {
     "nNlkTC2z33NTPyxTxdE8": {
@@ -2076,8 +2076,8 @@
       "leads_30d": 57,
       "leads_total": 196,
       "opps_total": 128,
-      "opps_qualified": 1,
-      "opps_won": 7
+      "opps_qualified": 2,
+      "opps_won": 8
     },
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
