@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T04:21:25.363013+00:00",
+  "generated_at": "2026-09-04T04:51:51.574354+00:00",
   "totals": {
     "total_leads": 803,
     "leads_30d": 234,
@@ -21,11 +21,11 @@
     "Contact": 12
   },
   "stages": {
-    "New Lead": 176,
+    "New Lead": 171,
     "Showed Up": 12,
     "Booked": 30,
     "Nurturing": 18,
-    "Lost": 177,
+    "Lost": 182,
     "Not Yet Ready": 53,
     "Won \u2014 Build Confirmed": 25,
     "Builder Shortlist Sent": 2,
@@ -37,14 +37,6 @@
       [
         "Jody Cole",
         1075000.0
-      ],
-      [
-        "nishant patel",
-        925000.0
-      ],
-      [
-        "Arron Mc Kenna",
-        925000.0
       ],
       [
         "Nathalya Kennedy",
@@ -431,10 +423,6 @@
         0.0
       ],
       [
-        "Iesha Deane",
-        0.0
-      ],
-      [
         "Ashley Eldon",
         0.0
       ],
@@ -523,10 +511,6 @@
         0.0
       ],
       [
-        "Peace Wilmot ",
-        0.0
-      ],
-      [
         "Ranae Barrett",
         0.0
       ],
@@ -572,10 +556,6 @@
       ],
       [
         "Kyle Crowe",
-        0.0
-      ],
-      [
-        "Jasmine Bennier",
         0.0
       ],
       [
@@ -1378,6 +1358,14 @@
         925000.0
       ],
       [
+        "nishant patel",
+        925000.0
+      ],
+      [
+        "Arron Mc Kenna",
+        925000.0
+      ],
+      [
         "Karla McKay",
         925000.0
       ],
@@ -1698,6 +1686,10 @@
         0.0
       ],
       [
+        "Iesha Deane",
+        0.0
+      ],
+      [
         "Sadiq Wafa",
         0.0
       ],
@@ -1774,6 +1766,10 @@
         0.0
       ],
       [
+        "Peace Wilmot ",
+        0.0
+      ],
+      [
         "B W",
         0.0
       ],
@@ -1819,6 +1815,10 @@
       ],
       [
         "Eunkang Lim",
+        0.0
+      ],
+      [
+        "Jasmine Bennier",
         0.0
       ],
       [
@@ -2056,11 +2056,11 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 42775000.0,
+    "New Lead": 40925000.0,
     "Showed Up": 1075000.0,
     "Booked": 3100000.0,
     "Nurturing": 3875000.0,
-    "Lost": 60325000.0,
+    "Lost": 62175000.0,
     "Not Yet Ready": 8400000.0,
     "Won \u2014 Build Confirmed": 2480000.0,
     "Builder Shortlist Sent": 30000.0,
