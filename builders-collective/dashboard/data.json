@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04T03:25:55.787570+00:00",
+  "generated_at": "2026-09-04T04:21:25.363013+00:00",
   "totals": {
     "total_leads": 803,
     "leads_30d": 234,
-    "total_opps": 499,
+    "total_opps": 500,
     "calls_booked": 76,
     "ppas_signed": 25,
     "pipeline_value": 123460000
@@ -21,7 +21,7 @@
     "Contact": 12
   },
   "stages": {
-    "New Lead": 175,
+    "New Lead": 176,
     "Showed Up": 12,
     "Booked": 30,
     "Nurturing": 18,
@@ -277,6 +277,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Jasmine Song",
+        0.0
       ],
       [
         "Florence  Vint",
@@ -2078,7 +2082,7 @@
       "initial": "A",
       "leads_30d": 40,
       "leads_total": 140,
-      "opps_total": 144,
+      "opps_total": 145,
       "opps_qualified": 0,
       "opps_won": 11
     },
