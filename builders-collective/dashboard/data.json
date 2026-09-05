@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T03:17:03.329664+00:00",
+  "generated_at": "2026-09-05T04:21:52.425093+00:00",
   "totals": {
     "total_leads": 817,
     "leads_30d": 246,
@@ -21,11 +21,11 @@
     "Contact": 12
   },
   "stages": {
-    "New Lead": 176,
+    "New Lead": 175,
+    "Lost": 183,
     "Showed Up": 12,
     "Booked": 30,
     "Nurturing": 18,
-    "Lost": 182,
     "Not Yet Ready": 53,
     "Won \u2014 Build Confirmed": 25,
     "Builder Shortlist Sent": 2,
@@ -288,10 +288,6 @@
       ],
       [
         "Jack Macfarlane",
-        0.0
-      ],
-      [
-        "Jasmine Song",
         0.0
       ],
       [
@@ -1670,6 +1666,10 @@
         25000.0
       ],
       [
+        "Jasmine Song",
+        0.0
+      ],
+      [
         "Keegan Bennett",
         0.0
       ],
@@ -2077,10 +2077,10 @@
   },
   "stage_pipeline_value": {
     "New Lead": 43250000.0,
+    "Lost": 62175000.0,
     "Showed Up": 1075000.0,
     "Booked": 3100000.0,
     "Nurturing": 3875000.0,
-    "Lost": 62175000.0,
     "Not Yet Ready": 8400000.0,
     "Won \u2014 Build Confirmed": 2480000.0,
     "Builder Shortlist Sent": 30000.0,
