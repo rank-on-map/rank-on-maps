@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-09-05T18:48:46.375103+00:00",
+  "generated_at": "2026-09-05T19:19:13.797643+00:00",
   "totals": {
-    "total_leads": 822,
-    "leads_30d": 246,
-    "total_opps": 505,
+    "total_leads": 824,
+    "leads_30d": 248,
+    "total_opps": 506,
     "calls_booked": 76,
     "ppas_signed": 25,
     "pipeline_value": 125785000
   },
   "channels_30d": {
+    "Other": 28,
+    "Eligibility": 78,
     "REA": 139,
-    "Other": 27,
-    "Eligibility": 77,
     "Contact": 3
   },
   "channels_total": {
+    "Other": 118,
+    "Eligibility": 198,
     "REA": 496,
-    "Other": 117,
-    "Eligibility": 197,
     "Contact": 12
   },
   "stages": {
-    "New Lead": 175,
+    "New Lead": 176,
     "Lost": 183,
     "Showed Up": 12,
     "Booked": 30,
@@ -281,6 +281,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Hugo  Ku",
+        0.0
       ],
       [
         "Julie White",
@@ -2100,9 +2104,9 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 41,
-      "leads_total": 143,
-      "opps_total": 146,
+      "leads_30d": 42,
+      "leads_total": 144,
+      "opps_total": 147,
       "opps_qualified": 0,
       "opps_won": 11
     },
@@ -2127,7 +2131,6 @@
   },
   "round_robin": {
     "last12": [
-      "Hasib",
       "Abdullah",
       "David",
       "Masih",
@@ -2138,16 +2141,17 @@
       "Masih",
       "Abdullah",
       "David",
-      "Hasib"
+      "Hasib",
+      "Abdullah"
     ],
     "balance": {
-      "Hasib": 3,
-      "Abdullah": 3,
+      "Abdullah": 4,
       "David": 3,
-      "Masih": 3
+      "Masih": 3,
+      "Hasib": 2
     },
     "health": "healthy",
-    "sequence_arrow": "Hasib \u2192 Abdullah \u2192 David \u2192 Masih \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib"
+    "sequence_arrow": "Abdullah \u2192 David \u2192 Masih \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Abdullah"
   },
   "appointments": []
 }
