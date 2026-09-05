@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T15:15:17.458610+00:00",
+  "generated_at": "2026-09-05T15:45:56.376740+00:00",
   "totals": {
-    "total_leads": 800,
+    "total_leads": 822,
     "leads_30d": 246,
     "total_opps": 505,
     "calls_booked": 76,
@@ -15,9 +15,9 @@
     "Contact": 3
   },
   "channels_total": {
-    "REA": 486,
-    "Other": 109,
-    "Eligibility": 193,
+    "REA": 496,
+    "Other": 117,
+    "Eligibility": 197,
     "Contact": 12
   },
   "stages": {
@@ -2092,7 +2092,7 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 54,
-      "leads_total": 175,
+      "leads_total": 186,
       "opps_total": 128,
       "opps_qualified": 0,
       "opps_won": 3
@@ -2101,7 +2101,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 41,
-      "leads_total": 136,
+      "leads_total": 143,
       "opps_total": 146,
       "opps_qualified": 0,
       "opps_won": 11
@@ -2110,7 +2110,7 @@
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 63,
-      "leads_total": 202,
+      "leads_total": 204,
       "opps_total": 133,
       "opps_qualified": 2,
       "opps_won": 8
@@ -2119,7 +2119,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 62,
-      "leads_total": 210,
+      "leads_total": 211,
       "opps_total": 96,
       "opps_qualified": 2,
       "opps_won": 2
