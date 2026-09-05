@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-05T02:46:02.179968+00:00",
+  "generated_at": "2026-09-05T03:17:03.329664+00:00",
   "totals": {
     "total_leads": 817,
     "leads_30d": 246,
-    "total_opps": 500,
+    "total_opps": 505,
     "calls_booked": 76,
     "ppas_signed": 25,
-    "pipeline_value": 123460000
+    "pipeline_value": 125785000
   },
   "channels_30d": {
     "REA": 137,
@@ -21,7 +21,7 @@
     "Contact": 12
   },
   "stages": {
-    "New Lead": 171,
+    "New Lead": 176,
     "Showed Up": 12,
     "Booked": 30,
     "Nurturing": 18,
@@ -37,6 +37,10 @@
       [
         "Jody Cole",
         1075000.0
+      ],
+      [
+        "Georgia Seed",
+        925000.0
       ],
       [
         "Nathalya Kennedy",
@@ -57,6 +61,10 @@
       [
         "bernie \u2014 REA",
         925000.0
+      ],
+      [
+        "Harley Price",
+        775000.0
       ],
       [
         "Emi Vijitra Taboon",
@@ -129,6 +137,10 @@
       [
         "Balamurugan Arumugam",
         775000.0
+      ],
+      [
+        "Richard Roberts",
+        625000.0
       ],
       [
         "Mikayla Edwards",
@@ -269,6 +281,14 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Julie White",
+        0.0
+      ],
+      [
+        "Jack Macfarlane",
+        0.0
       ],
       [
         "Jasmine Song",
@@ -2056,7 +2076,7 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 40925000.0,
+    "New Lead": 43250000.0,
     "Showed Up": 1075000.0,
     "Booked": 3100000.0,
     "Nurturing": 3875000.0,
@@ -2082,7 +2102,7 @@
       "initial": "A",
       "leads_30d": 42,
       "leads_total": 142,
-      "opps_total": 145,
+      "opps_total": 146,
       "opps_qualified": 0,
       "opps_won": 11
     },
@@ -2091,7 +2111,7 @@
       "initial": "H",
       "leads_30d": 62,
       "leads_total": 202,
-      "opps_total": 129,
+      "opps_total": 133,
       "opps_qualified": 2,
       "opps_won": 8
     },
