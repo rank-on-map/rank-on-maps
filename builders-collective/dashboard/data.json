@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-07T06:22:01.089312+00:00",
+  "generated_at": "2026-09-07T06:52:28.234198+00:00",
   "totals": {
-    "total_leads": 851,
-    "leads_30d": 267,
+    "total_leads": 852,
+    "leads_30d": 268,
     "total_opps": 517,
-    "calls_booked": 70,
+    "calls_booked": 71,
     "ppas_signed": 26,
     "pipeline_value": 128585000
   },
   "channels_30d": {
+    "REA": 145,
     "Eligibility": 76,
-    "REA": 144,
     "Meta": 18,
     "Other": 26,
     "Contact": 3
   },
   "channels_total": {
+    "REA": 506,
     "Eligibility": 198,
-    "REA": 505,
     "Meta": 18,
     "Other": 118,
     "Contact": 12
   },
   "stages": {
     "Lost": 189,
-    "New Lead": 183,
+    "New Lead": 182,
     "Qualified": 5,
+    "Booked": 28,
     "Showed Up": 9,
-    "Booked": 27,
     "Nurturing": 18,
     "Not Yet Ready": 57,
     "Won \u2014 Build Confirmed": 26,
@@ -306,10 +306,6 @@
       ],
       [
         "Jesse Alcedo",
-        0.0
-      ],
-      [
-        "Princess  Oyelowo",
         0.0
       ],
       [
@@ -855,6 +851,10 @@
       [
         "ann castro \u2014 REA",
         775000.0
+      ],
+      [
+        "Princess  Oyelowo",
+        0.0
       ],
       [
         "Cheyenne Doughty",
@@ -2129,8 +2129,8 @@
     "Lost": 63250000.0,
     "New Lead": 45425000.0,
     "Qualified": 625000.0,
-    "Showed Up": 0.0,
     "Booked": 2475000.0,
+    "Showed Up": 0.0,
     "Nurturing": 3875000.0,
     "Not Yet Ready": 9025000.0,
     "Won \u2014 Build Confirmed": 3255000.0,
@@ -2141,8 +2141,8 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 55,
-      "leads_total": 190,
+      "leads_30d": 56,
+      "leads_total": 191,
       "opps_total": 137,
       "opps_qualified": 1,
       "opps_won": 4
