@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T05:51:34.659900+00:00",
+  "generated_at": "2026-09-07T06:22:01.089312+00:00",
   "totals": {
     "total_leads": 851,
     "leads_30d": 267,
     "total_opps": 517,
-    "calls_booked": 75,
-    "ppas_signed": 25,
+    "calls_booked": 70,
+    "ppas_signed": 26,
     "pipeline_value": 128585000
   },
   "channels_30d": {
@@ -23,16 +23,16 @@
     "Contact": 12
   },
   "stages": {
-    "New Lead": 186,
-    "Lost": 185,
-    "Showed Up": 11,
+    "Lost": 189,
+    "New Lead": 183,
     "Qualified": 5,
-    "Booked": 29,
+    "Showed Up": 9,
+    "Booked": 27,
     "Nurturing": 18,
-    "Not Yet Ready": 53,
-    "Won \u2014 Build Confirmed": 25,
-    "Builder Shortlist Sent": 2,
-    "Site Visit Scheduled": 3
+    "Not Yet Ready": 57,
+    "Won \u2014 Build Confirmed": 26,
+    "Builder Shortlist Sent": 1,
+    "Site Visit Scheduled": 2
   },
   "stage_top_deals": {
     "New Lead": [
@@ -147,10 +147,6 @@
       [
         "Balamurugan Arumugam",
         775000.0
-      ],
-      [
-        "Ali Alizada",
-        625000.0
       ],
       [
         "Rica lyn Marquez",
@@ -301,10 +297,6 @@
         325000.0
       ],
       [
-        "Jesse Marijanich",
-        0.0
-      ],
-      [
         "Faruk Khan",
         0.0
       ],
@@ -406,10 +398,6 @@
       ],
       [
         "Rinchen Choden",
-        0.0
-      ],
-      [
-        "Eve Williamson ",
         0.0
       ],
       [
@@ -869,10 +857,6 @@
         775000.0
       ],
       [
-        "Aiza Alburo",
-        625000.0
-      ],
-      [
         "Cheyenne Doughty",
         0.0
       ],
@@ -890,10 +874,6 @@
       ],
       [
         "Wajiha Ali",
-        0.0
-      ],
-      [
-        "Sydney  Payne",
         0.0
       ],
       [
@@ -983,14 +963,6 @@
         0.0
       ],
       [
-        "",
-        0.0
-      ],
-      [
-        "Margot Slaughter",
-        0.0
-      ],
-      [
         "Chris Jones",
         0.0
       ],
@@ -1021,8 +993,8 @@
     ],
     "Qualified": [
       [
-        "Corfield Seinor",
-        0.0
+        "Ali Alizada",
+        625000.0
       ],
       [
         "Jess  Buck ",
@@ -1043,10 +1015,6 @@
     ],
     "Site Visit Scheduled": [
       [
-        "Nicholas Mentiplay",
-        775000.0
-      ],
-      [
         "paul farr \u2014 REA",
         625000.0
       ],
@@ -1059,14 +1027,14 @@
       [
         "Philip Mensah",
         30000.0
-      ],
-      [
-        "Andrea Chin",
-        0.0
       ]
     ],
     "Contract Review": [],
     "Won \u2014 Build Confirmed": [
+      [
+        "Nicholas Mentiplay",
+        775000.0
+      ],
       [
         "Malak Aly",
         775000.0
@@ -1186,6 +1154,10 @@
         775000.0
       ],
       [
+        "Aiza Alburo",
+        625000.0
+      ],
+      [
         "Katharine Roberts",
         625000.0
       ],
@@ -1218,11 +1190,23 @@
         625000.0
       ],
       [
+        "",
+        0.0
+      ],
+      [
         "Jane Wanjiru",
         0.0
       ],
       [
+        "Margot Slaughter",
+        0.0
+      ],
+      [
         "Jaiden Barker",
+        0.0
+      ],
+      [
+        "Sydney  Payne",
         0.0
       ],
       [
@@ -1712,7 +1696,15 @@
         25000.0
       ],
       [
+        "Jesse Marijanich",
+        0.0
+      ],
+      [
         "Jasmine Song",
+        0.0
+      ],
+      [
+        "Corfield Seinor",
         0.0
       ],
       [
@@ -1721,6 +1713,10 @@
       ],
       [
         "Keegan Bennett",
+        0.0
+      ],
+      [
+        "Eve Williamson ",
         0.0
       ],
       [
@@ -1753,6 +1749,10 @@
       ],
       [
         "Bronson Scanlan ",
+        0.0
+      ],
+      [
+        "Andrea Chin",
         0.0
       ],
       [
@@ -2126,16 +2126,16 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 46050000.0,
     "Lost": 63250000.0,
+    "New Lead": 45425000.0,
+    "Qualified": 625000.0,
     "Showed Up": 0.0,
-    "Qualified": 0.0,
-    "Booked": 3100000.0,
+    "Booked": 2475000.0,
     "Nurturing": 3875000.0,
-    "Not Yet Ready": 8400000.0,
-    "Won \u2014 Build Confirmed": 2480000.0,
+    "Not Yet Ready": 9025000.0,
+    "Won \u2014 Build Confirmed": 3255000.0,
     "Builder Shortlist Sent": 30000.0,
-    "Site Visit Scheduled": 1400000.0
+    "Site Visit Scheduled": 625000.0
   },
   "per_rep": {
     "nNlkTC2z33NTPyxTxdE8": {
@@ -2145,7 +2145,7 @@
       "leads_total": 190,
       "opps_total": 137,
       "opps_qualified": 1,
-      "opps_won": 3
+      "opps_won": 4
     },
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
