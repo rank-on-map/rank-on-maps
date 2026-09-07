@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-07T05:21:05.177637+00:00",
+  "generated_at": "2026-09-07T05:51:34.659900+00:00",
   "totals": {
     "total_leads": 851,
     "leads_30d": 267,
-    "total_opps": 509,
+    "total_opps": 517,
     "calls_booked": 75,
     "ppas_signed": 25,
-    "pipeline_value": 125785000
+    "pipeline_value": 128585000
   },
   "channels_30d": {
     "Eligibility": 76,
@@ -23,7 +23,7 @@
     "Contact": 12
   },
   "stages": {
-    "New Lead": 178,
+    "New Lead": 186,
     "Lost": 185,
     "Showed Up": 11,
     "Qualified": 5,
@@ -63,6 +63,14 @@
       [
         "bernie \u2014 REA",
         925000.0
+      ],
+      [
+        "Marcia Lucchese",
+        775000.0
+      ],
+      [
+        "Kuwar Batra",
+        775000.0
       ],
       [
         "Harley Price",
@@ -139,6 +147,14 @@
       [
         "Balamurugan Arumugam",
         775000.0
+      ],
+      [
+        "Ali Alizada",
+        625000.0
+      ],
+      [
+        "Rica lyn Marquez",
+        625000.0
       ],
       [
         "Richard Roberts",
@@ -283,6 +299,22 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Jesse Marijanich",
+        0.0
+      ],
+      [
+        "Faruk Khan",
+        0.0
+      ],
+      [
+        "Phuong Tran",
+        0.0
+      ],
+      [
+        "Jesse Alcedo",
+        0.0
       ],
       [
         "Princess  Oyelowo",
@@ -2094,7 +2126,7 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 43250000.0,
+    "New Lead": 46050000.0,
     "Lost": 63250000.0,
     "Showed Up": 0.0,
     "Qualified": 0.0,
@@ -2111,7 +2143,7 @@
       "initial": "D",
       "leads_30d": 55,
       "leads_total": 190,
-      "opps_total": 129,
+      "opps_total": 137,
       "opps_qualified": 1,
       "opps_won": 3
     },
