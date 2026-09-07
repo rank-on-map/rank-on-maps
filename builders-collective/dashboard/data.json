@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-07T07:53:20.643727+00:00",
+  "generated_at": "2026-09-07T08:23:48.661821+00:00",
   "totals": {
     "total_leads": 852,
     "leads_30d": 268,
-    "total_opps": 517,
-    "calls_booked": 71,
+    "total_opps": 518,
+    "calls_booked": 72,
     "ppas_signed": 26,
     "pipeline_value": 128585000
   },
@@ -23,10 +23,10 @@
     "Contact": 12
   },
   "stages": {
+    "Booked": 29,
     "Lost": 189,
     "New Lead": 182,
     "Qualified": 5,
-    "Booked": 28,
     "Showed Up": 9,
     "Nurturing": 18,
     "Not Yet Ready": 57,
@@ -851,6 +851,10 @@
       [
         "ann castro \u2014 REA",
         775000.0
+      ],
+      [
+        "Monica d",
+        0.0
       ],
       [
         "Princess  Oyelowo",
@@ -2126,10 +2130,10 @@
     ]
   },
   "stage_pipeline_value": {
+    "Booked": 2475000.0,
     "Lost": 63250000.0,
     "New Lead": 45425000.0,
     "Qualified": 625000.0,
-    "Booked": 2475000.0,
     "Showed Up": 0.0,
     "Nurturing": 3875000.0,
     "Not Yet Ready": 9025000.0,
@@ -2161,7 +2165,7 @@
       "initial": "H",
       "leads_30d": 73,
       "leads_total": 215,
-      "opps_total": 134,
+      "opps_total": 135,
       "opps_qualified": 2,
       "opps_won": 8
     },
