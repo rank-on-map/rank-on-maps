@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-07T01:56:04.823589+00:00",
+  "generated_at": "2026-09-07T04:05:14.044587+00:00",
   "totals": {
     "total_leads": 850,
-    "leads_30d": 269,
+    "leads_30d": 268,
     "total_opps": 508,
     "calls_booked": 76,
     "ppas_signed": 25,
     "pipeline_value": 125785000
   },
   "channels_30d": {
-    "REA": 145,
+    "REA": 144,
     "Meta": 18,
     "Other": 27,
     "Eligibility": 76,
@@ -23,15 +23,15 @@
     "Contact": 12
   },
   "stages": {
-    "New Lead": 178,
-    "Lost": 183,
+    "New Lead": 177,
+    "Lost": 184,
     "Showed Up": 12,
-    "Booked": 30,
+    "Qualified": 5,
+    "Booked": 29,
     "Nurturing": 18,
     "Not Yet Ready": 53,
     "Won \u2014 Build Confirmed": 25,
     "Builder Shortlist Sent": 2,
-    "Qualified": 4,
     "Site Visit Scheduled": 3
   },
   "stage_top_deals": {
@@ -309,15 +309,7 @@
         0.0
       ],
       [
-        "Corfield Seinor",
-        0.0
-      ],
-      [
         "Kudzai Materwa",
-        0.0
-      ],
-      [
-        "John Marsh",
         0.0
       ],
       [
@@ -326,6 +318,10 @@
       ],
       [
         "Bradley Kuhn",
+        0.0
+      ],
+      [
+        "Brad Dyer",
         0.0
       ],
       [
@@ -853,10 +849,6 @@
         0.0
       ],
       [
-        "Brad Dyer",
-        0.0
-      ],
-      [
         "Kenny Mckinnon",
         0.0
       ],
@@ -996,6 +988,10 @@
       ]
     ],
     "Qualified": [
+      [
+        "Corfield Seinor",
+        0.0
+      ],
       [
         "Jess  Buck ",
         0.0
@@ -1684,6 +1680,10 @@
         0.0
       ],
       [
+        "John Marsh",
+        0.0
+      ],
+      [
         "Keegan Bennett",
         0.0
       ],
@@ -2093,12 +2093,12 @@
     "New Lead": 43250000.0,
     "Lost": 62175000.0,
     "Showed Up": 1075000.0,
+    "Qualified": 0.0,
     "Booked": 3100000.0,
     "Nurturing": 3875000.0,
     "Not Yet Ready": 8400000.0,
     "Won \u2014 Build Confirmed": 2480000.0,
     "Builder Shortlist Sent": 30000.0,
-    "Qualified": 0.0,
     "Site Visit Scheduled": 1400000.0
   },
   "per_rep": {
@@ -2108,13 +2108,13 @@
       "leads_30d": 56,
       "leads_total": 190,
       "opps_total": 129,
-      "opps_qualified": 0,
+      "opps_qualified": 1,
       "opps_won": 3
     },
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 41,
+      "leads_30d": 40,
       "leads_total": 144,
       "opps_total": 147,
       "opps_qualified": 0,
