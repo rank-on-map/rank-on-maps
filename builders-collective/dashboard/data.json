@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-07T04:35:40.582470+00:00",
+  "generated_at": "2026-09-07T05:21:05.177637+00:00",
   "totals": {
-    "total_leads": 850,
+    "total_leads": 851,
     "leads_30d": 267,
-    "total_opps": 508,
+    "total_opps": 509,
     "calls_booked": 75,
     "ppas_signed": 25,
     "pipeline_value": 125785000
   },
   "channels_30d": {
+    "Eligibility": 76,
     "REA": 144,
     "Meta": 18,
-    "Other": 27,
-    "Eligibility": 75,
+    "Other": 26,
     "Contact": 3
   },
   "channels_total": {
+    "Eligibility": 198,
     "REA": 505,
     "Meta": 18,
     "Other": 118,
-    "Eligibility": 197,
     "Contact": 12
   },
   "stages": {
-    "New Lead": 177,
+    "New Lead": 178,
     "Lost": 185,
     "Showed Up": 11,
     "Qualified": 5,
@@ -283,6 +283,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Princess  Oyelowo",
+        0.0
       ],
       [
         "Hardikkumar  Gandhi ",
@@ -2132,16 +2136,15 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 62,
-      "leads_total": 211,
-      "opps_total": 96,
+      "leads_30d": 63,
+      "leads_total": 212,
+      "opps_total": 97,
       "opps_qualified": 2,
       "opps_won": 2
     }
   },
   "round_robin": {
     "last12": [
-      "Hasib",
       "Abdullah",
       "David",
       "Masih",
@@ -2152,16 +2155,17 @@
       "Masih",
       "Abdullah",
       "David",
-      "Hasib"
+      "Hasib",
+      "Masih"
     ],
     "balance": {
-      "Hasib": 3,
       "Abdullah": 3,
       "David": 3,
-      "Masih": 3
+      "Masih": 4,
+      "Hasib": 2
     },
     "health": "healthy",
-    "sequence_arrow": "Hasib \u2192 Abdullah \u2192 David \u2192 Masih \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib"
+    "sequence_arrow": "Abdullah \u2192 David \u2192 Masih \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih"
   },
   "appointments": []
 }
