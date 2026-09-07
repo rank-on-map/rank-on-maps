@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-07T08:54:15.984123+00:00",
+  "generated_at": "2026-09-07T09:24:44.894698+00:00",
   "totals": {
     "total_leads": 852,
     "leads_30d": 268,
-    "total_opps": 518,
+    "total_opps": 533,
     "calls_booked": 72,
     "ppas_signed": 26,
     "pipeline_value": 128585000
@@ -24,8 +24,8 @@
   },
   "stages": {
     "Booked": 29,
+    "New Lead": 197,
     "Lost": 189,
-    "New Lead": 182,
     "Qualified": 5,
     "Showed Up": 9,
     "Nurturing": 18,
@@ -295,6 +295,66 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "yasin buke",
+        0.0
+      ],
+      [
+        "wazza...",
+        0.0
+      ],
+      [
+        "neesha hyde",
+        0.0
+      ],
+      [
+        "anpu @anpu",
+        0.0
+      ],
+      [
+        "lee katherine lim",
+        0.0
+      ],
+      [
+        "s_verden@hotmail.com",
+        0.0
+      ],
+      [
+        "krisada kongtakool",
+        0.0
+      ],
+      [
+        "carolina dr",
+        0.0
+      ],
+      [
+        "roni larden",
+        0.0
+      ],
+      [
+        "rin chainet",
+        0.0
+      ],
+      [
+        "laurence mitchell",
+        0.0
+      ],
+      [
+        "greg",
+        0.0
+      ],
+      [
+        "hemlata bhanot",
+        0.0
+      ],
+      [
+        "david cloudesley",
+        0.0
+      ],
+      [
+        "bomber webster",
+        0.0
       ],
       [
         "Faruk Khan",
@@ -2131,8 +2191,8 @@
   },
   "stage_pipeline_value": {
     "Booked": 2475000.0,
-    "Lost": 63250000.0,
     "New Lead": 45425000.0,
+    "Lost": 63250000.0,
     "Qualified": 625000.0,
     "Showed Up": 0.0,
     "Nurturing": 3875000.0,
@@ -2147,7 +2207,7 @@
       "initial": "D",
       "leads_30d": 60,
       "leads_total": 195,
-      "opps_total": 137,
+      "opps_total": 141,
       "opps_qualified": 1,
       "opps_won": 4
     },
@@ -2156,7 +2216,7 @@
       "initial": "A",
       "leads_30d": 43,
       "leads_total": 147,
-      "opps_total": 147,
+      "opps_total": 150,
       "opps_qualified": 0,
       "opps_won": 11
     },
@@ -2165,7 +2225,7 @@
       "initial": "H",
       "leads_30d": 73,
       "leads_total": 215,
-      "opps_total": 135,
+      "opps_total": 139,
       "opps_qualified": 2,
       "opps_won": 8
     },
@@ -2174,7 +2234,7 @@
       "initial": "M",
       "leads_30d": 67,
       "leads_total": 216,
-      "opps_total": 97,
+      "opps_total": 101,
       "opps_qualified": 2,
       "opps_won": 2
     }
