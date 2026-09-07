@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-07T09:55:11.999087+00:00",
+  "generated_at": "2026-09-07T10:25:39.405058+00:00",
   "totals": {
-    "total_leads": 853,
-    "leads_30d": 268,
-    "total_opps": 534,
+    "total_leads": 854,
+    "leads_30d": 269,
+    "total_opps": 535,
     "calls_booked": 72,
     "ppas_signed": 26,
     "pipeline_value": 128585000
   },
   "channels_30d": {
-    "Eligibility": 76,
+    "Eligibility": 77,
     "REA": 145,
     "Meta": 18,
     "Other": 26,
     "Contact": 3
   },
   "channels_total": {
-    "Eligibility": 199,
+    "Eligibility": 200,
     "REA": 506,
     "Meta": 18,
     "Other": 118,
     "Contact": 12
   },
   "stages": {
-    "New Lead": 198,
+    "New Lead": 199,
     "Booked": 29,
     "Lost": 189,
     "Qualified": 5,
@@ -295,6 +295,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Lyssa Campbell",
+        0.0
       ],
       [
         "Jason Grigio",
@@ -2209,9 +2213,9 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 60,
-      "leads_total": 195,
-      "opps_total": 141,
+      "leads_30d": 61,
+      "leads_total": 196,
+      "opps_total": 142,
       "opps_qualified": 1,
       "opps_won": 4
     },
@@ -2245,7 +2249,6 @@
   },
   "round_robin": {
     "last12": [
-      "David",
       "Masih",
       "Masih",
       "Abdullah",
@@ -2256,16 +2259,17 @@
       "David",
       "Hasib",
       "Masih",
-      "Abdullah"
+      "Abdullah",
+      "David"
     ],
     "balance": {
-      "David": 3,
       "Masih": 4,
       "Abdullah": 3,
+      "David": 3,
       "Hasib": 2
     },
     "health": "healthy",
-    "sequence_arrow": "David \u2192 Masih \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah"
+    "sequence_arrow": "Masih \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David"
   },
   "appointments": []
 }
