@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-08T01:10:49.581203+00:00",
+  "generated_at": "2026-09-08T01:41:18.303044+00:00",
   "totals": {
     "total_leads": 857,
-    "leads_30d": 270,
+    "leads_30d": 269,
     "total_opps": 536,
     "calls_booked": 72,
     "ppas_signed": 26,
@@ -10,7 +10,7 @@
   },
   "channels_30d": {
     "REA": 144,
-    "Eligibility": 78,
+    "Eligibility": 77,
     "Other": 27,
     "Meta": 18,
     "Contact": 3
@@ -2244,7 +2244,7 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 68,
+      "leads_30d": 67,
       "leads_total": 217,
       "opps_total": 101,
       "opps_qualified": 2,
