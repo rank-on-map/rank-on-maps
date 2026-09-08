@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-08T07:47:16.096480+00:00",
+  "generated_at": "2026-09-08T08:17:46.421008+00:00",
   "totals": {
-    "total_leads": 857,
-    "leads_30d": 266,
-    "total_opps": 536,
+    "total_leads": 858,
+    "leads_30d": 267,
+    "total_opps": 537,
     "calls_booked": 73,
     "ppas_signed": 26,
-    "pipeline_value": 128585000
+    "pipeline_value": 129360000
   },
   "channels_30d": {
-    "REA": 141,
+    "REA": 142,
     "Eligibility": 77,
     "Other": 27,
     "Meta": 18,
     "Contact": 3
   },
   "channels_total": {
-    "REA": 507,
+    "REA": 508,
     "Eligibility": 201,
     "Other": 119,
     "Meta": 18,
     "Contact": 12
   },
   "stages": {
-    "New Lead": 199,
+    "New Lead": 197,
     "Booked": 29,
+    "Lost": 193,
     "Showed Up": 10,
-    "Lost": 190,
     "Qualified": 5,
     "Nurturing": 17,
     "Not Yet Ready": 57,
@@ -36,10 +36,6 @@
   },
   "stage_top_deals": {
     "New Lead": [
-      [
-        "Jody Cole",
-        1075000.0
-      ],
       [
         "Georgia Seed",
         925000.0
@@ -63,6 +59,10 @@
       [
         "bernie \u2014 REA",
         925000.0
+      ],
+      [
+        "Bianca Mutodi",
+        775000.0
       ],
       [
         "Marcia Lucchese",
@@ -334,10 +334,6 @@
       ],
       [
         "krisada kongtakool",
-        0.0
-      ],
-      [
-        "carolina dr",
         0.0
       ],
       [
@@ -726,10 +722,6 @@
       ],
       [
         "Michelle Kho",
-        0.0
-      ],
-      [
-        "Neil Keiles",
         0.0
       ],
       [
@@ -1448,6 +1440,10 @@
         1225000.0
       ],
       [
+        "Jody Cole",
+        1075000.0
+      ],
+      [
         "Denny Uneputty",
         1075000.0
       ],
@@ -1772,6 +1768,10 @@
         25000.0
       ],
       [
+        "carolina dr",
+        0.0
+      ],
+      [
         "Jesse Marijanich",
         0.0
       ],
@@ -2036,6 +2036,10 @@
         0.0
       ],
       [
+        "Neil Keiles",
+        0.0
+      ],
+      [
         "Kirsten Silvey",
         0.0
       ],
@@ -2202,10 +2206,10 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 45425000.0,
+    "New Lead": 45125000.0,
     "Booked": 2475000.0,
+    "Lost": 65100000.0,
     "Showed Up": 0.0,
-    "Lost": 64025000.0,
     "Qualified": 625000.0,
     "Nurturing": 3100000.0,
     "Not Yet Ready": 9025000.0,
@@ -2226,9 +2230,9 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 44,
-      "leads_total": 148,
-      "opps_total": 151,
+      "leads_30d": 45,
+      "leads_total": 149,
+      "opps_total": 152,
       "opps_qualified": 0,
       "opps_won": 11
     },
