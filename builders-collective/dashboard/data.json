@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-08T07:16:46.301381+00:00",
+  "generated_at": "2026-09-08T07:47:16.096480+00:00",
   "totals": {
     "total_leads": 857,
-    "leads_30d": 267,
+    "leads_30d": 266,
     "total_opps": 536,
-    "calls_booked": 72,
+    "calls_booked": 73,
     "ppas_signed": 26,
     "pipeline_value": 128585000
   },
   "channels_30d": {
-    "REA": 142,
+    "REA": 141,
     "Eligibility": 77,
     "Other": 27,
     "Meta": 18,
@@ -23,12 +23,12 @@
     "Contact": 12
   },
   "stages": {
-    "New Lead": 200,
+    "New Lead": 199,
     "Booked": 29,
-    "Lost": 189,
+    "Showed Up": 10,
+    "Lost": 190,
     "Qualified": 5,
-    "Showed Up": 9,
-    "Nurturing": 18,
+    "Nurturing": 17,
     "Not Yet Ready": 57,
     "Won \u2014 Build Confirmed": 26,
     "Builder Shortlist Sent": 1,
@@ -346,10 +346,6 @@
       ],
       [
         "rin chainet",
-        0.0
-      ],
-      [
-        "laurence mitchell",
         0.0
       ],
       [
@@ -843,10 +839,6 @@
         1075000.0
       ],
       [
-        "Ivy Lam",
-        775000.0
-      ],
-      [
         "Taufiq Suthar",
         775000.0
       ],
@@ -1030,6 +1022,10 @@
       ]
     ],
     "Showed Up": [
+      [
+        "laurence mitchell",
+        0.0
+      ],
       [
         "Les Edwards",
         0.0
@@ -1561,6 +1557,10 @@
       ],
       [
         "Riana Venter",
+        775000.0
+      ],
+      [
+        "Ivy Lam",
         775000.0
       ],
       [
@@ -2204,10 +2204,10 @@
   "stage_pipeline_value": {
     "New Lead": 45425000.0,
     "Booked": 2475000.0,
-    "Lost": 63250000.0,
-    "Qualified": 625000.0,
     "Showed Up": 0.0,
-    "Nurturing": 3875000.0,
+    "Lost": 64025000.0,
+    "Qualified": 625000.0,
+    "Nurturing": 3100000.0,
     "Not Yet Ready": 9025000.0,
     "Won \u2014 Build Confirmed": 3255000.0,
     "Builder Shortlist Sent": 30000.0,
@@ -2235,7 +2235,7 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 70,
+      "leads_30d": 69,
       "leads_total": 216,
       "opps_total": 140,
       "opps_qualified": 2,
