@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-08T08:17:46.421008+00:00",
+  "generated_at": "2026-09-08T08:48:14.677703+00:00",
   "totals": {
     "total_leads": 858,
     "leads_30d": 267,
     "total_opps": 537,
-    "calls_booked": 73,
+    "calls_booked": 72,
     "ppas_signed": 26,
     "pipeline_value": 129360000
   },
@@ -23,14 +23,15 @@
     "Contact": 12
   },
   "stages": {
-    "New Lead": 197,
-    "Booked": 29,
+    "New Lead": 196,
+    "Booked": 28,
     "Lost": 193,
-    "Showed Up": 10,
-    "Qualified": 5,
-    "Nurturing": 17,
-    "Not Yet Ready": 57,
+    "Not Yet Ready": 60,
+    "Contract Review": 1,
+    "Showed Up": 9,
+    "Nurturing": 16,
     "Won \u2014 Build Confirmed": 26,
+    "Qualified": 5,
     "Builder Shortlist Sent": 1,
     "Site Visit Scheduled": 2
   },
@@ -729,10 +730,6 @@
         0.0
       ],
       [
-        "Krishnee",
-        0.0
-      ],
-      [
         "Test Dees",
         0.0
       ],
@@ -883,10 +880,6 @@
         0.0
       ],
       [
-        "Louis Peel",
-        0.0
-      ],
-      [
         "Primrose Ngwende",
         0.0
       ],
@@ -899,10 +892,6 @@
       [
         "sarah iddamalgoda \u2014 REA",
         925000.0
-      ],
-      [
-        "Janak Bhandari",
-        775000.0
       ],
       [
         "ann castro \u2014 REA",
@@ -1015,10 +1004,6 @@
     ],
     "Showed Up": [
       [
-        "laurence mitchell",
-        0.0
-      ],
-      [
         "Les Edwards",
         0.0
       ],
@@ -1057,11 +1042,11 @@
     ],
     "Qualified": [
       [
-        "Ali Alizada",
-        625000.0
+        "Jess  Buck ",
+        0.0
       ],
       [
-        "Jess  Buck ",
+        "Krishnee",
         0.0
       ],
       [
@@ -1093,7 +1078,12 @@
         30000.0
       ]
     ],
-    "Contract Review": [],
+    "Contract Review": [
+      [
+        "Ali Alizada",
+        625000.0
+      ]
+    ],
     "Won \u2014 Build Confirmed": [
       [
         "Nicholas Mentiplay",
@@ -1206,6 +1196,10 @@
         1075000.0
       ],
       [
+        "Janak Bhandari",
+        775000.0
+      ],
+      [
         "amandeep kaur \u2014 REA",
         775000.0
       ],
@@ -1252,6 +1246,10 @@
       [
         "Andrew Tan",
         625000.0
+      ],
+      [
+        "laurence mitchell",
+        0.0
       ],
       [
         "",
@@ -1387,6 +1385,10 @@
       ],
       [
         "celeste gimenez \u2014 REA",
+        0.0
+      ],
+      [
+        "Louis Peel",
         0.0
       ],
       [
@@ -2207,13 +2209,14 @@
   },
   "stage_pipeline_value": {
     "New Lead": 45125000.0,
-    "Booked": 2475000.0,
+    "Booked": 1700000.0,
     "Lost": 65100000.0,
+    "Not Yet Ready": 9800000.0,
+    "Contract Review": 625000.0,
     "Showed Up": 0.0,
-    "Qualified": 625000.0,
     "Nurturing": 3100000.0,
-    "Not Yet Ready": 9025000.0,
     "Won \u2014 Build Confirmed": 3255000.0,
+    "Qualified": 0.0,
     "Builder Shortlist Sent": 30000.0,
     "Site Visit Scheduled": 625000.0
   },
