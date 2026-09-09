@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-09-09T02:15:09.718795+00:00",
+  "generated_at": "2026-09-09T03:29:28.658153+00:00",
   "totals": {
-    "total_leads": 864,
-    "leads_30d": 269,
+    "total_leads": 865,
+    "leads_30d": 270,
     "total_opps": 540,
     "calls_booked": 72,
     "ppas_signed": 26,
     "pipeline_value": 129360000
   },
   "channels_30d": {
+    "Other": 28,
     "Eligibility": 77,
     "REA": 144,
-    "Other": 27,
     "Meta": 18,
     "Contact": 3
   },
   "channels_total": {
+    "Other": 120,
     "Eligibility": 204,
     "REA": 511,
-    "Other": 119,
     "Meta": 18,
     "Contact": 12
   },
   "stages": {
     "New Lead": 199,
-    "Booked": 28,
+    "Booked": 27,
     "Lost": 193,
     "Not Yet Ready": 60,
     "Contract Review": 1,
-    "Showed Up": 9,
+    "Showed Up": 10,
     "Nurturing": 16,
     "Won \u2014 Build Confirmed": 26,
     "Qualified": 5,
@@ -950,10 +950,6 @@
         0.0
       ],
       [
-        "Symonne Sykes",
-        0.0
-      ],
-      [
         "Leon Smith",
         0.0
       ],
@@ -1021,6 +1017,10 @@
       ],
       [
         "Solaimuthu Muthu",
+        0.0
+      ],
+      [
+        "Symonne Sykes",
         0.0
       ],
       [
