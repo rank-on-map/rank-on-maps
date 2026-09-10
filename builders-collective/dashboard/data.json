@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:07:13.778325+00:00",
+  "generated_at": "2026-09-10T10:37:42.448684+00:00",
   "totals": {
     "total_leads": 880,
     "leads_30d": 265,
@@ -23,9 +23,9 @@
     "Contact": 12
   },
   "stages": {
-    "New Lead": 202,
+    "New Lead": 200,
     "Booked": 31,
-    "Lost": 201,
+    "Lost": 203,
     "Not Yet Ready": 60,
     "Site Visit Scheduled": 3,
     "Showed Up": 9,
@@ -457,10 +457,6 @@
         0.0
       ],
       [
-        "Peter Luobikis",
-        0.0
-      ],
-      [
         "Charisse Downes",
         0.0
       ],
@@ -538,10 +534,6 @@
       ],
       [
         "Sam Elliott",
-        0.0
-      ],
-      [
-        "Sebastian Cuba",
         0.0
       ],
       [
@@ -1832,6 +1824,10 @@
         0.0
       ],
       [
+        "Peter Luobikis",
+        0.0
+      ],
+      [
         "Keegan Bennett",
         0.0
       ],
@@ -1849,6 +1845,10 @@
       ],
       [
         "Grace Quach",
+        0.0
+      ],
+      [
+        "Sebastian Cuba",
         0.0
       ],
       [
