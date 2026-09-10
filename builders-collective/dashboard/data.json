@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-10T05:11:56.289755+00:00",
+  "generated_at": "2026-09-10T05:46:01.130032+00:00",
   "totals": {
     "total_leads": 878,
-    "leads_30d": 266,
+    "leads_30d": 265,
     "total_opps": 550,
-    "calls_booked": 75,
+    "calls_booked": 74,
     "ppas_signed": 26,
     "pipeline_value": 129360000
   },
   "channels_30d": {
     "Eligibility": 77,
     "REA": 144,
-    "Other": 24,
+    "Other": 23,
     "Meta": 18,
     "Contact": 3
   },
@@ -23,13 +23,12 @@
     "Contact": 12
   },
   "stages": {
-    "Booked": 30,
-    "New Lead": 206,
-    "Lost": 193,
+    "Booked": 31,
+    "New Lead": 204,
+    "Lost": 198,
     "Not Yet Ready": 60,
-    "Contract Review": 1,
-    "Showed Up": 10,
-    "Nurturing": 16,
+    "Showed Up": 9,
+    "Nurturing": 14,
     "Won \u2014 Build Confirmed": 26,
     "Qualified": 5,
     "Builder Shortlist Sent": 1,
@@ -383,10 +382,6 @@
       ],
       [
         "rin chainet",
-        0.0
-      ],
-      [
-        "greg",
         0.0
       ],
       [
@@ -754,10 +749,6 @@
         0.0
       ],
       [
-        "Rachel Statham",
-        0.0
-      ],
-      [
         "Morgan  Fromant",
         0.0
       ],
@@ -868,10 +859,6 @@
         1075000.0
       ],
       [
-        "Taufiq Suthar",
-        775000.0
-      ],
-      [
         "YORDANOS Tadese",
         625000.0
       ],
@@ -920,10 +907,6 @@
         0.0
       ],
       [
-        "Primrose Ngwende",
-        0.0
-      ],
-      [
         "Gabriel Purea",
         0.0
       ]
@@ -951,6 +934,10 @@
       ],
       [
         "Monica d",
+        0.0
+      ],
+      [
+        "greg",
         0.0
       ],
       [
@@ -1068,10 +1055,6 @@
         0.0
       ],
       [
-        "Jordan Bruce",
-        0.0
-      ],
-      [
         "Megan Kjellgren",
         0.0
       ],
@@ -1098,7 +1081,7 @@
         0.0
       ],
       [
-        "Krishnee",
+        "Jordan Bruce",
         0.0
       ],
       [
@@ -1130,12 +1113,7 @@
         30000.0
       ]
     ],
-    "Contract Review": [
-      [
-        "Ali Alizada",
-        625000.0
-      ]
-    ],
+    "Contract Review": [],
     "Won \u2014 Build Confirmed": [
       [
         "Nicholas Mentiplay",
@@ -1614,6 +1592,10 @@
         775000.0
       ],
       [
+        "Taufiq Suthar",
+        775000.0
+      ],
+      [
         "Charlotte Ambrose",
         775000.0
       ],
@@ -1732,6 +1714,10 @@
       [
         "Hermann Kengwah Kinfer",
         775000.0
+      ],
+      [
+        "Ali Alizada",
+        625000.0
       ],
       [
         "Tarlochan Singh Grewal",
@@ -2074,6 +2060,10 @@
         0.0
       ],
       [
+        "Rachel Statham",
+        0.0
+      ],
+      [
         "Thomas Waratini",
         0.0
       ],
@@ -2091,6 +2081,10 @@
       ],
       [
         "Neil Keiles",
+        0.0
+      ],
+      [
+        "Krishnee",
         0.0
       ],
       [
@@ -2238,6 +2232,10 @@
         0.0
       ],
       [
+        "Primrose Ngwende",
+        0.0
+      ],
+      [
         "Denzil Stephens ",
         0.0
       ],
@@ -2262,11 +2260,10 @@
   "stage_pipeline_value": {
     "Booked": 1700000.0,
     "New Lead": 45125000.0,
-    "Lost": 65100000.0,
+    "Lost": 66500000.0,
     "Not Yet Ready": 9800000.0,
-    "Contract Review": 625000.0,
     "Showed Up": 0.0,
-    "Nurturing": 3100000.0,
+    "Nurturing": 2325000.0,
     "Won \u2014 Build Confirmed": 3255000.0,
     "Qualified": 0.0,
     "Builder Shortlist Sent": 30000.0,
