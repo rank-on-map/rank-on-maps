@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-10T12:39:34.100100+00:00",
+  "generated_at": "2026-09-10T13:10:04.021652+00:00",
   "totals": {
-    "total_leads": 881,
+    "total_leads": 882,
     "leads_30d": 266,
-    "total_opps": 553,
+    "total_opps": 554,
     "calls_booked": 75,
     "ppas_signed": 26,
     "pipeline_value": 129360000
   },
   "channels_30d": {
-    "Eligibility": 79,
-    "REA": 143,
+    "REA": 144,
+    "Eligibility": 78,
     "Other": 23,
     "Meta": 18,
     "Contact": 3
   },
   "channels_total": {
+    "REA": 515,
     "Eligibility": 217,
-    "REA": 514,
     "Other": 120,
     "Meta": 18,
     "Contact": 12
   },
   "stages": {
-    "New Lead": 201,
+    "New Lead": 202,
     "Booked": 31,
     "Lost": 203,
     "Not Yet Ready": 60,
@@ -287,6 +287,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "P\u0159\u00e2\u0111\u025b\u025bp \u00c7\u0125\u014d\u0199\u0125\u0257\u00e1\u01b4\u0101\u0167",
+        0.0
       ],
       [
         "Christie Halstead",
@@ -2294,7 +2298,7 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 46,
+      "leads_30d": 45,
       "leads_total": 153,
       "opps_total": 156,
       "opps_qualified": 0,
@@ -2312,9 +2316,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 66,
-      "leads_total": 221,
-      "opps_total": 105,
+      "leads_30d": 67,
+      "leads_total": 222,
+      "opps_total": 106,
       "opps_qualified": 2,
       "opps_won": 2
     }
