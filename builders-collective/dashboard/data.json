@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-10T04:38:09.990571+00:00",
+  "generated_at": "2026-09-10T05:11:56.289755+00:00",
   "totals": {
     "total_leads": 878,
-    "leads_30d": 269,
+    "leads_30d": 266,
     "total_opps": 550,
-    "calls_booked": 74,
+    "calls_booked": 75,
     "ppas_signed": 26,
     "pipeline_value": 129360000
   },
   "channels_30d": {
-    "Eligibility": 78,
-    "REA": 145,
-    "Other": 25,
+    "Eligibility": 77,
+    "REA": 144,
+    "Other": 24,
     "Meta": 18,
     "Contact": 3
   },
@@ -23,8 +23,8 @@
     "Contact": 12
   },
   "stages": {
-    "New Lead": 207,
-    "Booked": 29,
+    "Booked": 30,
+    "New Lead": 206,
     "Lost": 193,
     "Not Yet Ready": 60,
     "Contract Review": 1,
@@ -296,10 +296,6 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
-      ],
-      [
-        "Shirley Wg",
-        0.0
       ],
       [
         "Peni Tavalu",
@@ -782,7 +778,7 @@
         0.0
       ],
       [
-        " Stella Panucci",
+        "Stella Panucci",
         0.0
       ],
       [
@@ -940,6 +936,10 @@
       [
         "ann castro \u2014 REA",
         775000.0
+      ],
+      [
+        "Shirley Wg",
+        0.0
       ],
       [
         "Fereti Mulipola",
@@ -2260,8 +2260,8 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 45125000.0,
     "Booked": 1700000.0,
+    "New Lead": 45125000.0,
     "Lost": 65100000.0,
     "Not Yet Ready": 9800000.0,
     "Contract Review": 625000.0,
@@ -2294,7 +2294,7 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 69,
+      "leads_30d": 67,
       "leads_total": 222,
       "opps_total": 143,
       "opps_qualified": 2,
