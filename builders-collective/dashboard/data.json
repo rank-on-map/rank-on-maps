@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T09:36:45.003348+00:00",
+  "generated_at": "2026-09-10T10:07:13.778325+00:00",
   "totals": {
     "total_leads": 880,
     "leads_30d": 265,
@@ -23,9 +23,9 @@
     "Contact": 12
   },
   "stages": {
-    "New Lead": 203,
+    "New Lead": 202,
     "Booked": 31,
-    "Lost": 200,
+    "Lost": 201,
     "Not Yet Ready": 60,
     "Site Visit Scheduled": 3,
     "Showed Up": 9,
@@ -143,10 +143,6 @@
       [
         "Balamurugan Arumugam",
         775000.0
-      ],
-      [
-        "Rica lyn Marquez",
-        625000.0
       ],
       [
         "Richard Roberts",
@@ -1720,6 +1716,10 @@
         625000.0
       ],
       [
+        "Rica lyn Marquez",
+        625000.0
+      ],
+      [
         "Tarlochan Singh Grewal",
         625000.0
       ],
@@ -2266,9 +2266,9 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 44350000.0,
+    "New Lead": 43725000.0,
     "Booked": 1700000.0,
-    "Lost": 66500000.0,
+    "Lost": 67125000.0,
     "Not Yet Ready": 9800000.0,
     "Site Visit Scheduled": 1400000.0,
     "Showed Up": 0.0,
