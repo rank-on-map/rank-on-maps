@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T02:19:18.671248+00:00",
+  "generated_at": "2026-09-11T02:49:45.812818+00:00",
   "totals": {
     "total_leads": 890,
     "leads_30d": 271,
@@ -23,9 +23,9 @@
     "Contact": 12
   },
   "stages": {
-    "New Lead": 207,
     "Booked": 32,
-    "Lost": 203,
+    "Lost": 204,
+    "New Lead": 206,
     "Not Yet Ready": 60,
     "Site Visit Scheduled": 3,
     "Showed Up": 9,
@@ -287,10 +287,6 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
-      ],
-      [
-        "Moy Lynn",
-        0.0
       ],
       [
         "Carol Milanovic",
@@ -933,7 +929,7 @@
         775000.0
       ],
       [
-        "Steven Mcguigan",
+        "Moy Lynn",
         0.0
       ],
       [
@@ -1832,6 +1828,10 @@
         25000.0
       ],
       [
+        "Steven Mcguigan",
+        0.0
+      ],
+      [
         "carolina dr",
         0.0
       ],
@@ -2298,9 +2298,9 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 43725000.0,
     "Booked": 1700000.0,
     "Lost": 67125000.0,
+    "New Lead": 43725000.0,
     "Not Yet Ready": 9800000.0,
     "Site Visit Scheduled": 1400000.0,
     "Showed Up": 0.0,
