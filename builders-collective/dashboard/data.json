@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-11T09:21:35.542208+00:00",
+  "generated_at": "2026-09-11T09:52:11.297387+00:00",
   "totals": {
-    "total_leads": 894,
-    "leads_30d": 274,
+    "total_leads": 895,
+    "leads_30d": 275,
     "total_opps": 564,
     "calls_booked": 78,
     "ppas_signed": 26,
     "pipeline_value": 130760000
   },
   "channels_30d": {
+    "REA": 144,
     "Eligibility": 87,
-    "REA": 143,
     "Other": 23,
     "Meta": 18,
     "Contact": 3
   },
   "channels_total": {
+    "REA": 518,
     "Eligibility": 227,
-    "REA": 517,
     "Other": 120,
     "Meta": 18,
     "Contact": 12
@@ -2347,8 +2347,8 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 69,
-      "leads_total": 225,
+      "leads_30d": 70,
+      "leads_total": 226,
       "opps_total": 146,
       "opps_qualified": 2,
       "opps_won": 8
