@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-13T02:43:06.056801+00:00",
+  "generated_at": "2026-09-13T03:13:35.336627+00:00",
   "totals": {
-    "total_leads": 912,
-    "leads_30d": 283,
+    "total_leads": 913,
+    "leads_30d": 284,
     "total_opps": 577,
     "calls_booked": 80,
     "ppas_signed": 26,
     "pipeline_value": 130760000
   },
   "channels_30d": {
+    "REA": 144,
     "Eligibility": 95,
-    "REA": 143,
     "Other": 24,
     "Meta": 18,
     "Contact": 3
   },
   "channels_total": {
+    "REA": 522,
     "Eligibility": 240,
-    "REA": 521,
     "Other": 121,
     "Meta": 18,
     "Contact": 12
   },
   "stages": {
-    "New Lead": 214,
+    "Not Yet Ready": 62,
+    "New Lead": 213,
     "Booked": 35,
     "Lost": 208,
     "Showed Up": 9,
-    "Not Yet Ready": 61,
     "Site Visit Scheduled": 3,
     "Nurturing": 14,
     "Builder Shortlist Sent": 2,
@@ -287,10 +287,6 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
-      ],
-      [
-        "Tony Warner",
-        0.0
       ],
       [
         "Inez Ehrlich",
@@ -1342,6 +1338,10 @@
         625000.0
       ],
       [
+        "Tony Warner",
+        0.0
+      ],
+      [
         "Christie Halstead",
         0.0
       ],
@@ -2366,11 +2366,11 @@
     ]
   },
   "stage_pipeline_value": {
+    "Not Yet Ready": 9800000.0,
     "New Lead": 43725000.0,
     "Booked": 1700000.0,
     "Lost": 68525000.0,
     "Showed Up": 0.0,
-    "Not Yet Ready": 9800000.0,
     "Site Visit Scheduled": 1400000.0,
     "Nurturing": 2325000.0,
     "Builder Shortlist Sent": 30000.0,
@@ -2399,8 +2399,8 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 73,
-      "leads_total": 231,
+      "leads_30d": 74,
+      "leads_total": 232,
       "opps_total": 150,
       "opps_qualified": 2,
       "opps_won": 8
