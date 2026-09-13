@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-09-13T07:34:29.894046+00:00",
+  "generated_at": "2026-09-13T09:24:10.106421+00:00",
   "totals": {
-    "total_leads": 915,
-    "leads_30d": 284,
+    "total_leads": 917,
+    "leads_30d": 285,
     "total_opps": 578,
     "calls_booked": 80,
     "ppas_signed": 26,
-    "pipeline_value": 130760000
+    "pipeline_value": 131535000
   },
   "channels_30d": {
-    "REA": 144,
-    "Eligibility": 96,
+    "REA": 147,
+    "Eligibility": 95,
     "Other": 23,
-    "Meta": 18,
+    "Meta": 17,
     "Contact": 3
   },
   "channels_total": {
-    "REA": 523,
+    "REA": 526,
     "Eligibility": 241,
     "Other": 121,
-    "Meta": 18,
+    "Meta": 17,
     "Contact": 12
   },
   "stages": {
@@ -957,6 +957,10 @@
         925000.0
       ],
       [
+        "Hardikkumar  Gandhi ",
+        775000.0
+      ],
+      [
         "ann castro \u2014 REA",
         775000.0
       ],
@@ -994,10 +998,6 @@
       ],
       [
         "Princess  Oyelowo",
-        0.0
-      ],
-      [
-        "Hardikkumar  Gandhi ",
         0.0
       ],
       [
@@ -2372,7 +2372,7 @@
   "stage_pipeline_value": {
     "New Lead": 43725000.0,
     "Not Yet Ready": 9800000.0,
-    "Booked": 1700000.0,
+    "Booked": 2475000.0,
     "Lost": 68525000.0,
     "Showed Up": 0.0,
     "Site Visit Scheduled": 1400000.0,
@@ -2385,8 +2385,8 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 68,
-      "leads_total": 211,
+      "leads_30d": 70,
+      "leads_total": 213,
       "opps_total": 152,
       "opps_qualified": 1,
       "opps_won": 4
@@ -2394,8 +2394,8 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 51,
-      "leads_total": 161,
+      "leads_30d": 52,
+      "leads_total": 162,
       "opps_total": 163,
       "opps_qualified": 0,
       "opps_won": 11
@@ -2403,8 +2403,8 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 73,
-      "leads_total": 232,
+      "leads_30d": 71,
+      "leads_total": 231,
       "opps_total": 150,
       "opps_qualified": 2,
       "opps_won": 8
