@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-17T07:08:33.186764+00:00",
+  "generated_at": "2026-09-17T07:40:03.670933+00:00",
   "totals": {
     "total_leads": 977,
-    "leads_30d": 312,
+    "leads_30d": 311,
     "total_opps": 639,
-    "calls_booked": 87,
+    "calls_booked": 88,
     "ppas_signed": 27,
     "pipeline_value": 136635000
   },
   "channels_30d": {
     "Contact": 6,
     "Eligibility": 133,
-    "REA": 134,
+    "REA": 133,
     "Other": 22,
     "Meta": 17
   },
@@ -23,9 +23,9 @@
     "Meta": 17
   },
   "stages": {
-    "New Lead": 240,
+    "New Lead": 239,
     "Lost": 234,
-    "Booked": 39,
+    "Booked": 40,
     "Showed Up": 10,
     "Builder Shortlist Sent": 3,
     "Qualified": 5,
@@ -559,10 +559,6 @@
       ],
       [
         "yasin buke",
-        0.0
-      ],
-      [
-        "wazza...",
         0.0
       ],
       [
@@ -1115,6 +1111,10 @@
       ],
       [
         "Monica d",
+        0.0
+      ],
+      [
+        "wazza...",
         0.0
       ],
       [
@@ -2632,7 +2632,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 82,
+      "leads_30d": 81,
       "leads_total": 231,
       "opps_total": 172,
       "opps_qualified": 2,
