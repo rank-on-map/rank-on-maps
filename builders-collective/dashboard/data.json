@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-17T09:46:18.313431+00:00",
+  "generated_at": "2026-09-17T10:17:52.646523+00:00",
   "totals": {
     "total_leads": 978,
     "leads_30d": 311,
     "total_opps": 640,
-    "calls_booked": 88,
+    "calls_booked": 89,
     "ppas_signed": 27,
     "pipeline_value": 136635000
   },
@@ -23,8 +23,8 @@
     "Meta": 17
   },
   "stages": {
-    "New Lead": 236,
-    "Booked": 41,
+    "New Lead": 235,
+    "Booked": 42,
     "Lost": 237,
     "Showed Up": 9,
     "Builder Shortlist Sent": 4,
@@ -447,10 +447,6 @@
       ],
       [
         "Chukwuemeka Udesike",
-        0.0
-      ],
-      [
-        "Faye Smith",
         0.0
       ],
       [
@@ -1087,6 +1083,10 @@
       ],
       [
         "Koryom Chuang",
+        0.0
+      ],
+      [
+        "Faye Smith",
         0.0
       ],
       [
