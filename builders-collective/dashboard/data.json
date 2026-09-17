@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-17T07:40:03.670933+00:00",
+  "generated_at": "2026-09-17T08:11:35.626759+00:00",
   "totals": {
     "total_leads": 977,
     "leads_30d": 311,
     "total_opps": 639,
-    "calls_booked": 88,
+    "calls_booked": 89,
     "ppas_signed": 27,
     "pipeline_value": 136635000
   },
@@ -23,9 +23,9 @@
     "Meta": 17
   },
   "stages": {
-    "New Lead": 239,
+    "New Lead": 238,
+    "Booked": 41,
     "Lost": 234,
-    "Booked": 40,
     "Showed Up": 10,
     "Builder Shortlist Sent": 3,
     "Qualified": 5,
@@ -307,10 +307,6 @@
       ],
       [
         "Bec Thompson",
-        0.0
-      ],
-      [
-        "Atalanta Reilly",
         0.0
       ],
       [
@@ -1068,6 +1064,10 @@
       [
         "ann castro \u2014 REA",
         775000.0
+      ],
+      [
+        "Atalanta Reilly",
+        0.0
       ],
       [
         "Daniel Tyler",
@@ -2617,8 +2617,8 @@
   },
   "stage_pipeline_value": {
     "New Lead": 45425000.0,
-    "Lost": 71150000.0,
     "Booked": 3250000.0,
+    "Lost": 71150000.0,
     "Showed Up": 0.0,
     "Builder Shortlist Sent": 30000.0,
     "Qualified": 0.0,
