@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-17T05:33:57.396081+00:00",
+  "generated_at": "2026-09-17T06:05:30.914855+00:00",
   "totals": {
-    "total_leads": 975,
-    "leads_30d": 311,
-    "total_opps": 637,
+    "total_leads": 976,
+    "leads_30d": 312,
+    "total_opps": 638,
     "calls_booked": 87,
     "ppas_signed": 27,
     "pipeline_value": 136635000
   },
   "channels_30d": {
+    "Eligibility": 133,
     "REA": 135,
-    "Eligibility": 132,
     "Other": 22,
     "Contact": 5,
     "Meta": 17
   },
   "channels_total": {
+    "Eligibility": 287,
     "REA": 536,
-    "Eligibility": 286,
     "Other": 122,
     "Contact": 14,
     "Meta": 17
   },
   "stages": {
-    "New Lead": 247,
-    "Lost": 225,
+    "New Lead": 239,
+    "Lost": 234,
     "Booked": 39,
     "Showed Up": 10,
     "Builder Shortlist Sent": 3,
@@ -87,10 +87,6 @@
       ],
       [
         "Emi Vijitra Taboon",
-        775000.0
-      ],
-      [
-        "Manny Vekaria",
         775000.0
       ],
       [
@@ -302,6 +298,10 @@
         325000.0
       ],
       [
+        "Shabana Ali",
+        0.0
+      ],
+      [
         "Bec Thompson",
         0.0
       ],
@@ -315,10 +315,6 @@
       ],
       [
         "Paul Tabb",
-        0.0
-      ],
-      [
-        "Lynne Game",
         0.0
       ],
       [
@@ -371,10 +367,6 @@
       ],
       [
         "Dominic Liggett",
-        0.0
-      ],
-      [
-        "Vynka",
         0.0
       ],
       [
@@ -626,10 +618,6 @@
         0.0
       ],
       [
-        "Faith Hornigold ",
-        0.0
-      ],
-      [
         "Bradley Kuhn",
         0.0
       ],
@@ -663,10 +651,6 @@
       ],
       [
         "Julie Andrews",
-        0.0
-      ],
-      [
-        "Carla Murphy",
         0.0
       ],
       [
@@ -714,10 +698,6 @@
         0.0
       ],
       [
-        "Eden Chapman",
-        0.0
-      ],
-      [
         "Adele Cowin",
         0.0
       ],
@@ -747,10 +727,6 @@
       ],
       [
         "Analie Salvacion",
-        0.0
-      ],
-      [
-        "Kavya Wijenayake",
         0.0
       ],
       [
@@ -818,10 +794,6 @@
         0.0
       ],
       [
-        "Riki Tai",
-        0.0
-      ],
-      [
         "Nicole  Bridger",
         0.0
       ],
@@ -831,10 +803,6 @@
       ],
       [
         "Ranae Barrett",
-        0.0
-      ],
-      [
-        "Allysia Waddy",
         0.0
       ],
       [
@@ -1806,6 +1774,10 @@
         775000.0
       ],
       [
+        "Manny Vekaria",
+        775000.0
+      ],
+      [
         "pranjal Patel",
         775000.0
       ],
@@ -2066,11 +2038,19 @@
         25000.0
       ],
       [
+        "Lynne Game",
+        0.0
+      ],
+      [
         "Andrew Ribeiro",
         0.0
       ],
       [
         "Kelli Leo",
+        0.0
+      ],
+      [
+        "Vynka",
         0.0
       ],
       [
@@ -2158,11 +2138,19 @@
         0.0
       ],
       [
+        "Faith Hornigold ",
+        0.0
+      ],
+      [
         "Mo Wang",
         0.0
       ],
       [
         "Peter Luobikis",
+        0.0
+      ],
+      [
+        "Carla Murphy",
         0.0
       ],
       [
@@ -2183,6 +2171,10 @@
       ],
       [
         "Grace Quach",
+        0.0
+      ],
+      [
+        "Eden Chapman",
         0.0
       ],
       [
@@ -2227,6 +2219,10 @@
       ],
       [
         "Nikita Goveas",
+        0.0
+      ],
+      [
+        "Kavya Wijenayake",
         0.0
       ],
       [
@@ -2294,6 +2290,10 @@
         0.0
       ],
       [
+        "Riki Tai",
+        0.0
+      ],
+      [
         "Jo Iongi",
         0.0
       ],
@@ -2319,6 +2319,10 @@
       ],
       [
         "",
+        0.0
+      ],
+      [
+        "Allysia Waddy",
         0.0
       ],
       [
@@ -2608,8 +2612,8 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 46200000.0,
-    "Lost": 70375000.0,
+    "New Lead": 45425000.0,
+    "Lost": 71150000.0,
     "Booked": 3250000.0,
     "Showed Up": 0.0,
     "Builder Shortlist Sent": 30000.0,
@@ -2624,17 +2628,17 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 80,
-      "leads_total": 229,
-      "opps_total": 171,
+      "leads_30d": 82,
+      "leads_total": 231,
+      "opps_total": 172,
       "opps_qualified": 2,
       "opps_won": 4
     },
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 59,
-      "leads_total": 176,
+      "leads_30d": 58,
+      "leads_total": 175,
       "opps_total": 180,
       "opps_qualified": 0,
       "opps_won": 11
@@ -2660,7 +2664,6 @@
   },
   "round_robin": {
     "last12": [
-      "David",
       "Hasib",
       "Masih",
       "Abdullah",
@@ -2671,16 +2674,17 @@
       "David",
       "Hasib",
       "Masih",
-      "Abdullah"
+      "Abdullah",
+      "David"
     ],
     "balance": {
-      "David": 3,
       "Hasib": 3,
       "Masih": 3,
-      "Abdullah": 3
+      "Abdullah": 3,
+      "David": 3
     },
     "health": "healthy",
-    "sequence_arrow": "David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah"
+    "sequence_arrow": "Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David"
   },
   "appointments": []
 }
