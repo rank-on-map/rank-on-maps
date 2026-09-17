@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-17T06:05:30.914855+00:00",
+  "generated_at": "2026-09-17T06:37:02.418750+00:00",
   "totals": {
-    "total_leads": 976,
-    "leads_30d": 312,
-    "total_opps": 638,
+    "total_leads": 977,
+    "leads_30d": 313,
+    "total_opps": 639,
     "calls_booked": 87,
     "ppas_signed": 27,
     "pipeline_value": 136635000
   },
   "channels_30d": {
+    "Contact": 6,
     "Eligibility": 133,
     "REA": 135,
     "Other": 22,
-    "Contact": 5,
     "Meta": 17
   },
   "channels_total": {
+    "Contact": 15,
     "Eligibility": 287,
     "REA": 536,
     "Other": 122,
-    "Contact": 14,
     "Meta": 17
   },
   "stages": {
-    "New Lead": 239,
+    "New Lead": 240,
     "Lost": 234,
     "Booked": 39,
     "Showed Up": 10,
@@ -296,6 +296,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Khoi Vu",
+        0.0
       ],
       [
         "Shabana Ali",
@@ -2637,9 +2641,9 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 58,
-      "leads_total": 175,
-      "opps_total": 180,
+      "leads_30d": 59,
+      "leads_total": 176,
+      "opps_total": 181,
       "opps_qualified": 0,
       "opps_won": 11
     },
