@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-18T17:14:55.631274+00:00",
+  "generated_at": "2026-09-18T17:45:28.338218+00:00",
   "totals": {
     "total_leads": 996,
     "leads_30d": 320,
-    "total_opps": 655,
+    "total_opps": 656,
     "calls_booked": 94,
     "ppas_signed": 27,
     "pipeline_value": 136635000
@@ -23,7 +23,7 @@
     "Meta": 17
   },
   "stages": {
-    "New Lead": 244,
+    "New Lead": 245,
     "Booked": 47,
     "Lost": 238,
     "Showed Up": 9,
@@ -296,6 +296,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Sarah Sandell",
+        0.0
       ],
       [
         "Madeleine Fryer",
@@ -2716,7 +2720,7 @@
       "initial": "H",
       "leads_30d": 85,
       "leads_total": 252,
-      "opps_total": 165,
+      "opps_total": 166,
       "opps_qualified": 1,
       "opps_won": 9
     },
