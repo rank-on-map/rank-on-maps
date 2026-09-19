@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-19T04:48:59.754137+00:00",
+  "generated_at": "2026-09-19T05:19:22.758512+00:00",
   "totals": {
     "total_leads": 1003,
     "leads_30d": 325,
     "total_opps": 661,
-    "calls_booked": 94,
+    "calls_booked": 92,
     "ppas_signed": 27,
     "pipeline_value": 136635000
   },
@@ -23,14 +23,14 @@
     "Meta": 17
   },
   "stages": {
-    "New Lead": 250,
-    "Booked": 46,
-    "Lost": 238,
-    "Showed Up": 10,
+    "New Lead": 249,
+    "Booked": 45,
+    "Lost": 240,
+    "Nurturing": 16,
+    "Showed Up": 9,
     "Builder Shortlist Sent": 4,
     "Contract Review": 1,
     "Not Yet Ready": 64,
-    "Nurturing": 15,
     "Won \u2014 Build Confirmed": 27,
     "Qualified": 4,
     "Site Visit Scheduled": 2
@@ -375,10 +375,6 @@
       ],
       [
         "Khoi Vu",
-        0.0
-      ],
-      [
-        "Bec Thompson",
         0.0
       ],
       [
@@ -1052,6 +1048,14 @@
         625000.0
       ],
       [
+        "Daniel Tyler",
+        0.0
+      ],
+      [
+        "Faye Smith",
+        0.0
+      ],
+      [
         "Sophie Hura",
         0.0
       ],
@@ -1061,10 +1065,6 @@
       ],
       [
         "Cathy Chau",
-        0.0
-      ],
-      [
-        "Cody Jayes",
         0.0
       ],
       [
@@ -1134,15 +1134,15 @@
         0.0
       ],
       [
+        "Bec Thompson",
+        0.0
+      ],
+      [
         "Atalanta Reilly",
         0.0
       ],
       [
         "Azolu Demo",
-        0.0
-      ],
-      [
-        "Daniel Tyler",
         0.0
       ],
       [
@@ -1155,10 +1155,6 @@
       ],
       [
         "Koryom Chuang",
-        0.0
-      ],
-      [
-        "Faye Smith",
         0.0
       ],
       [
@@ -1293,10 +1289,6 @@
       ],
       [
         "Moy Lynn",
-        0.0
-      ],
-      [
-        "Les Edwards",
         0.0
       ],
       [
@@ -2222,6 +2214,10 @@
         0.0
       ],
       [
+        "Les Edwards",
+        0.0
+      ],
+      [
         "Corfield Seinor",
         0.0
       ],
@@ -2319,6 +2315,10 @@
       ],
       [
         "Symonne Sykes",
+        0.0
+      ],
+      [
+        "Cody Jayes",
         0.0
       ],
       [
@@ -2707,11 +2707,11 @@
     "New Lead": 45425000.0,
     "Booked": 3250000.0,
     "Lost": 71150000.0,
+    "Nurturing": 2325000.0,
     "Showed Up": 0.0,
     "Builder Shortlist Sent": 30000.0,
     "Contract Review": 0.0,
     "Not Yet Ready": 10575000.0,
-    "Nurturing": 2325000.0,
     "Won \u2014 Build Confirmed": 3255000.0,
     "Qualified": 0.0,
     "Site Visit Scheduled": 625000.0
