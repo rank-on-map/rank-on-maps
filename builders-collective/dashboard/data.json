@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-21T03:54:15.749272+00:00",
+  "generated_at": "2026-09-21T04:35:35.583722+00:00",
   "totals": {
     "total_leads": 1053,
     "leads_30d": 359,
-    "total_opps": 707,
+    "total_opps": 714,
     "calls_booked": 99,
     "ppas_signed": 27,
-    "pipeline_value": 139285000
+    "pipeline_value": 144085000
   },
   "channels_30d": {
     "Eligibility": 175,
@@ -23,10 +23,10 @@
     "Meta": 17
   },
   "stages": {
-    "?": 32,
-    "New Lead": 251,
+    "?": 64,
+    "New Lead": 249,
     "Booked": 52,
-    "Lost": 244,
+    "Lost": 221,
     "Nurturing": 17,
     "Showed Up": 9,
     "Builder Shortlist Sent": 4,
@@ -319,19 +319,11 @@
         0.0
       ],
       [
-        "Trisha Bell",
-        0.0
-      ],
-      [
         "Vanessa Hurcom",
         0.0
       ],
       [
         "Michelle Jennis",
-        0.0
-      ],
-      [
-        "Megan Ann",
         0.0
       ],
       [
@@ -1783,20 +1775,12 @@
     ],
     "Lost": [
       [
-        "Janice Burdinat",
-        1400000.0
-      ],
-      [
         "KARIN Dautzenberg",
         1225000.0
       ],
       [
         "Adam Haller",
         1225000.0
-      ],
-      [
-        "Angeline Prince",
-        1075000.0
       ],
       [
         "Jody Cole",
@@ -1828,10 +1812,6 @@
       ],
       [
         "Monisha Monisha",
-        925000.0
-      ],
-      [
-        "nishant patel",
         925000.0
       ],
       [
@@ -1877,10 +1857,6 @@
       [
         "Divya patel",
         925000.0
-      ],
-      [
-        "Bianca Mutodi",
-        775000.0
       ],
       [
         "Manny Vekaria",
@@ -2159,15 +2135,7 @@
         0.0
       ],
       [
-        "Lynne Game",
-        0.0
-      ],
-      [
         "Andrew Ribeiro",
-        0.0
-      ],
-      [
-        "Kelli Leo",
         0.0
       ],
       [
@@ -2175,27 +2143,7 @@
         0.0
       ],
       [
-        "Vynka",
-        0.0
-      ],
-      [
-        "Dan Johnston",
-        0.0
-      ],
-      [
-        "John Harris",
-        0.0
-      ],
-      [
         "Corey",
-        0.0
-      ],
-      [
-        "Paul Mrg",
-        0.0
-      ],
-      [
-        "Pete Russell",
         0.0
       ],
       [
@@ -2207,39 +2155,11 @@
         0.0
       ],
       [
-        "Barbara Rice",
-        0.0
-      ],
-      [
-        "Steven Mcguigan",
-        0.0
-      ],
-      [
         "Ricky Ugle",
         0.0
       ],
       [
-        "Fereti Mulipola",
-        0.0
-      ],
-      [
-        "Char Kamura",
-        0.0
-      ],
-      [
         "Donald Clifton Jones",
-        0.0
-      ],
-      [
-        "anpu @anpu",
-        0.0
-      ],
-      [
-        "carolina dr",
-        0.0
-      ],
-      [
-        "greg",
         0.0
       ],
       [
@@ -2256,18 +2176,6 @@
       ],
       [
         "Bronson Love",
-        0.0
-      ],
-      [
-        "Hugo  Ku",
-        0.0
-      ],
-      [
-        "Jack Macfarlane",
-        0.0
-      ],
-      [
-        "Jasmine Song",
         0.0
       ],
       [
@@ -2316,14 +2224,6 @@
       ],
       [
         "Grace Quach",
-        0.0
-      ],
-      [
-        "Eden Chapman",
-        0.0
-      ],
-      [
-        "Sebastian Cuba",
         0.0
       ],
       [
@@ -2761,10 +2661,10 @@
     ]
   },
   "stage_pipeline_value": {
-    "?": 12575000.0,
+    "?": 21550000.0,
     "New Lead": 35500000.0,
     "Booked": 3250000.0,
-    "Lost": 71150000.0,
+    "Lost": 66975000.0,
     "Nurturing": 2325000.0,
     "Showed Up": 0.0,
     "Builder Shortlist Sent": 30000.0,
@@ -2780,7 +2680,7 @@
       "initial": "D",
       "leads_30d": 94,
       "leads_total": 249,
-      "opps_total": 186,
+      "opps_total": 193,
       "opps_qualified": 1,
       "opps_won": 4
     },
