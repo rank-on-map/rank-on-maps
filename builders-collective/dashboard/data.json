@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:41:33.408849+00:00",
+  "generated_at": "2026-09-21T02:11:56.757446+00:00",
   "totals": {
     "total_leads": 1052,
     "leads_30d": 358,
@@ -23,9 +23,9 @@
     "Meta": 17
   },
   "stages": {
-    "New Lead": 280,
+    "New Lead": 279,
     "Booked": 50,
-    "Lost": 240,
+    "Lost": 241,
     "Nurturing": 16,
     "Showed Up": 9,
     "Builder Shortlist Sent": 4,
@@ -407,10 +407,6 @@
       ],
       [
         "Christie Sessler",
-        0.0
-      ],
-      [
-        "Laura Radley",
         0.0
       ],
       [
@@ -2248,6 +2244,10 @@
       [
         "Shynae Otway",
         25000.0
+      ],
+      [
+        "Laura Radley",
+        0.0
       ],
       [
         "Lynne Game",
