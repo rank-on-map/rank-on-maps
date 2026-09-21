@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T03:12:49.487481+00:00",
+  "generated_at": "2026-09-21T03:54:15.749272+00:00",
   "totals": {
-    "total_leads": 1000,
+    "total_leads": 1053,
     "leads_30d": 359,
     "total_opps": 707,
     "calls_booked": 99,
@@ -16,18 +16,18 @@
     "Meta": 17
   },
   "channels_total": {
-    "Eligibility": 337,
+    "Eligibility": 343,
     "Contact": 18,
-    "REA": 515,
-    "Other": 113,
+    "REA": 553,
+    "Other": 122,
     "Meta": 17
   },
   "stages": {
-    "?": 9,
-    "New Lead": 275,
+    "?": 32,
+    "New Lead": 251,
     "Booked": 52,
     "Lost": 244,
-    "Nurturing": 16,
+    "Nurturing": 17,
     "Showed Up": 9,
     "Builder Shortlist Sent": 4,
     "Contract Review": 1,
@@ -39,15 +39,7 @@
   "stage_top_deals": {
     "New Lead": [
       [
-        "Aniket Maroo",
-        925000.0
-      ],
-      [
         "Georgia Seed",
-        925000.0
-      ],
-      [
-        "Nathalya Kennedy",
         925000.0
       ],
       [
@@ -67,43 +59,11 @@
         925000.0
       ],
       [
-        "Sheila Guevarra",
-        775000.0
-      ],
-      [
-        "Siphiwe Tsingo",
-        775000.0
-      ],
-      [
-        "Nathan Setiawan",
-        775000.0
-      ],
-      [
-        "Marcia Lucchese",
-        775000.0
-      ],
-      [
         "Harley Price",
         775000.0
       ],
       [
-        "Emi Vijitra Taboon",
-        775000.0
-      ],
-      [
         "Gowsi Manoharan",
-        775000.0
-      ],
-      [
-        "Arati Desai",
-        775000.0
-      ],
-      [
-        "Arinah Zain",
-        775000.0
-      ],
-      [
-        "Atefa",
         775000.0
       ],
       [
@@ -156,18 +116,6 @@
       ],
       [
         "Richard Roberts",
-        625000.0
-      ],
-      [
-        "Mikayla Edwards",
-        625000.0
-      ],
-      [
-        "Dilsa Davis",
-        625000.0
-      ],
-      [
-        "Tiffany Marneweck",
         625000.0
       ],
       [
@@ -591,14 +539,6 @@
         0.0
       ],
       [
-        "Emma E",
-        0.0
-      ],
-      [
-        "Paramjit Kaur",
-        0.0
-      ],
-      [
         "Ibrahim Nuska",
         0.0
       ],
@@ -743,14 +683,6 @@
         0.0
       ],
       [
-        "Faruk Khan",
-        0.0
-      ],
-      [
-        "Phuong Tran",
-        0.0
-      ],
-      [
         "Julie White",
         0.0
       ],
@@ -775,18 +707,6 @@
         0.0
       ],
       [
-        "Jaymie Robinson",
-        0.0
-      ],
-      [
-        "Charisse Downes",
-        0.0
-      ],
-      [
-        "Dennis Morrison",
-        0.0
-      ],
-      [
         "Molly Sim\u2019s ",
         0.0
       ],
@@ -804,10 +724,6 @@
       ],
       [
         "Rinchen Choden",
-        0.0
-      ],
-      [
-        "Hasindu yenuka",
         0.0
       ],
       [
@@ -1003,14 +919,6 @@
         0.0
       ],
       [
-        "rhyse kohler",
-        0.0
-      ],
-      [
-        "Marg Kudla",
-        0.0
-      ],
-      [
         "Shaun Edwards",
         0.0
       ],
@@ -1024,10 +932,6 @@
       ],
       [
         "Lachlan  Bassula ",
-        0.0
-      ],
-      [
-        "Dharsana Sudarsanan",
         0.0
       ],
       [
@@ -1166,6 +1070,10 @@
       ],
       [
         "Kim Lewis",
+        0.0
+      ],
+      [
+        "Jaymie Robinson",
         0.0
       ],
       [
@@ -2853,8 +2761,8 @@
     ]
   },
   "stage_pipeline_value": {
-    "?": 2650000.0,
-    "New Lead": 45425000.0,
+    "?": 12575000.0,
+    "New Lead": 35500000.0,
     "Booked": 3250000.0,
     "Lost": 71150000.0,
     "Nurturing": 2325000.0,
@@ -2871,7 +2779,7 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 94,
-      "leads_total": 231,
+      "leads_total": 249,
       "opps_total": 186,
       "opps_qualified": 1,
       "opps_won": 4
@@ -2880,7 +2788,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 70,
-      "leads_total": 179,
+      "leads_total": 191,
       "opps_total": 195,
       "opps_qualified": 0,
       "opps_won": 11
@@ -2889,7 +2797,7 @@
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 96,
-      "leads_total": 259,
+      "leads_total": 269,
       "opps_total": 185,
       "opps_qualified": 1,
       "opps_won": 9
@@ -2898,7 +2806,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 80,
-      "leads_total": 249,
+      "leads_total": 261,
       "opps_total": 139,
       "opps_qualified": 2,
       "opps_won": 2
