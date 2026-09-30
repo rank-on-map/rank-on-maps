@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-30T06:50:11.391930+00:00",
+  "generated_at": "2026-09-30T07:20:37.817514+00:00",
   "totals": {
     "total_leads": 1164,
-    "leads_30d": 399,
-    "total_opps": 800,
-    "calls_booked": 102,
-    "ppas_signed": 26,
-    "pipeline_value": 146560000
+    "leads_30d": 398,
+    "total_opps": 807,
+    "calls_booked": 103,
+    "ppas_signed": 27,
+    "pipeline_value": 147360000
   },
   "channels_30d": {
-    "Eligibility": 248,
+    "Eligibility": 247,
     "REA": 112,
     "Other": 15,
     "Contact": 7,
@@ -23,17 +23,17 @@
     "Meta": 17
   },
   "stages": {
-    "New Lead": 286,
+    "New Lead": 287,
     "?": 98,
     "Booked": 58,
     "Nurturing": 19,
-    "Lost": 231,
-    "Not Yet Ready": 64,
+    "Lost": 232,
+    "Not Yet Ready": 68,
     "Showed Up": 7,
     "Builder Shortlist Sent": 4,
     "Qualified": 4,
     "Contract Review": 1,
-    "Won \u2014 Build Confirmed": 26,
+    "Won \u2014 Build Confirmed": 27,
     "Site Visit Scheduled": 2
   },
   "stage_top_deals": {
@@ -1181,6 +1181,10 @@
       [
         "ted marchese \u2014 REA",
         0.0
+      ],
+      [
+        "Cherith Ferguson \u2014 Eligibility",
+        0.0
       ]
     ],
     "Nurturing": [
@@ -1655,6 +1659,10 @@
         25000.0
       ],
       [
+        "Lee Anne Boon \u2014 Eligibility",
+        25000.0
+      ],
+      [
         "Stephen Devisoe",
         20000.0
       ],
@@ -1939,6 +1947,22 @@
       [
         "Omar autelitano",
         0.0
+      ],
+      [
+        "Rico",
+        0.0
+      ],
+      [
+        "Andrej and Donna ",
+        0.0
+      ],
+      [
+        "Nic Shields \u2014 Eligibility",
+        0.0
+      ],
+      [
+        "Promise Nechikwira",
+        0.0
       ]
     ],
     "Lost": [
@@ -2200,6 +2224,10 @@
       ],
       [
         "Ashu Arora",
+        775000.0
+      ],
+      [
+        "Hermann Kengwah Kinfer",
         775000.0
       ],
       [
@@ -2873,13 +2901,13 @@
     "?": 21400000.0,
     "Booked": 3575000.0,
     "Nurturing": 2325000.0,
-    "Lost": 68525000.0,
+    "Lost": 69300000.0,
     "Not Yet Ready": 10575000.0,
     "Showed Up": 0.0,
     "Builder Shortlist Sent": 30000.0,
     "Qualified": 775000.0,
     "Contract Review": 0.0,
-    "Won \u2014 Build Confirmed": 3230000.0,
+    "Won \u2014 Build Confirmed": 3255000.0,
     "Site Visit Scheduled": 625000.0
   },
   "per_rep": {
@@ -2888,25 +2916,25 @@
       "initial": "D",
       "leads_30d": 102,
       "leads_total": 272,
-      "opps_total": 212,
+      "opps_total": 216,
       "opps_qualified": 1,
       "opps_won": 4
     },
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 82,
+      "leads_30d": 81,
       "leads_total": 217,
-      "opps_total": 218,
+      "opps_total": 219,
       "opps_qualified": 0,
-      "opps_won": 10
+      "opps_won": 11
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 109,
       "leads_total": 300,
-      "opps_total": 209,
+      "opps_total": 210,
       "opps_qualified": 1,
       "opps_won": 8
     },
@@ -2915,7 +2943,7 @@
       "initial": "M",
       "leads_30d": 91,
       "leads_total": 290,
-      "opps_total": 159,
+      "opps_total": 160,
       "opps_qualified": 2,
       "opps_won": 3
     }
