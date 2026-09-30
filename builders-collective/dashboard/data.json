@@ -1,39 +1,40 @@
 {
-  "generated_at": "2026-09-30T22:39:21.801786+00:00",
+  "generated_at": "2026-09-30T23:09:54.259739+00:00",
   "totals": {
-    "total_leads": 1100,
-    "leads_30d": 402,
-    "total_opps": 400,
-    "calls_booked": 46,
-    "ppas_signed": 2,
-    "pipeline_value": 35555000
+    "total_leads": 1174,
+    "leads_30d": 401,
+    "total_opps": 700,
+    "calls_booked": 91,
+    "ppas_signed": 17,
+    "pipeline_value": 104535000
   },
   "channels_30d": {
     "Contact": 8,
-    "Eligibility": 253,
+    "Eligibility": 252,
     "REA": 110,
     "Other": 14,
     "Meta": 17
   },
   "channels_total": {
     "Contact": 19,
-    "Eligibility": 432,
-    "REA": 517,
-    "Other": 115,
+    "Eligibility": 438,
+    "REA": 576,
+    "Other": 124,
     "Meta": 17
   },
   "stages": {
-    "New Lead": 183,
-    "?": 94,
-    "Booked": 38,
-    "Nurturing": 7,
-    "Lost": 54,
-    "Not Yet Ready": 16,
-    "Showed Up": 2,
-    "Builder Shortlist Sent": 2,
-    "Qualified": 1,
+    "New Lead": 258,
+    "?": 99,
+    "Booked": 57,
+    "Nurturing": 18,
+    "Lost": 182,
+    "Not Yet Ready": 52,
+    "Showed Up": 7,
+    "Builder Shortlist Sent": 4,
+    "Qualified": 3,
     "Contract Review": 1,
-    "Won \u2014 Build Confirmed": 2
+    "Won \u2014 Build Confirmed": 17,
+    "Site Visit Scheduled": 2
   },
   "stage_top_deals": {
     "New Lead": [
@@ -42,11 +43,99 @@
         925000.0
       ],
       [
+        "ashu tiwari \u2014 REA",
+        925000.0
+      ],
+      [
+        "angela kelly \u2014 REA",
+        925000.0
+      ],
+      [
         "Harley Price",
         775000.0
       ],
       [
+        "Gowsi Manoharan",
+        775000.0
+      ],
+      [
+        "anitha kuna \u2014 REA",
+        775000.0
+      ],
+      [
+        "janaka sumathipala \u2014 REA",
+        775000.0
+      ],
+      [
+        "yeshey tshomo \u2014 REA",
+        775000.0
+      ],
+      [
+        "josephine mah \u2014 REA",
+        775000.0
+      ],
+      [
+        "deepak rayaguru \u2014 REA",
+        775000.0
+      ],
+      [
         "Richard Roberts",
+        625000.0
+      ],
+      [
+        "Alifiya Gandhi",
+        625000.0
+      ],
+      [
+        "Sangeetha Manian",
+        625000.0
+      ],
+      [
+        "Lap Kei (Terry) Chan",
+        625000.0
+      ],
+      [
+        "Michel Barbier",
+        625000.0
+      ],
+      [
+        "Lakhvir Jagpal",
+        625000.0
+      ],
+      [
+        "maryanne giacoppo \u2014 REA",
+        625000.0
+      ],
+      [
+        "amir irfan \u2014 REA",
+        625000.0
+      ],
+      [
+        "annet poni \u2014 REA",
+        625000.0
+      ],
+      [
+        "natalia farage \u2014 REA",
+        625000.0
+      ],
+      [
+        "raj kaur \u2014 REA",
+        625000.0
+      ],
+      [
+        "maria carmody \u2014 REA",
+        625000.0
+      ],
+      [
+        "tracy greenland \u2014 REA",
+        625000.0
+      ],
+      [
+        "logan sullivan \u2014 REA",
+        625000.0
+      ],
+      [
+        "wen hui chen \u2014 REA",
         625000.0
       ],
       [
@@ -768,9 +857,233 @@
       [
         "Ashley Eldon",
         0.0
+      ],
+      [
+        "Analie Salvacion",
+        0.0
+      ],
+      [
+        "Kira Webb",
+        0.0
+      ],
+      [
+        "Kloe Gordon",
+        0.0
+      ],
+      [
+        "Bob Bobby",
+        0.0
+      ],
+      [
+        "Mohit Tyagi",
+        0.0
+      ],
+      [
+        "Christine Phoon",
+        0.0
+      ],
+      [
+        "Jeyakumar Tharmakulasingam",
+        0.0
+      ],
+      [
+        "Charmaine Orlowski",
+        0.0
+      ],
+      [
+        "Jordan Spampinato ",
+        0.0
+      ],
+      [
+        "Annalise Theodorakis",
+        0.0
+      ],
+      [
+        "Jesse Grant",
+        0.0
+      ],
+      [
+        "Mark Parikh",
+        0.0
+      ],
+      [
+        "Alexandra King",
+        0.0
+      ],
+      [
+        "Casey Taylor",
+        0.0
+      ],
+      [
+        "Wayne Morgan",
+        0.0
+      ],
+      [
+        "Lucas  Glass",
+        0.0
+      ],
+      [
+        "Erica Huriwai",
+        0.0
+      ],
+      [
+        "Nicole  Bridger",
+        0.0
+      ],
+      [
+        "Ranae Barrett",
+        0.0
+      ],
+      [
+        "Leo Teebag",
+        0.0
+      ],
+      [
+        "Christian Martinez",
+        0.0
+      ],
+      [
+        "Sofia Watt",
+        0.0
+      ],
+      [
+        "Swapna",
+        0.0
+      ],
+      [
+        "Ana Carolina",
+        0.0
+      ],
+      [
+        "Will Newman",
+        0.0
+      ],
+      [
+        "Travis Mepham",
+        0.0
+      ],
+      [
+        "Steven Felton",
+        0.0
+      ],
+      [
+        "Miki Trbojevich",
+        0.0
+      ],
+      [
+        "Kyle Crowe",
+        0.0
+      ],
+      [
+        "Mark  Wright ",
+        0.0
+      ],
+      [
+        "Musse Goud",
+        0.0
+      ],
+      [
+        "Olivia Hall",
+        0.0
+      ],
+      [
+        "Shaun Edwards",
+        0.0
+      ],
+      [
+        "Georgia Kennedy",
+        0.0
+      ],
+      [
+        "Chloe Rowett",
+        0.0
+      ],
+      [
+        "Lachlan  Bassula ",
+        0.0
+      ],
+      [
+        "Nur Malik",
+        0.0
+      ],
+      [
+        "Morgan  Fromant",
+        0.0
+      ],
+      [
+        "Michelle Kho",
+        0.0
+      ],
+      [
+        "Sarah Cole",
+        0.0
+      ],
+      [
+        "Test Dees",
+        0.0
+      ],
+      [
+        "Studio Floki",
+        0.0
+      ],
+      [
+        "Stella Panucci",
+        0.0
+      ],
+      [
+        "Jordan Mitchell",
+        0.0
+      ],
+      [
+        "Lance Williams",
+        0.0
+      ],
+      [
+        "Melissa Lewis",
+        0.0
+      ],
+      [
+        "Cheyanne Love ",
+        0.0
+      ],
+      [
+        "Rodney Webb",
+        0.0
+      ],
+      [
+        "kenny ngo \u2014 REA",
+        0.0
+      ],
+      [
+        "achal sikligar \u2014 REA",
+        0.0
+      ],
+      [
+        "keira boggan \u2014 REA",
+        0.0
+      ],
+      [
+        "pragati bhadauria \u2014 REA",
+        0.0
+      ],
+      [
+        "hemann malhotra \u2014 REA",
+        0.0
       ]
     ],
     "Nurturing": [
+      [
+        "Kelly Winrow",
+        1075000.0
+      ],
+      [
+        "YORDANOS Tadese",
+        625000.0
+      ],
+      [
+        "Daw Zam",
+        625000.0
+      ],
       [
         "Tayla Sheppey",
         0.0
@@ -798,9 +1111,45 @@
       [
         "Cathy Chau",
         0.0
+      ],
+      [
+        "Megan Kjellgren",
+        0.0
+      ],
+      [
+        "Lauren Lang",
+        0.0
+      ],
+      [
+        "Isioma Onyemgba",
+        0.0
+      ],
+      [
+        "Joshua Endersby",
+        0.0
+      ],
+      [
+        "Sarah Oldfield",
+        0.0
+      ],
+      [
+        "Peter  Haydon-Wood ",
+        0.0
+      ],
+      [
+        "Hanna Zurub",
+        0.0
+      ],
+      [
+        "Courtney Fear",
+        0.0
       ]
     ],
     "Booked": [
+      [
+        "sarah iddamalgoda \u2014 REA",
+        925000.0
+      ],
       [
         "Connor Arnold",
         625000.0
@@ -952,6 +1301,78 @@
       [
         "Declan  Kendrick ",
         0.0
+      ],
+      [
+        "Pasquale Bambaci",
+        0.0
+      ],
+      [
+        "Leon Smith",
+        0.0
+      ],
+      [
+        "Simeon Omonze ",
+        0.0
+      ],
+      [
+        "Lauren Athanasoff",
+        0.0
+      ],
+      [
+        "Geir Cuizon",
+        0.0
+      ],
+      [
+        "Akhuar Akhuar ",
+        0.0
+      ],
+      [
+        "William Moir",
+        0.0
+      ],
+      [
+        "Nimisha Ravi",
+        0.0
+      ],
+      [
+        "Taj R",
+        0.0
+      ],
+      [
+        "Eleanor McCabe ",
+        0.0
+      ],
+      [
+        "Greg P",
+        0.0
+      ],
+      [
+        "Yow Srilak",
+        0.0
+      ],
+      [
+        "Mike Berg",
+        0.0
+      ],
+      [
+        "Jo Semmens",
+        0.0
+      ],
+      [
+        "Rebecca Riley",
+        0.0
+      ],
+      [
+        "Sam Black",
+        0.0
+      ],
+      [
+        "Herman Wessels",
+        0.0
+      ],
+      [
+        "Mathias  Buko",
+        0.0
       ]
     ],
     "Showed Up": [
@@ -962,22 +1383,67 @@
       [
         "Moy Lynn",
         0.0
+      ],
+      [
+        "Chris Jones",
+        0.0
+      ],
+      [
+        "Noura Hamza",
+        0.0
+      ],
+      [
+        "Sean Coffey",
+        0.0
+      ],
+      [
+        "Tharindi Fernando",
+        0.0
+      ],
+      [
+        "hardik sood \u2014 REA",
+        0.0
       ]
     ],
     "Qualified": [
       [
         "Purna Poudel",
         775000.0
+      ],
+      [
+        "Zhen Loo",
+        0.0
+      ],
+      [
+        "Dakshitha Perera",
+        0.0
       ]
     ],
-    "Site Visit Scheduled": [],
+    "Site Visit Scheduled": [
+      [
+        "paul farr \u2014 REA",
+        625000.0
+      ],
+      [
+        "Test  Deez",
+        0.0
+      ]
+    ],
     "Builder Shortlist Sent": [
+      [
+        "Philip Mensah",
+        30000.0
+      ],
       [
         "Rabab Difaii",
         0.0
       ],
       [
         "Solaimuthu Muthu",
+        0.0
+      ],
+      [
+        "Jordan Bruce",
         0.0
       ]
     ],
@@ -989,15 +1455,79 @@
     ],
     "Won \u2014 Build Confirmed": [
       [
+        "Nicholas Mentiplay",
+        775000.0
+      ],
+      [
+        "Malak Aly",
+        775000.0
+      ],
+      [
+        "clement Mensah",
+        625000.0
+      ],
+      [
         "Hayden Wood",
         30000.0
       ],
       [
+        "Shannon Freeman",
+        30000.0
+      ],
+      [
+        "Eric Mensah",
+        27000.0
+      ],
+      [
+        "Brenton Engelbrecht",
+        25000.0
+      ],
+      [
+        "Brett Brownlow",
+        25000.0
+      ],
+      [
+        "Levi Mccalman",
+        25000.0
+      ],
+      [
+        "Tendayi",
+        25000.0
+      ],
+      [
+        "Maritsa",
+        25000.0
+      ],
+      [
+        "jason morrison \u2014 REA",
+        25000.0
+      ],
+      [
+        "maddison ",
+        18000.0
+      ],
+      [
         "Katerina De Battista ",
+        0.0
+      ],
+      [
+        "Jess  Buck ",
+        0.0
+      ],
+      [
+        "Manish Malla",
+        0.0
+      ],
+      [
+        "Laura Boyle",
         0.0
       ]
     ],
     "Not Yet Ready": [
+      [
+        "Joel Ritchie",
+        1075000.0
+      ],
       [
         "Kuwar Batra",
         775000.0
@@ -1007,7 +1537,35 @@
         775000.0
       ],
       [
+        "amandeep kaur \u2014 REA",
+        775000.0
+      ],
+      [
         "Aiza Alburo",
+        625000.0
+      ],
+      [
+        "Katharine Roberts",
+        625000.0
+      ],
+      [
+        "dylan millman \u2014 REA",
+        625000.0
+      ],
+      [
+        "charlene reid \u2014 REA",
+        625000.0
+      ],
+      [
+        "stuart spence \u2014 REA",
+        625000.0
+      ],
+      [
+        "jigneshkumar shah \u2014 REA",
+        625000.0
+      ],
+      [
+        "kiralee holcombe \u2014 REA",
         625000.0
       ],
       [
@@ -1061,9 +1619,129 @@
       [
         "Sydney  Payne",
         0.0
+      ],
+      [
+        "Devon Smith",
+        0.0
+      ],
+      [
+        "Partap Singh",
+        0.0
+      ],
+      [
+        "Sam Evans ",
+        0.0
+      ],
+      [
+        "Deanne  Terpstra ",
+        0.0
+      ],
+      [
+        "Adam Strongman",
+        0.0
+      ],
+      [
+        "Braydon  Fidge",
+        0.0
+      ],
+      [
+        "Janelle Sim",
+        0.0
+      ],
+      [
+        "Michelle  P",
+        0.0
+      ],
+      [
+        "Prabesh Khatri",
+        0.0
+      ],
+      [
+        "Mariam Atieh",
+        0.0
+      ],
+      [
+        "Noah Weston",
+        0.0
+      ],
+      [
+        "",
+        0.0
+      ],
+      [
+        "Rarlond Eyban",
+        0.0
+      ],
+      [
+        "Tylar Fermandez",
+        0.0
+      ],
+      [
+        "Sway Smith",
+        0.0
+      ],
+      [
+        "Kade Faas",
+        0.0
+      ],
+      [
+        "Josiah",
+        0.0
+      ],
+      [
+        "Harry  Hudson",
+        0.0
+      ],
+      [
+        "Jessica Harpur",
+        0.0
+      ],
+      [
+        "babak gol",
+        0.0
+      ],
+      [
+        "dawa",
+        0.0
+      ],
+      [
+        "Kulie Lane",
+        0.0
+      ],
+      [
+        "Gema Kapetanakis ",
+        0.0
+      ],
+      [
+        "Bailey  Anderson",
+        0.0
+      ],
+      [
+        "Rowan ",
+        0.0
+      ],
+      [
+        "Jaqui Mellington",
+        0.0
+      ],
+      [
+        "coleen claire \u2014 REA",
+        0.0
+      ],
+      [
+        "chaeha lee \u2014 REA",
+        0.0
       ]
     ],
     "Lost": [
+      [
+        "KARIN Dautzenberg",
+        1225000.0
+      ],
+      [
+        "Adam Haller",
+        1225000.0
+      ],
       [
         "Jody Cole",
         1075000.0
@@ -1073,11 +1751,47 @@
         1075000.0
       ],
       [
+        "Sanja Maric",
+        1075000.0
+      ],
+      [
+        "Mikaela Cowper",
+        1075000.0
+      ],
+      [
+        "Danielle Johnston",
+        1075000.0
+      ],
+      [
+        "Eddy Gaidzionis",
+        1075000.0
+      ],
+      [
         "Monisha Monisha",
         925000.0
       ],
       [
         "Arron Mc Kenna",
+        925000.0
+      ],
+      [
+        "Karla McKay",
+        925000.0
+      ],
+      [
+        "Michelle Atkinson ",
+        925000.0
+      ],
+      [
+        "Chameera Jayatilaka",
+        925000.0
+      ],
+      [
+        "Jasmin Kirov",
+        925000.0
+      ],
+      [
+        "pema choden \u2014 REA",
         925000.0
       ],
       [
@@ -1101,6 +1815,114 @@
         775000.0
       ],
       [
+        "Jimmy Foley",
+        775000.0
+      ],
+      [
+        "Ric Bien Hipolito",
+        775000.0
+      ],
+      [
+        "Adam williams",
+        775000.0
+      ],
+      [
+        "Donna Pryor",
+        775000.0
+      ],
+      [
+        "Miriam Igasan",
+        775000.0
+      ],
+      [
+        "Thida Aung",
+        775000.0
+      ],
+      [
+        "Riana Venter",
+        775000.0
+      ],
+      [
+        "Ivy Lam",
+        775000.0
+      ],
+      [
+        "Taufiq Suthar",
+        775000.0
+      ],
+      [
+        "Arinah Zain",
+        775000.0
+      ],
+      [
+        "Charlotte Ambrose",
+        775000.0
+      ],
+      [
+        "laya joymon",
+        775000.0
+      ],
+      [
+        "faseeh ahmed",
+        775000.0
+      ],
+      [
+        "Aly Sinclair",
+        775000.0
+      ],
+      [
+        "Wendy Wan",
+        775000.0
+      ],
+      [
+        "Christian",
+        775000.0
+      ],
+      [
+        "SUDIPTA BANDYOPADHYAY",
+        775000.0
+      ],
+      [
+        "Ravneet Kaur \u2014 REA",
+        775000.0
+      ],
+      [
+        "helen smith \u2014 REA",
+        775000.0
+      ],
+      [
+        "subrojit baul \u2014 REA",
+        775000.0
+      ],
+      [
+        "harpreet \u2014 REA",
+        775000.0
+      ],
+      [
+        "michael sobola \u2014 REA",
+        775000.0
+      ],
+      [
+        "esther ko \u2014 REA",
+        775000.0
+      ],
+      [
+        "mary sarigumba \u2014 REA",
+        775000.0
+      ],
+      [
+        "sonam choeky \u2014 REA",
+        775000.0
+      ],
+      [
+        "jyotin prajapati \u2014 REA",
+        775000.0
+      ],
+      [
+        "anya lert \u2014 REA",
+        775000.0
+      ],
+      [
         "Ali Alizada",
         625000.0
       ],
@@ -1109,7 +1931,55 @@
         625000.0
       ],
       [
+        "Tarlochan Singh Grewal",
+        625000.0
+      ],
+      [
+        "Erin Corasaniti",
+        625000.0
+      ],
+      [
+        "Maddi Lamaro",
+        625000.0
+      ],
+      [
+        "Lesley Klem",
+        625000.0
+      ],
+      [
+        "jeremie siki \u2014 REA",
+        625000.0
+      ],
+      [
+        "stacey cutinho \u2014 REA",
+        625000.0
+      ],
+      [
+        "jay kang \u2014 REA",
+        625000.0
+      ],
+      [
+        "wathsala de silva \u2014 REA",
+        625000.0
+      ],
+      [
+        "samantha qu \u2014 REA",
+        625000.0
+      ],
+      [
+        "jane damodaram \u2014 REA",
+        625000.0
+      ],
+      [
+        "Christopher Nicdao",
+        475000.0
+      ],
+      [
         "Toni Zwicker",
+        325000.0
+      ],
+      [
+        "Sajin Ts",
         325000.0
       ],
       [
@@ -1279,58 +2149,371 @@
       [
         "Iesha Deane",
         0.0
+      ],
+      [
+        "Sadiq Wafa",
+        0.0
+      ],
+      [
+        "Nikita Goveas",
+        0.0
+      ],
+      [
+        "Kavya Wijenayake",
+        0.0
+      ],
+      [
+        "Symonne Sykes",
+        0.0
+      ],
+      [
+        "Cody Jayes",
+        0.0
+      ],
+      [
+        "Sam Ph",
+        0.0
+      ],
+      [
+        "Jeyakumar Tharmakulasingam 1",
+        0.0
+      ],
+      [
+        "Stephen  Davies",
+        0.0
+      ],
+      [
+        "Vance Vu",
+        0.0
+      ],
+      [
+        "Clement Mathieux ",
+        0.0
+      ],
+      [
+        "Angelina Steele",
+        0.0
+      ],
+      [
+        "Christine Richter",
+        0.0
+      ],
+      [
+        "Michael Rozic",
+        0.0
+      ],
+      [
+        "",
+        0.0
+      ],
+      [
+        "Kevin Loreto",
+        0.0
+      ],
+      [
+        "Nicole Murazvu",
+        0.0
+      ],
+      [
+        "Megan Crossley",
+        0.0
+      ],
+      [
+        "Ettiene Terblanche",
+        0.0
+      ],
+      [
+        "Michelle Walker",
+        0.0
+      ],
+      [
+        "Riki Tai",
+        0.0
+      ],
+      [
+        "Jo Iongi",
+        0.0
+      ],
+      [
+        "Maya Sharpe",
+        0.0
+      ],
+      [
+        "Peace Wilmot ",
+        0.0
+      ],
+      [
+        "B W",
+        0.0
+      ],
+      [
+        "Beckie Long",
+        0.0
+      ],
+      [
+        "Isabel Hislop",
+        0.0
+      ],
+      [
+        "",
+        0.0
+      ],
+      [
+        "Allysia Waddy",
+        0.0
+      ],
+      [
+        "Emily Peel",
+        0.0
+      ],
+      [
+        "Neho Test",
+        0.0
+      ],
+      [
+        "Gultana Julie Dzemailoski",
+        0.0
+      ],
+      [
+        "Surya Khademi",
+        0.0
+      ],
+      [
+        "Piya D D",
+        0.0
+      ],
+      [
+        "Subin Wright-Simon",
+        0.0
+      ],
+      [
+        "Michael Khan",
+        0.0
+      ],
+      [
+        "Eunkang Lim",
+        0.0
+      ],
+      [
+        "Jasmine Bennier",
+        0.0
+      ],
+      [
+        "Brett Walsh",
+        0.0
+      ],
+      [
+        "Mariam Bajrai",
+        0.0
+      ],
+      [
+        "Carne  Gibbs",
+        0.0
+      ],
+      [
+        "Irwan Hasballah ",
+        0.0
+      ],
+      [
+        "Ron Rom",
+        0.0
+      ],
+      [
+        "Suka Nguyen",
+        0.0
+      ],
+      [
+        "Karim Elgawady",
+        0.0
+      ],
+      [
+        "Matthew Wynne",
+        0.0
+      ],
+      [
+        "Emily Kerr",
+        0.0
+      ],
+      [
+        "Renae Cinquina",
+        0.0
+      ],
+      [
+        "Melissa Gall",
+        0.0
+      ],
+      [
+        "Dharsana Sudarsanan",
+        0.0
+      ],
+      [
+        "Andrew Tawadrous",
+        0.0
+      ],
+      [
+        "Enayat Mousavi",
+        0.0
+      ],
+      [
+        "Rachel Statham",
+        0.0
+      ],
+      [
+        "Thomas Waratini",
+        0.0
+      ],
+      [
+        "Enan Talukder",
+        0.0
+      ],
+      [
+        "Himanshi Babbar",
+        0.0
+      ],
+      [
+        "Mohammed Eissa",
+        0.0
+      ],
+      [
+        "Neil Keiles",
+        0.0
+      ],
+      [
+        "Krishnee",
+        0.0
+      ],
+      [
+        "Kirsten Silvey",
+        0.0
+      ],
+      [
+        "Josh  Watson",
+        0.0
+      ],
+      [
+        "Scott",
+        0.0
+      ],
+      [
+        "Sarah Boustead",
+        0.0
+      ],
+      [
+        "Usama Riaz",
+        0.0
+      ],
+      [
+        "Genevieve Iones",
+        0.0
+      ],
+      [
+        "Sitti Salwah B Sinwan",
+        0.0
+      ],
+      [
+        "Maria Farano",
+        0.0
+      ],
+      [
+        "John Saad",
+        0.0
+      ],
+      [
+        "Chris Brookes",
+        0.0
+      ],
+      [
+        "Alicia Sorgiovanni",
+        0.0
+      ],
+      [
+        "Emma James",
+        0.0
+      ],
+      [
+        "eric ting \u2014 REA",
+        0.0
+      ],
+      [
+        "binod kandel \u2014 REA",
+        0.0
+      ],
+      [
+        "james smith \u2014 REA",
+        0.0
+      ],
+      [
+        "michael lopez \u2014 REA",
+        0.0
+      ],
+      [
+        "kim wisniewski \u2014 REA",
+        0.0
+      ],
+      [
+        "silvana samawi \u2014 REA",
+        0.0
+      ],
+      [
+        "scott mays \u2014 REA",
+        0.0
+      ],
+      [
+        "sammy nira \u2014 REA",
+        0.0
       ]
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 2325000.0,
-    "?": 18925000.0,
-    "Booked": 1875000.0,
-    "Nurturing": 0.0,
-    "Lost": 9450000.0,
-    "Not Yet Ready": 2175000.0,
+    "New Lead": 17575000.0,
+    "?": 21400000.0,
+    "Booked": 2800000.0,
+    "Nurturing": 2325000.0,
+    "Lost": 48800000.0,
+    "Not Yet Ready": 7775000.0,
     "Showed Up": 0.0,
-    "Builder Shortlist Sent": 0.0,
+    "Builder Shortlist Sent": 30000.0,
     "Qualified": 775000.0,
     "Contract Review": 0.0,
-    "Won \u2014 Build Confirmed": 30000.0
+    "Won \u2014 Build Confirmed": 2430000.0,
+    "Site Visit Scheduled": 625000.0
   },
   "per_rep": {
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
       "leads_30d": 102,
-      "leads_total": 254,
-      "opps_total": 112,
+      "leads_total": 274,
+      "opps_total": 185,
       "opps_qualified": 1,
-      "opps_won": 0
+      "opps_won": 3
     },
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 84,
-      "leads_total": 202,
-      "opps_total": 110,
+      "leads_total": 220,
+      "opps_total": 195,
       "opps_qualified": 0,
-      "opps_won": 1
+      "opps_won": 6
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 109,
-      "leads_total": 282,
-      "opps_total": 98,
-      "opps_qualified": 0,
-      "opps_won": 1
+      "leads_30d": 108,
+      "leads_total": 302,
+      "opps_total": 179,
+      "opps_qualified": 1,
+      "opps_won": 5
     },
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
       "leads_30d": 93,
-      "leads_total": 278,
-      "opps_total": 80,
-      "opps_qualified": 0,
-      "opps_won": 0
+      "leads_total": 293,
+      "opps_total": 139,
+      "opps_qualified": 1,
+      "opps_won": 2
     }
   },
   "round_robin": {
