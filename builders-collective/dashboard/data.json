@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-01T03:14:48.186276+00:00",
+  "generated_at": "2026-10-01T03:45:23.056324+00:00",
   "totals": {
     "total_leads": 1175,
     "leads_30d": 402,
-    "total_opps": 817,
-    "calls_booked": 103,
-    "ppas_signed": 27,
-    "pipeline_value": 147360000
+    "total_opps": 800,
+    "calls_booked": 98,
+    "ppas_signed": 22,
+    "pipeline_value": 144735000
   },
   "channels_30d": {
     "Eligibility": 253,
@@ -23,25 +23,21 @@
     "Meta": 17
   },
   "stages": {
-    "New Lead": 296,
-    "?": 99,
+    "New Lead": 275,
+    "?": 116,
     "Booked": 58,
-    "Nurturing": 19,
-    "Lost": 232,
-    "Not Yet Ready": 68,
+    "Nurturing": 22,
+    "Lost": 226,
+    "Not Yet Ready": 63,
     "Showed Up": 7,
     "Builder Shortlist Sent": 4,
     "Qualified": 4,
     "Contract Review": 1,
-    "Won \u2014 Build Confirmed": 27,
+    "Won \u2014 Build Confirmed": 22,
     "Site Visit Scheduled": 2
   },
   "stage_top_deals": {
     "New Lead": [
-      [
-        "Georgia Seed",
-        925000.0
-      ],
       [
         "ashu tiwari \u2014 REA",
         925000.0
@@ -57,14 +53,6 @@
       [
         "bernie \u2014 REA",
         925000.0
-      ],
-      [
-        "Harley Price",
-        775000.0
-      ],
-      [
-        "Gowsi Manoharan",
-        775000.0
       ],
       [
         "anitha kuna \u2014 REA",
@@ -113,30 +101,6 @@
       [
         "Balamurugan Arumugam",
         775000.0
-      ],
-      [
-        "Richard Roberts",
-        625000.0
-      ],
-      [
-        "Alifiya Gandhi",
-        625000.0
-      ],
-      [
-        "Sangeetha Manian",
-        625000.0
-      ],
-      [
-        "Lap Kei (Terry) Chan",
-        625000.0
-      ],
-      [
-        "Michel Barbier",
-        625000.0
-      ],
-      [
-        "Lakhvir Jagpal",
-        625000.0
       ],
       [
         "maryanne giacoppo \u2014 REA",
@@ -471,10 +435,6 @@
         0.0
       ],
       [
-        "Kate",
-        0.0
-      ],
-      [
         "Kurt Kelly",
         0.0
       ],
@@ -564,10 +524,6 @@
       ],
       [
         "Kurt Eberhardt",
-        0.0
-      ],
-      [
-        "Madcow Escamillas Platt",
         0.0
       ],
       [
@@ -699,10 +655,6 @@
         0.0
       ],
       [
-        "Rif",
-        0.0
-      ],
-      [
         "Michelle Torrance",
         0.0
       ],
@@ -736,10 +688,6 @@
       ],
       [
         "Fabio Carlos Barros",
-        0.0
-      ],
-      [
-        "Lois Paffett",
         0.0
       ],
       [
@@ -883,10 +831,6 @@
         0.0
       ],
       [
-        "Julie White",
-        0.0
-      ],
-      [
         "Florence  Vint",
         0.0
       ],
@@ -971,10 +915,6 @@
         0.0
       ],
       [
-        "Analie Salvacion",
-        0.0
-      ],
-      [
         "Kira Webb",
         0.0
       ],
@@ -984,18 +924,6 @@
       ],
       [
         "Bob Bobby",
-        0.0
-      ],
-      [
-        "Mohit Tyagi",
-        0.0
-      ],
-      [
-        "Christine Phoon",
-        0.0
-      ],
-      [
-        "Jeyakumar Tharmakulasingam",
         0.0
       ],
       [
@@ -1016,10 +944,6 @@
       ],
       [
         "Mark Parikh",
-        0.0
-      ],
-      [
-        "Alexandra King",
         0.0
       ],
       [
@@ -1163,10 +1087,6 @@
         0.0
       ],
       [
-        "kenny ngo \u2014 REA",
-        0.0
-      ],
-      [
         "achal sikligar \u2014 REA",
         0.0
       ],
@@ -1217,10 +1137,6 @@
       [
         "ted marchese \u2014 REA",
         0.0
-      ],
-      [
-        "Cherith Ferguson \u2014 Eligibility",
-        0.0
       ]
     ],
     "Nurturing": [
@@ -1237,11 +1153,23 @@
         625000.0
       ],
       [
+        "Kate",
+        0.0
+      ],
+      [
         "Tayla Sheppey",
         0.0
       ],
       [
         "Daniel Tyler",
+        0.0
+      ],
+      [
+        "Rif",
+        0.0
+      ],
+      [
+        "Lois Paffett",
         0.0
       ],
       [
@@ -1679,26 +1607,6 @@
         25000.0
       ],
       [
-        "Codey Stewart",
-        25000.0
-      ],
-      [
-        "James Bismard",
-        25000.0
-      ],
-      [
-        "Arskie David",
-        25000.0
-      ],
-      [
-        "Keah Hall",
-        25000.0
-      ],
-      [
-        "Lee Anne Boon \u2014 Eligibility",
-        25000.0
-      ],
-      [
         "Stephen Devisoe",
         20000.0
       ],
@@ -1746,10 +1654,6 @@
       ],
       [
         "Nassa Atekhis",
-        775000.0
-      ],
-      [
-        "Abhi Prasad",
         775000.0
       ],
       [
@@ -1983,22 +1887,6 @@
       [
         "Omar autelitano",
         0.0
-      ],
-      [
-        "Rico",
-        0.0
-      ],
-      [
-        "Andrej and Donna ",
-        0.0
-      ],
-      [
-        "Nic Shields \u2014 Eligibility",
-        0.0
-      ],
-      [
-        "Promise Nechikwira",
-        0.0
       ]
     ],
     "Lost": [
@@ -2080,10 +1968,6 @@
       ],
       [
         "Dhan Gurung",
-        925000.0
-      ],
-      [
-        "Divya patel",
         925000.0
       ],
       [
@@ -2263,10 +2147,6 @@
         775000.0
       ],
       [
-        "Hermann Kengwah Kinfer",
-        775000.0
-      ],
-      [
         "Ali Alizada",
         625000.0
       ],
@@ -2357,10 +2237,6 @@
       [
         "Dechen Wangmo",
         325000.0
-      ],
-      [
-        "Shynae Otway",
-        25000.0
       ],
       [
         "Scott Laundy",
@@ -2917,33 +2793,21 @@
       [
         "Mandeep Gill",
         0.0
-      ],
-      [
-        "G Singh",
-        0.0
-      ],
-      [
-        "Maria Polson \u2014 Eligibility",
-        0.0
-      ],
-      [
-        "Kate De Guzman \u2014 Eligibility",
-        0.0
       ]
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 35500000.0,
-    "?": 21400000.0,
+    "New Lead": 29275000.0,
+    "?": 27625000.0,
     "Booked": 3575000.0,
     "Nurturing": 2325000.0,
-    "Lost": 69300000.0,
-    "Not Yet Ready": 10575000.0,
+    "Lost": 67575000.0,
+    "Not Yet Ready": 9800000.0,
     "Showed Up": 0.0,
     "Builder Shortlist Sent": 30000.0,
     "Qualified": 775000.0,
     "Contract Review": 0.0,
-    "Won \u2014 Build Confirmed": 3255000.0,
+    "Won \u2014 Build Confirmed": 3130000.0,
     "Site Visit Scheduled": 625000.0
   },
   "per_rep": {
@@ -2952,7 +2816,7 @@
       "initial": "D",
       "leads_30d": 102,
       "leads_total": 274,
-      "opps_total": 218,
+      "opps_total": 211,
       "opps_qualified": 1,
       "opps_won": 4
     },
@@ -2961,16 +2825,16 @@
       "initial": "A",
       "leads_30d": 84,
       "leads_total": 220,
-      "opps_total": 222,
+      "opps_total": 215,
       "opps_qualified": 0,
-      "opps_won": 11
+      "opps_won": 6
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 108,
       "leads_total": 302,
-      "opps_total": 212,
+      "opps_total": 210,
       "opps_qualified": 1,
       "opps_won": 8
     },
@@ -2979,7 +2843,7 @@
       "initial": "M",
       "leads_30d": 94,
       "leads_total": 294,
-      "opps_total": 163,
+      "opps_total": 162,
       "opps_qualified": 2,
       "opps_won": 3
     }
