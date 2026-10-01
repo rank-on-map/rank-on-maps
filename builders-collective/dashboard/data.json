@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T19:26:43.594966+00:00",
+  "generated_at": "2026-10-01T19:27:53.789773+00:00",
   "totals": {
     "total_leads": 1182,
     "leads_30d": 401,
@@ -20,6 +20,13 @@
     "REA": 105,
     "Eligibility": 16,
     "Other": 13
+  },
+  "channels_booked_30d": {
+    "Meta": 28,
+    "REA": 3,
+    "Contact": 3,
+    "Eligibility": 3,
+    "Other": 1
   },
   "channels_total": {
     "Meta": 259,
