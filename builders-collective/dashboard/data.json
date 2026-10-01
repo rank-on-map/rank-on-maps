@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T19:03:00.540125+00:00",
+  "generated_at": "2026-10-01T19:21:09.697735+00:00",
   "totals": {
     "total_leads": 1182,
     "leads_30d": 401,
@@ -7,6 +7,10 @@
     "calls_booked": 104,
     "ppas_signed": 27,
     "pipeline_value": 147360000
+  },
+  "meta_spend": {
+    "spend": 8043.437396,
+    "leads": 272
   },
   "channels_30d": {
     "Eligibility": 257,
