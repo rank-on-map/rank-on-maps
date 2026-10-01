@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T19:23:57.536282+00:00",
+  "generated_at": "2026-10-01T19:25:28.643516+00:00",
   "totals": {
     "total_leads": 1182,
     "leads_30d": 401,
@@ -7,10 +7,11 @@
     "calls_booked": 104,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
-    "mixed_unit_deals": 20
+    "mixed_unit_deals": 20,
+    "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8043.437396,
+    "spend": 8043.398493,
     "leads": 272
   },
   "channels_30d": {
