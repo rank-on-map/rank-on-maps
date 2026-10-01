@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-10-01T19:21:09.697735+00:00",
+  "generated_at": "2026-10-01T19:23:57.536282+00:00",
   "totals": {
     "total_leads": 1182,
     "leads_30d": 401,
     "total_opps": 824,
     "calls_booked": 104,
     "ppas_signed": 27,
-    "pipeline_value": 147360000
+    "pipeline_value": 146850000,
+    "mixed_unit_deals": 20
   },
   "meta_spend": {
     "spend": 8043.437396,
     "leads": 272
   },
   "channels_30d": {
-    "Eligibility": 257,
+    "Meta": 259,
     "Contact": 8,
-    "REA": 106,
-    "Other": 13,
-    "Meta": 17
+    "REA": 105,
+    "Eligibility": 16,
+    "Other": 13
   },
   "channels_total": {
-    "Eligibility": 446,
+    "Meta": 259,
     "Contact": 19,
-    "REA": 576,
-    "Other": 124,
-    "Meta": 17
+    "REA": 575,
+    "Eligibility": 205,
+    "Other": 124
   },
   "stages": {
     "New Lead": 281,
@@ -2893,17 +2894,14 @@
     ]
   },
   "stage_pipeline_value": {
-    "New Lead": 29275000.0,
-    "Booked": 3575000.0,
     "?": 27625000.0,
-    "Nurturing": 2325000.0,
-    "Lost": 69300000.0,
-    "Not Yet Ready": 10575000.0,
-    "Showed Up": 0.0,
-    "Builder Shortlist Sent": 30000.0,
+    "Booked": 3575000.0,
     "Qualified": 775000.0,
-    "Contract Review": 0.0,
-    "Won \u2014 Build Confirmed": 3255000.0,
+    "Lost": 69275000.0,
+    "Not Yet Ready": 10575000.0,
+    "Won \u2014 Build Confirmed": 2800000.0,
+    "Nurturing": 2325000.0,
+    "New Lead": 29275000.0,
     "Site Visit Scheduled": 625000.0
   },
   "per_rep": {
@@ -2957,16 +2955,16 @@
       "Masih",
       "Abdullah",
       "David",
-      "Hasib"
+      "Abdullah"
     ],
     "balance": {
       "Masih": 3,
-      "Abdullah": 3,
+      "Abdullah": 4,
       "David": 3,
-      "Hasib": 3
+      "Hasib": 2
     },
     "health": "healthy",
-    "sequence_arrow": "Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib"
+    "sequence_arrow": "Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Abdullah"
   },
   "appointments": []
 }
