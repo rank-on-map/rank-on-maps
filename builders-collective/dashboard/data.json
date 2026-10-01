@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-01T02:13:53.371187+00:00",
+  "generated_at": "2026-10-01T02:44:22.445620+00:00",
   "totals": {
     "total_leads": 1175,
     "leads_30d": 402,
-    "total_opps": 800,
-    "calls_booked": 98,
-    "ppas_signed": 22,
-    "pipeline_value": 144735000
+    "total_opps": 817,
+    "calls_booked": 103,
+    "ppas_signed": 27,
+    "pipeline_value": 147360000
   },
   "channels_30d": {
     "Eligibility": 253,
@@ -23,17 +23,17 @@
     "Meta": 17
   },
   "stages": {
-    "New Lead": 295,
+    "New Lead": 296,
     "?": 99,
     "Booked": 58,
     "Nurturing": 19,
-    "Lost": 226,
-    "Not Yet Ready": 63,
+    "Lost": 232,
+    "Not Yet Ready": 68,
     "Showed Up": 7,
     "Builder Shortlist Sent": 4,
     "Qualified": 4,
     "Contract Review": 1,
-    "Won \u2014 Build Confirmed": 22,
+    "Won \u2014 Build Confirmed": 27,
     "Site Visit Scheduled": 2
   },
   "stage_top_deals": {
@@ -1217,6 +1217,10 @@
       [
         "ted marchese \u2014 REA",
         0.0
+      ],
+      [
+        "Cherith Ferguson \u2014 Eligibility",
+        0.0
       ]
     ],
     "Nurturing": [
@@ -1675,6 +1679,26 @@
         25000.0
       ],
       [
+        "Codey Stewart",
+        25000.0
+      ],
+      [
+        "James Bismard",
+        25000.0
+      ],
+      [
+        "Arskie David",
+        25000.0
+      ],
+      [
+        "Keah Hall",
+        25000.0
+      ],
+      [
+        "Lee Anne Boon \u2014 Eligibility",
+        25000.0
+      ],
+      [
         "Stephen Devisoe",
         20000.0
       ],
@@ -1722,6 +1746,10 @@
       ],
       [
         "Nassa Atekhis",
+        775000.0
+      ],
+      [
+        "Abhi Prasad",
         775000.0
       ],
       [
@@ -1955,6 +1983,22 @@
       [
         "Omar autelitano",
         0.0
+      ],
+      [
+        "Rico",
+        0.0
+      ],
+      [
+        "Andrej and Donna ",
+        0.0
+      ],
+      [
+        "Nic Shields \u2014 Eligibility",
+        0.0
+      ],
+      [
+        "Promise Nechikwira",
+        0.0
       ]
     ],
     "Lost": [
@@ -2036,6 +2080,10 @@
       ],
       [
         "Dhan Gurung",
+        925000.0
+      ],
+      [
+        "Divya patel",
         925000.0
       ],
       [
@@ -2215,6 +2263,10 @@
         775000.0
       ],
       [
+        "Hermann Kengwah Kinfer",
+        775000.0
+      ],
+      [
         "Ali Alizada",
         625000.0
       ],
@@ -2305,6 +2357,10 @@
       [
         "Dechen Wangmo",
         325000.0
+      ],
+      [
+        "Shynae Otway",
+        25000.0
       ],
       [
         "Scott Laundy",
@@ -2861,6 +2917,18 @@
       [
         "Mandeep Gill",
         0.0
+      ],
+      [
+        "G Singh",
+        0.0
+      ],
+      [
+        "Maria Polson \u2014 Eligibility",
+        0.0
+      ],
+      [
+        "Kate De Guzman \u2014 Eligibility",
+        0.0
       ]
     ]
   },
@@ -2869,13 +2937,13 @@
     "?": 21400000.0,
     "Booked": 3575000.0,
     "Nurturing": 2325000.0,
-    "Lost": 67575000.0,
-    "Not Yet Ready": 9800000.0,
+    "Lost": 69300000.0,
+    "Not Yet Ready": 10575000.0,
     "Showed Up": 0.0,
     "Builder Shortlist Sent": 30000.0,
     "Qualified": 775000.0,
     "Contract Review": 0.0,
-    "Won \u2014 Build Confirmed": 3130000.0,
+    "Won \u2014 Build Confirmed": 3255000.0,
     "Site Visit Scheduled": 625000.0
   },
   "per_rep": {
@@ -2884,7 +2952,7 @@
       "initial": "D",
       "leads_30d": 102,
       "leads_total": 274,
-      "opps_total": 211,
+      "opps_total": 218,
       "opps_qualified": 1,
       "opps_won": 4
     },
@@ -2893,16 +2961,16 @@
       "initial": "A",
       "leads_30d": 84,
       "leads_total": 220,
-      "opps_total": 215,
+      "opps_total": 222,
       "opps_qualified": 0,
-      "opps_won": 6
+      "opps_won": 11
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 108,
       "leads_total": 302,
-      "opps_total": 210,
+      "opps_total": 212,
       "opps_qualified": 1,
       "opps_won": 8
     },
@@ -2911,7 +2979,7 @@
       "initial": "M",
       "leads_30d": 94,
       "leads_total": 294,
-      "opps_total": 162,
+      "opps_total": 163,
       "opps_qualified": 2,
       "opps_won": 3
     }
