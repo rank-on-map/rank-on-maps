@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-02T06:13:29.045244+00:00",
+  "generated_at": "2026-10-02T06:43:56.193302+00:00",
   "totals": {
-    "total_leads": 1183,
-    "leads_30d": 399,
-    "total_opps": 824,
+    "total_leads": 1184,
+    "leads_30d": 400,
+    "total_opps": 825,
     "calls_booked": 104,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,12 +11,12 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8042.076481,
-    "leads": 267
+    "spend": 8058.231098,
+    "leads": 268
   },
   "channels_30d": {
+    "Meta": 260,
     "REA": 105,
-    "Meta": 259,
     "Contact": 8,
     "Eligibility": 15,
     "Other": 12
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 260,
     "REA": 576,
-    "Meta": 259,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 281,
+    "New Lead": 282,
     "Booked": 59,
     "?": 117,
     "Nurturing": 22,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Rosa Fsrrugia",
+        0.0
       ],
       [
         "Frank Lawrence",
@@ -2943,9 +2947,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 93,
-      "leads_total": 296,
-      "opps_total": 164,
+      "leads_30d": 94,
+      "leads_total": 297,
+      "opps_total": 165,
       "opps_qualified": 2,
       "opps_won": 3
     }
