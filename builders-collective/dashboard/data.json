@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T15:01:18.046591+00:00",
+  "generated_at": "2026-10-02T15:31:54.231038+00:00",
   "totals": {
     "total_leads": 1186,
-    "leads_30d": 394,
+    "leads_30d": 393,
     "total_opps": 826,
     "calls_booked": 104,
     "ppas_signed": 27,
@@ -11,7 +11,7 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8189.436019,
+    "spend": 8196.35115,
     "leads": 269
   },
   "channels_30d": {
@@ -19,7 +19,7 @@
     "Meta": 261,
     "Contact": 7,
     "Eligibility": 10,
-    "Other": 12
+    "Other": 11
   },
   "channels_booked_30d": {
     "Meta": 28,
