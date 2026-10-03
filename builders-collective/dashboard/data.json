@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-03T12:35:48.242210+00:00",
+  "generated_at": "2026-10-03T13:06:10.602080+00:00",
   "totals": {
-    "total_leads": 1190,
-    "leads_30d": 389,
-    "total_opps": 828,
+    "total_leads": 1191,
+    "leads_30d": 390,
+    "total_opps": 829,
     "calls_booked": 105,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,12 +11,12 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8270.211202,
-    "leads": 269
+    "spend": 8278.941529,
+    "leads": 270
   },
   "channels_30d": {
+    "Meta": 264,
     "REA": 102,
-    "Meta": 263,
     "Contact": 7,
     "Eligibility": 9,
     "Other": 8
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 264,
     "REA": 579,
-    "Meta": 263,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 283,
+    "New Lead": 284,
     "Booked": 60,
     "?": 118,
     "Nurturing": 22,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "InAndy Ly",
+        0.0
       ],
       [
         "Andrew Hort",
@@ -2955,9 +2959,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 90,
-      "leads_total": 297,
-      "opps_total": 165,
+      "leads_30d": 91,
+      "leads_total": 298,
+      "opps_total": 166,
       "opps_qualified": 2,
       "opps_won": 3
     }
