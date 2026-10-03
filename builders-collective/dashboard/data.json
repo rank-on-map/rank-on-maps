@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-03T09:03:09.141776+00:00",
+  "generated_at": "2026-10-03T09:33:36.185537+00:00",
   "totals": {
     "total_leads": 1188,
-    "leads_30d": 389,
-    "total_opps": 827,
+    "leads_30d": 388,
+    "total_opps": 828,
     "calls_booked": 105,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,7 +11,7 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8216.415987,
+    "spend": 8224.233081,
     "leads": 268
   },
   "channels_30d": {
@@ -19,7 +19,7 @@
     "REA": 101,
     "Contact": 7,
     "Eligibility": 9,
-    "Other": 10
+    "Other": 9
   },
   "channels_booked_30d": {
     "Meta": 29,
@@ -36,7 +36,7 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 282,
+    "New Lead": 283,
     "Booked": 60,
     "?": 118,
     "Nurturing": 22,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Andrew Hort",
+        0.0
       ],
       [
         "Selina Bromley",
@@ -2944,7 +2948,7 @@
       "initial": "H",
       "leads_30d": 109,
       "leads_total": 305,
-      "opps_total": 214,
+      "opps_total": 215,
       "opps_qualified": 1,
       "opps_won": 8
     },
