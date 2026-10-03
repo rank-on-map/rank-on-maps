@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-03T06:00:19.700016+00:00",
+  "generated_at": "2026-10-03T06:30:58.619493+00:00",
   "totals": {
     "total_leads": 1187,
     "leads_30d": 389,
     "total_opps": 826,
-    "calls_booked": 104,
+    "calls_booked": 105,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
     "mixed_unit_deals": 20,
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8164.64924,
+    "spend": 8172.510091,
     "leads": 267
   },
   "channels_30d": {
@@ -22,7 +22,7 @@
     "Other": 10
   },
   "channels_booked_30d": {
-    "Meta": 28,
+    "Meta": 29,
     "REA": 3,
     "Contact": 2,
     "Eligibility": 2,
@@ -36,8 +36,8 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 283,
-    "Booked": 59,
+    "New Lead": 282,
+    "Booked": 60,
     "?": 117,
     "Nurturing": 22,
     "Lost": 232,
@@ -237,10 +237,6 @@
       ],
       [
         "James Brown",
-        0.0
-      ],
-      [
-        "Nicola Knowles",
         0.0
       ],
       [
@@ -1294,6 +1290,10 @@
       [
         "John Koshkuson",
         625000.0
+      ],
+      [
+        "Nicola Knowles",
+        0.0
       ],
       [
         "Francis Van Der Meer",
@@ -2933,8 +2933,8 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 85,
-      "leads_total": 224,
+      "leads_30d": 84,
+      "leads_total": 223,
       "opps_total": 225,
       "opps_qualified": 0,
       "opps_won": 11
@@ -2942,8 +2942,8 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 108,
-      "leads_total": 304,
+      "leads_30d": 109,
+      "leads_total": 305,
       "opps_total": 214,
       "opps_qualified": 1,
       "opps_won": 8
