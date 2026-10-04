@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-04T07:54:17.163870+00:00",
+  "generated_at": "2026-10-04T08:24:37.866739+00:00",
   "totals": {
-    "total_leads": 1198,
-    "leads_30d": 394,
-    "total_opps": 833,
+    "total_leads": 1199,
+    "leads_30d": 393,
+    "total_opps": 834,
     "calls_booked": 105,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,12 +11,12 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8435.937741,
+    "spend": 8444.96774,
     "leads": 274
   },
   "channels_30d": {
-    "REA": 103,
-    "Meta": 268,
+    "Meta": 269,
+    "REA": 101,
     "Contact": 7,
     "Eligibility": 8,
     "Other": 8
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 269,
     "REA": 582,
-    "Meta": 268,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 288,
+    "New Lead": 289,
     "Booked": 60,
     "?": 118,
     "Nurturing": 22,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Gill Michelle",
+        0.0
       ],
       [
         "Natalie Tuckey",
@@ -2958,15 +2962,15 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 83,
-      "leads_total": 224,
-      "opps_total": 226,
+      "leads_total": 225,
+      "opps_total": 227,
       "opps_qualified": 0,
       "opps_won": 11
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 112,
+      "leads_30d": 111,
       "leads_total": 309,
       "opps_total": 216,
       "opps_qualified": 1,
