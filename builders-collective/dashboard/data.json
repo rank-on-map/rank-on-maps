@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T11:27:05.025225+00:00",
+  "generated_at": "2026-10-04T11:57:34.937287+00:00",
   "totals": {
     "total_leads": 1201,
-    "leads_30d": 392,
+    "leads_30d": 390,
     "total_opps": 836,
     "calls_booked": 106,
     "ppas_signed": 27,
@@ -11,12 +11,12 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8497.372178,
+    "spend": 8505.98951,
     "leads": 277
   },
   "channels_30d": {
     "Meta": 271,
-    "REA": 98,
+    "REA": 96,
     "Contact": 7,
     "Eligibility": 8,
     "Other": 8
@@ -2987,7 +2987,7 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 92,
+      "leads_30d": 90,
       "leads_total": 300,
       "opps_total": 167,
       "opps_qualified": 2,
