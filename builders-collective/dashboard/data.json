@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-04T11:57:34.937287+00:00",
+  "generated_at": "2026-10-04T12:28:02.508196+00:00",
   "totals": {
-    "total_leads": 1201,
-    "leads_30d": 390,
-    "total_opps": 836,
+    "total_leads": 1202,
+    "leads_30d": 391,
+    "total_opps": 837,
     "calls_booked": 106,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,11 +11,11 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8505.98951,
+    "spend": 8515.769016,
     "leads": 277
   },
   "channels_30d": {
-    "Meta": 271,
+    "Meta": 272,
     "REA": 96,
     "Contact": 7,
     "Eligibility": 8,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 271,
+    "Meta": 272,
     "REA": 582,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 290,
+    "New Lead": 291,
     "Booked": 61,
     "?": 118,
     "Nurturing": 22,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Niki M",
+        0.0
       ],
       [
         "Stuart Graham",
@@ -2987,9 +2991,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 90,
-      "leads_total": 300,
-      "opps_total": 167,
+      "leads_30d": 91,
+      "leads_total": 301,
+      "opps_total": 168,
       "opps_qualified": 2,
       "opps_won": 3
     }
