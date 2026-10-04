@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-04T05:52:51.335821+00:00",
+  "generated_at": "2026-10-04T06:23:14.061325+00:00",
   "totals": {
-    "total_leads": 1195,
-    "leads_30d": 392,
-    "total_opps": 831,
+    "total_leads": 1198,
+    "leads_30d": 394,
+    "total_opps": 833,
     "calls_booked": 105,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,12 +11,12 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8393.315788,
-    "leads": 272
+    "spend": 8403.522069,
+    "leads": 273
   },
   "channels_30d": {
     "REA": 103,
-    "Meta": 266,
+    "Meta": 268,
     "Contact": 7,
     "Eligibility": 8,
     "Other": 8
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "REA": 581,
-    "Meta": 266,
+    "REA": 582,
+    "Meta": 268,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 286,
+    "New Lead": 288,
     "Booked": 60,
     "?": 118,
     "Nurturing": 22,
@@ -222,6 +222,14 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Natalie Tuckey",
+        0.0
+      ],
+      [
+        "Tenille Bird",
+        0.0
       ],
       [
         "Milica M Tomic",
@@ -2940,8 +2948,8 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 98,
-      "leads_total": 279,
+      "leads_30d": 99,
+      "leads_total": 280,
       "opps_total": 222,
       "opps_qualified": 1,
       "opps_won": 4
@@ -2958,9 +2966,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 111,
-      "leads_total": 308,
-      "opps_total": 215,
+      "leads_30d": 112,
+      "leads_total": 309,
+      "opps_total": 216,
       "opps_qualified": 1,
       "opps_won": 8
     },
@@ -2968,8 +2976,8 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 92,
-      "leads_total": 299,
-      "opps_total": 166,
+      "leads_total": 300,
+      "opps_total": 167,
       "opps_qualified": 2,
       "opps_won": 3
     }
