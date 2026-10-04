@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-04T12:28:02.508196+00:00",
+  "generated_at": "2026-10-04T12:58:28.549586+00:00",
   "totals": {
-    "total_leads": 1202,
-    "leads_30d": 391,
-    "total_opps": 837,
+    "total_leads": 1203,
+    "leads_30d": 392,
+    "total_opps": 838,
     "calls_booked": 106,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,11 +11,11 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8515.769016,
-    "leads": 277
+    "spend": 8527.085157,
+    "leads": 278
   },
   "channels_30d": {
-    "Meta": 272,
+    "Meta": 273,
     "REA": 96,
     "Contact": 7,
     "Eligibility": 8,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 272,
+    "Meta": 273,
     "REA": 582,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 291,
+    "New Lead": 292,
     "Booked": 61,
     "?": 118,
     "Nurturing": 22,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Julie Valentine",
+        0.0
       ],
       [
         "Niki M",
@@ -2973,9 +2977,9 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 82,
-      "leads_total": 225,
-      "opps_total": 227,
+      "leads_30d": 83,
+      "leads_total": 226,
+      "opps_total": 228,
       "opps_qualified": 0,
       "opps_won": 11
     },
