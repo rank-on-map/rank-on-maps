@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-04T01:02:41.757514+00:00",
+  "generated_at": "2026-10-04T01:33:04.472171+00:00",
   "totals": {
-    "total_leads": 1193,
-    "leads_30d": 391,
-    "total_opps": 830,
+    "total_leads": 1194,
+    "leads_30d": 392,
+    "total_opps": 831,
     "calls_booked": 105,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,12 +11,12 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8326.806799,
-    "leads": 271
+    "spend": 8331.681677,
+    "leads": 272
   },
   "channels_30d": {
+    "Meta": 266,
     "REA": 103,
-    "Meta": 265,
     "Contact": 7,
     "Eligibility": 8,
     "Other": 8
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 266,
     "REA": 580,
-    "Meta": 265,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 285,
+    "New Lead": 286,
     "Booked": 60,
     "?": 118,
     "Nurturing": 22,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Milica M Tomic",
+        0.0
       ],
       [
         "Sarah Waite",
@@ -2936,9 +2940,9 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 97,
-      "leads_total": 278,
-      "opps_total": 221,
+      "leads_30d": 98,
+      "leads_total": 279,
+      "opps_total": 222,
       "opps_qualified": 1,
       "opps_won": 4
     },
