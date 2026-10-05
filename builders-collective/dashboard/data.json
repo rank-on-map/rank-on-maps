@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-10-05T10:20:29.330836+00:00",
+  "generated_at": "2026-10-05T10:50:50.518120+00:00",
   "totals": {
-    "total_leads": 1216,
-    "leads_30d": 397,
-    "total_opps": 848,
-    "calls_booked": 107,
+    "total_leads": 500,
+    "leads_30d": 398,
+    "total_opps": 850,
+    "calls_booked": 108,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
     "mixed_unit_deals": 20,
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8575.55,
-    "leads": 283
+    "spend": 8586.14,
+    "leads": 285
   },
   "channels_30d": {
-    "Meta": 283,
-    "REA": 92,
+    "Meta": 285,
+    "REA": 91,
     "Contact": 7,
     "Eligibility": 8,
     "Other": 7
   },
   "channels_booked_30d": {
-    "Meta": 31,
+    "Meta": 32,
     "REA": 3,
     "Contact": 2,
     "Eligibility": 2,
     "Other": 1
   },
   "channels_total": {
-    "Meta": 283,
-    "REA": 585,
-    "Contact": 19,
-    "Eligibility": 205,
-    "Other": 124
+    "Meta": 285,
+    "REA": 153,
+    "Contact": 8,
+    "Eligibility": 34,
+    "Other": 20
   },
   "stages": {
-    "New Lead": 289,
-    "Booked": 62,
+    "New Lead": 290,
+    "Booked": 63,
     "?": 128,
     "Nurturing": 24,
     "Lost": 232,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Jede Wood-Brown",
+        0.0
       ],
       [
         "Rupal",
@@ -1326,6 +1330,10 @@
       [
         "John Koshkuson",
         625000.0
+      ],
+      [
+        "Steve Clarke",
+        0.0
       ],
       [
         "Lee Murphy",
@@ -2969,7 +2977,7 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 99,
-      "leads_total": 284,
+      "leads_total": 128,
       "opps_total": 226,
       "opps_qualified": 1,
       "opps_won": 4
@@ -2977,17 +2985,17 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 85,
-      "leads_total": 228,
-      "opps_total": 230,
+      "leads_30d": 86,
+      "leads_total": 100,
+      "opps_total": 231,
       "opps_qualified": 0,
       "opps_won": 11
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 112,
-      "leads_total": 314,
+      "leads_30d": 111,
+      "leads_total": 134,
       "opps_total": 220,
       "opps_qualified": 1,
       "opps_won": 8
@@ -2995,9 +3003,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 94,
-      "leads_total": 305,
-      "opps_total": 170,
+      "leads_30d": 95,
+      "leads_total": 118,
+      "opps_total": 171,
       "opps_qualified": 2,
       "opps_won": 3
     }
