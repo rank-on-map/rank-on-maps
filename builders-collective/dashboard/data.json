@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T08:49:12.803596+00:00",
+  "generated_at": "2026-10-05T09:19:36.583537+00:00",
   "totals": {
     "total_leads": 1215,
-    "leads_30d": 397,
+    "leads_30d": 396,
     "total_opps": 847,
     "calls_booked": 107,
     "ppas_signed": 27,
@@ -11,12 +11,12 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8550.21989,
+    "spend": 8562.491389,
     "leads": 282
   },
   "channels_30d": {
     "Meta": 282,
-    "REA": 93,
+    "REA": 92,
     "Contact": 7,
     "Eligibility": 8,
     "Other": 7
@@ -36,9 +36,9 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 289,
+    "New Lead": 288,
     "Booked": 62,
-    "?": 127,
+    "?": 128,
     "Nurturing": 24,
     "Lost": 232,
     "Not Yet Ready": 68,
@@ -761,10 +761,6 @@
       ],
       [
         "Jodie Grigsby",
-        0.0
-      ],
-      [
-        "Sharna Gallagher-Baird",
         0.0
       ],
       [
@@ -2968,7 +2964,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 100,
+      "leads_30d": 99,
       "leads_total": 284,
       "opps_total": 226,
       "opps_qualified": 1,
