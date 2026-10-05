@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T13:53:19.263997+00:00",
+  "generated_at": "2026-10-05T14:23:44.370651+00:00",
   "totals": {
-    "total_leads": 1221,
-    "leads_30d": 399,
-    "total_opps": 853,
+    "total_leads": 1222,
+    "leads_30d": 400,
+    "total_opps": 854,
     "calls_booked": 108,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,11 +11,11 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8652.889968,
+    "spend": 8662.55,
     "leads": 288
   },
   "channels_30d": {
-    "Meta": 288,
+    "Meta": 289,
     "REA": 89,
     "Contact": 7,
     "Eligibility": 8,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 288,
+    "Meta": 289,
     "REA": 585,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 293,
+    "New Lead": 294,
     "Booked": 63,
     "?": 128,
     "Nurturing": 24,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Jo Bell",
+        0.0
       ],
       [
         "Emily Harding",
@@ -2997,9 +3001,9 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 85,
-      "leads_total": 229,
-      "opps_total": 231,
+      "leads_30d": 86,
+      "leads_total": 230,
+      "opps_total": 232,
       "opps_qualified": 0,
       "opps_won": 11
     },
