@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T22:51:12.130986+00:00",
+  "generated_at": "2026-10-05T23:21:45.941917+00:00",
   "totals": {
-    "total_leads": 1224,
-    "leads_30d": 400,
-    "total_opps": 855,
+    "total_leads": 1225,
+    "leads_30d": 401,
+    "total_opps": 856,
     "calls_booked": 108,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,11 +11,11 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8683.71,
+    "spend": 8683.9,
     "leads": 289
   },
   "channels_30d": {
-    "Meta": 289,
+    "Meta": 290,
     "REA": 90,
     "Contact": 7,
     "Eligibility": 8,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 290,
+    "Meta": 291,
     "REA": 586,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 295,
+    "New Lead": 296,
     "Booked": 63,
     "?": 128,
     "Nurturing": 24,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Michael Thomas",
+        0.0
       ],
       [
         "Joey Adam Asmadi Omar",
@@ -3014,9 +3018,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 112,
-      "leads_total": 316,
-      "opps_total": 221,
+      "leads_30d": 113,
+      "leads_total": 317,
+      "opps_total": 222,
       "opps_qualified": 1,
       "opps_won": 8
     },
