@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:47:39.111567+00:00",
+  "generated_at": "2026-10-05T07:18:02.916257+00:00",
   "totals": {
     "total_leads": 1211,
     "leads_30d": 393,
@@ -11,8 +11,8 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8516.8,
-    "leads": 277
+    "spend": 8525.04,
+    "leads": 278
   },
   "channels_30d": {
     "Meta": 278,
@@ -36,10 +36,10 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 292,
-    "?": 121,
+    "New Lead": 289,
+    "?": 123,
     "Booked": 62,
-    "Nurturing": 23,
+    "Nurturing": 24,
     "Lost": 232,
     "Not Yet Ready": 68,
     "Showed Up": 7,
@@ -292,10 +292,6 @@
         0.0
       ],
       [
-        "Tiffany Davis",
-        0.0
-      ],
-      [
         "Chayne Beveridge",
         0.0
       ],
@@ -333,10 +329,6 @@
       ],
       [
         "Jack Bayley",
-        0.0
-      ],
-      [
-        "No  Spam",
         0.0
       ],
       [
@@ -437,10 +429,6 @@
       ],
       [
         "Fiona Jane Hinds",
-        0.0
-      ],
-      [
-        "Benji Hofmeester",
         0.0
       ],
       [
@@ -1235,6 +1223,10 @@
       ],
       [
         "Sarah Waite",
+        0.0
+      ],
+      [
+        "Benji Hofmeester",
         0.0
       ],
       [
