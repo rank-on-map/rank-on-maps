@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T06:17:13.756441+00:00",
+  "generated_at": "2026-10-05T06:47:39.111567+00:00",
   "totals": {
-    "total_leads": 1210,
-    "leads_30d": 392,
-    "total_opps": 842,
+    "total_leads": 1211,
+    "leads_30d": 393,
+    "total_opps": 843,
     "calls_booked": 107,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,12 +11,12 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8510.45,
+    "spend": 8516.8,
     "leads": 277
   },
   "channels_30d": {
+    "Meta": 278,
     "REA": 93,
-    "Meta": 277,
     "Contact": 7,
     "Eligibility": 8,
     "Other": 7
@@ -29,17 +29,17 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 278,
     "REA": 585,
-    "Meta": 277,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "?": 119,
-    "New Lead": 294,
+    "New Lead": 292,
+    "?": 121,
     "Booked": 62,
-    "Nurturing": 22,
+    "Nurturing": 23,
     "Lost": 232,
     "Not Yet Ready": 68,
     "Showed Up": 7,
@@ -224,6 +224,10 @@
         325000.0
       ],
       [
+        "Claire Ottewill",
+        0.0
+      ],
+      [
         "Simon Mcgillivray",
         0.0
       ],
@@ -236,10 +240,6 @@
         0.0
       ],
       [
-        "Julie Valentine",
-        0.0
-      ],
-      [
         "Niki M",
         0.0
       ],
@@ -248,19 +248,11 @@
         0.0
       ],
       [
-        "Gill Michelle",
-        0.0
-      ],
-      [
         "Natalie Tuckey",
         0.0
       ],
       [
         "Tenille Bird",
-        0.0
-      ],
-      [
-        "Sarah Waite",
         0.0
       ],
       [
@@ -1240,6 +1232,10 @@
       [
         "Daw Zam",
         625000.0
+      ],
+      [
+        "Sarah Waite",
+        0.0
       ],
       [
         "Kate",
@@ -2980,9 +2976,9 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 98,
-      "leads_total": 282,
-      "opps_total": 224,
+      "leads_30d": 99,
+      "leads_total": 283,
+      "opps_total": 225,
       "opps_qualified": 1,
       "opps_won": 4
     },
