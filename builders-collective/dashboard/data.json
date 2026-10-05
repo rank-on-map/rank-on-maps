@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T05:46:48.905093+00:00",
+  "generated_at": "2026-10-05T06:17:13.756441+00:00",
   "totals": {
     "total_leads": 1210,
     "leads_30d": 392,
@@ -11,7 +11,7 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8502.38,
+    "spend": 8510.45,
     "leads": 277
   },
   "channels_30d": {
@@ -36,9 +36,9 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 295,
+    "?": 119,
+    "New Lead": 294,
     "Booked": 62,
-    "?": 118,
     "Nurturing": 22,
     "Lost": 232,
     "Not Yet Ready": 68,
@@ -222,10 +222,6 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
-      ],
-      [
-        "Prakruti Dixit",
-        0.0
       ],
       [
         "Simon Mcgillivray",
