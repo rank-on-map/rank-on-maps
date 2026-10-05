@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-10-05T07:18:02.916257+00:00",
+  "generated_at": "2026-10-05T07:48:25.682320+00:00",
   "totals": {
-    "total_leads": 1211,
-    "leads_30d": 393,
-    "total_opps": 843,
-    "calls_booked": 107,
+    "total_leads": 1213,
+    "leads_30d": 395,
+    "total_opps": 845,
+    "calls_booked": 106,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
     "mixed_unit_deals": 20,
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8525.04,
-    "leads": 278
+    "spend": 8532.069969,
+    "leads": 280
   },
   "channels_30d": {
-    "Meta": 278,
+    "Meta": 280,
     "REA": 93,
     "Contact": 7,
     "Eligibility": 8,
     "Other": 7
   },
   "channels_booked_30d": {
-    "Meta": 31,
+    "Meta": 30,
     "REA": 3,
     "Contact": 2,
     "Eligibility": 2,
     "Other": 1
   },
   "channels_total": {
-    "Meta": 278,
+    "Meta": 280,
     "REA": 585,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 289,
-    "?": 123,
-    "Booked": 62,
+    "New Lead": 290,
+    "?": 125,
+    "Booked": 61,
     "Nurturing": 24,
     "Lost": 232,
     "Not Yet Ready": 68,
@@ -222,6 +222,14 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "David Cooney",
+        0.0
+      ],
+      [
+        "Jacki Werner",
+        0.0
       ],
       [
         "Claire Ottewill",
@@ -501,10 +509,6 @@
       ],
       [
         "Kurt Kelly",
-        0.0
-      ],
-      [
-        "Geoffrey Roberts",
         0.0
       ],
       [
@@ -1329,10 +1333,6 @@
       ],
       [
         "Brad Robertson",
-        0.0
-      ],
-      [
-        "Amilia Tomic",
         0.0
       ],
       [
@@ -2986,18 +2986,18 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 110,
-      "leads_total": 312,
-      "opps_total": 218,
+      "leads_30d": 111,
+      "leads_total": 313,
+      "opps_total": 219,
       "opps_qualified": 1,
       "opps_won": 8
     },
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 93,
-      "leads_total": 304,
-      "opps_total": 169,
+      "leads_30d": 94,
+      "leads_total": 305,
+      "opps_total": 170,
       "opps_qualified": 2,
       "opps_won": 3
     }
