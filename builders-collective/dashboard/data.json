@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T07:48:25.682320+00:00",
+  "generated_at": "2026-10-05T08:18:52.299799+00:00",
   "totals": {
-    "total_leads": 1213,
-    "leads_30d": 395,
-    "total_opps": 845,
+    "total_leads": 1214,
+    "leads_30d": 396,
+    "total_opps": 846,
     "calls_booked": 106,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,11 +11,11 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8532.069969,
+    "spend": 8540.470142,
     "leads": 280
   },
   "channels_30d": {
-    "Meta": 280,
+    "Meta": 281,
     "REA": 93,
     "Contact": 7,
     "Eligibility": 8,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 280,
+    "Meta": 281,
     "REA": 585,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 290,
+    "New Lead": 291,
     "?": 125,
     "Booked": 61,
     "Nurturing": 24,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Lee Murphy",
+        0.0
       ],
       [
         "David Cooney",
@@ -2977,9 +2981,9 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 84,
-      "leads_total": 227,
-      "opps_total": 229,
+      "leads_30d": 85,
+      "leads_total": 228,
+      "opps_total": 230,
       "opps_qualified": 0,
       "opps_won": 11
     },
