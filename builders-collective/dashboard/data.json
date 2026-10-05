@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T09:49:59.298717+00:00",
+  "generated_at": "2026-10-05T10:20:29.330836+00:00",
   "totals": {
-    "total_leads": 1215,
-    "leads_30d": 396,
-    "total_opps": 847,
+    "total_leads": 1216,
+    "leads_30d": 397,
+    "total_opps": 848,
     "calls_booked": 107,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,11 +11,11 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8565.71,
-    "leads": 282
+    "spend": 8575.55,
+    "leads": 283
   },
   "channels_30d": {
-    "Meta": 282,
+    "Meta": 283,
     "REA": 92,
     "Contact": 7,
     "Eligibility": 8,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 282,
+    "Meta": 283,
     "REA": 585,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 288,
+    "New Lead": 289,
     "Booked": 62,
     "?": 128,
     "Nurturing": 24,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Rupal",
+        0.0
       ],
       [
         "Wendy Zoccoli",
@@ -2982,9 +2986,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 111,
-      "leads_total": 313,
-      "opps_total": 219,
+      "leads_30d": 112,
+      "leads_total": 314,
+      "opps_total": 220,
       "opps_qualified": 1,
       "opps_won": 8
     },
