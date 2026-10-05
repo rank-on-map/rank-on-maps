@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T21:50:16.783993+00:00",
+  "generated_at": "2026-10-05T22:20:43.136240+00:00",
   "totals": {
-    "total_leads": 1223,
-    "leads_30d": 399,
-    "total_opps": 854,
+    "total_leads": 700,
+    "leads_30d": 400,
+    "total_opps": 855,
     "calls_booked": 108,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,12 +11,12 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8683.28,
+    "spend": 8683.67,
     "leads": 289
   },
   "channels_30d": {
+    "Meta": 289,
     "REA": 90,
-    "Meta": 288,
     "Contact": 7,
     "Eligibility": 8,
     "Other": 6
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "REA": 586,
-    "Meta": 289,
-    "Contact": 19,
-    "Eligibility": 205,
-    "Other": 124
+    "Meta": 290,
+    "REA": 257,
+    "Contact": 13,
+    "Eligibility": 100,
+    "Other": 40
   },
   "stages": {
-    "New Lead": 294,
+    "New Lead": 295,
     "Booked": 63,
     "?": 128,
     "Nurturing": 24,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Joey Adam Asmadi Omar",
+        0.0
       ],
       [
         "Jo Bell",
@@ -2992,9 +2996,9 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 100,
-      "leads_total": 285,
-      "opps_total": 227,
+      "leads_30d": 101,
+      "leads_total": 168,
+      "opps_total": 228,
       "opps_qualified": 1,
       "opps_won": 4
     },
@@ -3002,7 +3006,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 85,
-      "leads_total": 230,
+      "leads_total": 138,
       "opps_total": 232,
       "opps_qualified": 0,
       "opps_won": 11
@@ -3011,7 +3015,7 @@
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 112,
-      "leads_total": 316,
+      "leads_total": 185,
       "opps_total": 221,
       "opps_qualified": 1,
       "opps_won": 8
@@ -3020,7 +3024,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 96,
-      "leads_total": 307,
+      "leads_total": 174,
       "opps_total": 172,
       "opps_qualified": 2,
       "opps_won": 3
