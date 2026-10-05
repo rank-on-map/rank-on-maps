@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-10-05T08:18:52.299799+00:00",
+  "generated_at": "2026-10-05T08:49:12.803596+00:00",
   "totals": {
-    "total_leads": 1214,
-    "leads_30d": 396,
-    "total_opps": 846,
-    "calls_booked": 106,
+    "total_leads": 1215,
+    "leads_30d": 397,
+    "total_opps": 847,
+    "calls_booked": 107,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
     "mixed_unit_deals": 20,
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8540.470142,
-    "leads": 280
+    "spend": 8550.21989,
+    "leads": 282
   },
   "channels_30d": {
-    "Meta": 281,
+    "Meta": 282,
     "REA": 93,
     "Contact": 7,
     "Eligibility": 8,
     "Other": 7
   },
   "channels_booked_30d": {
-    "Meta": 30,
+    "Meta": 31,
     "REA": 3,
     "Contact": 2,
     "Eligibility": 2,
     "Other": 1
   },
   "channels_total": {
-    "Meta": 281,
+    "Meta": 282,
     "REA": 585,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 291,
-    "?": 125,
-    "Booked": 61,
+    "New Lead": 289,
+    "Booked": 62,
+    "?": 127,
     "Nurturing": 24,
     "Lost": 232,
     "Not Yet Ready": 68,
@@ -224,7 +224,7 @@
         325000.0
       ],
       [
-        "Lee Murphy",
+        "Wendy Zoccoli",
         0.0
       ],
       [
@@ -520,10 +520,6 @@
         0.0
       ],
       [
-        "Claire Millar",
-        0.0
-      ],
-      [
         "Amber Wilkinson Moore",
         0.0
       ],
@@ -641,10 +637,6 @@
       ],
       [
         "Madeleine Fryer",
-        0.0
-      ],
-      [
-        "Taleea Cremin",
         0.0
       ],
       [
@@ -1334,6 +1326,10 @@
       [
         "John Koshkuson",
         625000.0
+      ],
+      [
+        "Lee Murphy",
+        0.0
       ],
       [
         "Brad Robertson",
@@ -2972,9 +2968,9 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 99,
-      "leads_total": 283,
-      "opps_total": 225,
+      "leads_30d": 100,
+      "leads_total": 284,
+      "opps_total": 226,
       "opps_qualified": 1,
       "opps_won": 4
     },
