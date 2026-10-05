@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-05T02:10:01.934063+00:00",
+  "generated_at": "2026-10-05T02:40:25.851606+00:00",
   "totals": {
-    "total_leads": 1207,
-    "leads_30d": 391,
+    "total_leads": 1000,
+    "leads_30d": 390,
     "total_opps": 841,
-    "calls_booked": 106,
+    "calls_booked": 107,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
     "mixed_unit_deals": 20,
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8462.080156,
+    "spend": 8465.169993,
     "leads": 276
   },
   "channels_30d": {
     "Meta": 276,
-    "REA": 93,
+    "REA": 92,
     "Contact": 7,
     "Eligibility": 8,
     "Other": 7
   },
   "channels_booked_30d": {
-    "Meta": 30,
+    "Meta": 31,
     "REA": 3,
     "Contact": 2,
     "Eligibility": 2,
@@ -30,14 +30,14 @@
   },
   "channels_total": {
     "Meta": 276,
-    "REA": 583,
-    "Contact": 19,
-    "Eligibility": 205,
-    "Other": 124
+    "REA": 423,
+    "Contact": 16,
+    "Eligibility": 195,
+    "Other": 90
   },
   "stages": {
-    "New Lead": 295,
-    "Booked": 61,
+    "New Lead": 294,
+    "Booked": 62,
     "?": 118,
     "Nurturing": 22,
     "Lost": 232,
@@ -257,10 +257,6 @@
       ],
       [
         "Tenille Bird",
-        0.0
-      ],
-      [
-        "Milica M Tomic",
         0.0
       ],
       [
@@ -1345,6 +1341,10 @@
       ],
       [
         "Brad Robertson",
+        0.0
+      ],
+      [
+        "Amilia Tomic",
         0.0
       ],
       [
@@ -2980,8 +2980,8 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 100,
-      "leads_total": 282,
+      "leads_30d": 99,
+      "leads_total": 239,
       "opps_total": 224,
       "opps_qualified": 1,
       "opps_won": 4
@@ -2990,7 +2990,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 83,
-      "leads_total": 226,
+      "leads_total": 184,
       "opps_total": 228,
       "opps_qualified": 0,
       "opps_won": 11
@@ -2999,7 +2999,7 @@
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 109,
-      "leads_total": 311,
+      "leads_total": 255,
       "opps_total": 218,
       "opps_qualified": 1,
       "opps_won": 8
@@ -3008,7 +3008,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 92,
-      "leads_total": 303,
+      "leads_total": 256,
       "opps_total": 169,
       "opps_qualified": 2,
       "opps_won": 3
