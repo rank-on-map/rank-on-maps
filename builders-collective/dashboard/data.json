@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T11:21:11.421591+00:00",
+  "generated_at": "2026-10-05T12:07:03.798236+00:00",
   "totals": {
-    "total_leads": 1219,
-    "leads_30d": 398,
-    "total_opps": 851,
+    "total_leads": 1220,
+    "leads_30d": 399,
+    "total_opps": 852,
     "calls_booked": 108,
     "ppas_signed": 27,
     "pipeline_value": 146850000,
@@ -11,11 +11,11 @@
     "valued_builds": 197
   },
   "meta_spend": {
-    "spend": 8595.12,
-    "leads": 286
+    "spend": 8614.23,
+    "leads": 287
   },
   "channels_30d": {
-    "Meta": 286,
+    "Meta": 287,
     "REA": 90,
     "Contact": 7,
     "Eligibility": 8,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 286,
+    "Meta": 287,
     "REA": 585,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 291,
+    "New Lead": 292,
     "Booked": 63,
     "?": 128,
     "Nurturing": 24,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Helen Emmerich",
+        0.0
       ],
       [
         "Jan White",
@@ -2998,9 +3002,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 111,
-      "leads_total": 314,
-      "opps_total": 220,
+      "leads_30d": 112,
+      "leads_total": 315,
+      "opps_total": 221,
       "opps_qualified": 1,
       "opps_won": 8
     },
