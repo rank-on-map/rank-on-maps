@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T03:25:11.096661+00:00",
+  "generated_at": "2026-10-06T03:55:38.079509+00:00",
   "totals": {
     "total_leads": 1226,
-    "leads_30d": 400,
+    "leads_30d": 399,
     "total_opps": 864,
     "calls_booked": 109,
     "ppas_signed": 27,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8317.429912,
+    "spend": 8323.74,
     "leads": 279
   },
   "channels_30d": {
     "Meta": 290,
-    "REA": 89,
+    "REA": 88,
     "Contact": 7,
     "Eligibility": 8,
     "Other": 6
@@ -37,9 +37,9 @@
   },
   "stages": {
     "?": 136,
-    "New Lead": 295,
+    "New Lead": 294,
     "Booked": 64,
-    "Nurturing": 24,
+    "Nurturing": 25,
     "Lost": 232,
     "Not Yet Ready": 68,
     "Showed Up": 7,
@@ -261,10 +261,6 @@
       ],
       [
         "David Cooney",
-        0.0
-      ],
-      [
-        "Jacki Werner",
         0.0
       ],
       [
@@ -1244,6 +1240,10 @@
       [
         "Daw Zam",
         625000.0
+      ],
+      [
+        "Jacki Werner",
+        0.0
       ],
       [
         "Sarah Waite",
@@ -3000,7 +3000,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 100,
+      "leads_30d": 99,
       "leads_total": 286,
       "opps_total": 228,
       "opps_qualified": 1,
