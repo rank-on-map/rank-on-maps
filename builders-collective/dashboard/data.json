@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-06T10:31:42.960084+00:00",
+  "generated_at": "2026-10-06T11:02:11.174686+00:00",
   "totals": {
-    "total_leads": 1229,
-    "leads_30d": 396,
-    "total_opps": 866,
+    "total_leads": 1231,
+    "leads_30d": 398,
+    "total_opps": 868,
     "calls_booked": 107,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8413.85,
+    "spend": 8425.16,
     "leads": 280
   },
   "channels_30d": {
-    "Contact": 8,
-    "Meta": 291,
+    "Meta": 292,
+    "Contact": 9,
     "REA": 83,
     "Eligibility": 8,
     "Other": 6
@@ -29,15 +29,15 @@
     "Other": 1
   },
   "channels_total": {
-    "Contact": 20,
-    "Meta": 293,
+    "Meta": 294,
+    "Contact": 21,
     "REA": 587,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
+    "New Lead": 293,
     "?": 142,
-    "New Lead": 291,
     "Booked": 62,
     "Nurturing": 26,
     "Lost": 232,
@@ -222,6 +222,14 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Jon Ducrou",
+        0.0
+      ],
+      [
+        "Lyndsay OConnell",
+        0.0
       ],
       [
         "Kenleigh Duve",
@@ -2984,9 +2992,9 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 98,
-      "leads_total": 286,
-      "opps_total": 228,
+      "leads_30d": 99,
+      "leads_total": 287,
+      "opps_total": 229,
       "opps_qualified": 1,
       "opps_won": 4
     },
@@ -3011,9 +3019,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 97,
-      "leads_total": 308,
-      "opps_total": 143,
+      "leads_30d": 98,
+      "leads_total": 309,
+      "opps_total": 144,
       "opps_qualified": 1,
       "opps_won": 4
     }
