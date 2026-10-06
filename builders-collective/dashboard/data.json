@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-06T21:42:37.476854+00:00",
+  "generated_at": "2026-10-06T22:13:06.243524+00:00",
   "totals": {
-    "total_leads": 1232,
-    "leads_30d": 383,
-    "total_opps": 869,
+    "total_leads": 1233,
+    "leads_30d": 384,
+    "total_opps": 870,
     "calls_booked": 107,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,11 +11,11 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8497.3,
+    "spend": 8497.400003,
     "leads": 281
   },
   "channels_30d": {
-    "Meta": 278,
+    "Meta": 279,
     "Contact": 9,
     "REA": 82,
     "Eligibility": 8,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 295,
+    "Meta": 296,
     "Contact": 21,
     "REA": 587,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 294,
+    "New Lead": 295,
     "?": 142,
     "Booked": 62,
     "Nurturing": 26,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Jack Thompson",
+        0.0
       ],
       [
         "Ayu Muftidhati",
@@ -3023,9 +3027,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 94,
-      "leads_total": 309,
-      "opps_total": 144,
+      "leads_30d": 95,
+      "leads_total": 310,
+      "opps_total": 145,
       "opps_qualified": 1,
       "opps_won": 4
     }
