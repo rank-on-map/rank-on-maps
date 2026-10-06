@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-06T20:11:09.624831+00:00",
+  "generated_at": "2026-10-06T20:41:38.903477+00:00",
   "totals": {
-    "total_leads": 1231,
-    "leads_30d": 382,
-    "total_opps": 868,
+    "total_leads": 1232,
+    "leads_30d": 383,
+    "total_opps": 869,
     "calls_booked": 107,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,11 +11,11 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8496.94,
+    "spend": 8497.06,
     "leads": 281
   },
   "channels_30d": {
-    "Meta": 277,
+    "Meta": 278,
     "Contact": 9,
     "REA": 82,
     "Eligibility": 8,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 294,
+    "Meta": 295,
     "Contact": 21,
     "REA": 587,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 293,
+    "New Lead": 294,
     "?": 142,
     "Booked": 62,
     "Nurturing": 26,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Ayu Muftidhati",
+        0.0
       ],
       [
         "Jon Ducrou",
@@ -3010,9 +3014,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 105,
-      "leads_total": 319,
-      "opps_total": 230,
+      "leads_30d": 106,
+      "leads_total": 320,
+      "opps_total": 231,
       "opps_qualified": 1,
       "opps_won": 8
     },
