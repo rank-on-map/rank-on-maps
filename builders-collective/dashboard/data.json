@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-06T06:58:13.728927+00:00",
+  "generated_at": "2026-10-06T07:28:40.626320+00:00",
   "totals": {
-    "total_leads": 1227,
-    "leads_30d": 397,
-    "total_opps": 864,
+    "total_leads": 1228,
+    "leads_30d": 398,
+    "total_opps": 865,
     "calls_booked": 108,
     "ppas_signed": 27,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8366.39,
-    "leads": 279
+    "spend": 8372.65,
+    "leads": 280
   },
   "channels_30d": {
+    "Meta": 291,
     "REA": 86,
-    "Meta": 290,
     "Contact": 7,
     "Eligibility": 8,
     "Other": 6
@@ -29,17 +29,17 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 293,
     "REA": 587,
-    "Meta": 292,
     "Contact": 19,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "?": 138,
-    "New Lead": 293,
+    "New Lead": 292,
+    "?": 139,
     "Booked": 63,
-    "Nurturing": 25,
+    "Nurturing": 26,
     "Lost": 232,
     "Not Yet Ready": 68,
     "Showed Up": 7,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Kenleigh Duve",
+        0.0
       ],
       [
         "Brenda Forster",
@@ -588,10 +592,6 @@
         0.0
       ],
       [
-        "Gerard Lamaro",
-        0.0
-      ],
-      [
         "Erin Shanhun",
         0.0
       ],
@@ -641,10 +641,6 @@
       ],
       [
         "Mathew Watt",
-        0.0
-      ],
-      [
-        "Donna Bartuccio",
         0.0
       ],
       [
@@ -1255,6 +1251,10 @@
       ],
       [
         "Tayla Sheppey",
+        0.0
+      ],
+      [
+        "Gerard Lamaro",
         0.0
       ],
       [
@@ -3001,9 +3001,9 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 85,
-      "leads_total": 230,
-      "opps_total": 232,
+      "leads_30d": 86,
+      "leads_total": 231,
+      "opps_total": 233,
       "opps_qualified": 0,
       "opps_won": 11
     },
