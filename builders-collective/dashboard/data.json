@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-06T02:54:44.623910+00:00",
+  "generated_at": "2026-10-06T03:25:11.096661+00:00",
   "totals": {
     "total_leads": 1226,
     "leads_30d": 400,
     "total_opps": 864,
-    "calls_booked": 108,
+    "calls_booked": 109,
     "ppas_signed": 27,
     "pipeline_value": 151100000,
     "mixed_unit_deals": 20,
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8313.2,
-    "leads": 278
+    "spend": 8317.429912,
+    "leads": 279
   },
   "channels_30d": {
     "Meta": 290,
@@ -22,7 +22,7 @@
     "Other": 6
   },
   "channels_booked_30d": {
-    "Meta": 32,
+    "Meta": 33,
     "REA": 3,
     "Contact": 2,
     "Eligibility": 2,
@@ -36,9 +36,9 @@
     "Other": 124
   },
   "stages": {
-    "?": 135,
-    "New Lead": 297,
-    "Booked": 63,
+    "?": 136,
+    "New Lead": 295,
+    "Booked": 64,
     "Nurturing": 24,
     "Lost": 232,
     "Not Yet Ready": 68,
@@ -256,10 +256,6 @@
         0.0
       ],
       [
-        "Rupal",
-        0.0
-      ],
-      [
         "Wendy Zoccoli",
         0.0
       ],
@@ -277,10 +273,6 @@
       ],
       [
         "Simon Mcgillivray",
-        0.0
-      ],
-      [
-        "Roy Devos",
         0.0
       ],
       [
@@ -1361,6 +1353,10 @@
       ],
       [
         "Steve Clarke",
+        0.0
+      ],
+      [
+        "Rupal",
         0.0
       ],
       [
