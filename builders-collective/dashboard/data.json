@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-06T09:30:27.732341+00:00",
+  "generated_at": "2026-10-06T10:01:17.404024+00:00",
   "totals": {
     "total_leads": 1229,
-    "leads_30d": 398,
+    "leads_30d": 397,
     "total_opps": 866,
     "calls_booked": 107,
-    "ppas_signed": 27,
+    "ppas_signed": 28,
     "pipeline_value": 151100000,
     "mixed_unit_deals": 20,
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8399.31005,
+    "spend": 8405.179467,
     "leads": 280
   },
   "channels_30d": {
     "Contact": 8,
     "Meta": 291,
-    "REA": 85,
+    "REA": 84,
     "Eligibility": 8,
     "Other": 6
   },
   "channels_booked_30d": {
     "Meta": 31,
-    "REA": 3,
+    "REA": 2,
     "Contact": 2,
     "Eligibility": 2,
     "Other": 1
@@ -44,9 +44,9 @@
     "Not Yet Ready": 68,
     "Showed Up": 7,
     "Builder Shortlist Sent": 4,
-    "Qualified": 4,
+    "Qualified": 3,
     "Contract Review": 1,
-    "Won \u2014 Build Confirmed": 27,
+    "Won \u2014 Build Confirmed": 28,
     "Site Visit Scheduled": 2
   },
   "stage_top_deals": {
@@ -1616,10 +1616,6 @@
         0.0
       ],
       [
-        "Dakshitha Perera",
-        0.0
-      ],
-      [
         "Bec Bennett",
         0.0
       ]
@@ -1761,6 +1757,10 @@
       ],
       [
         "Laura Boyle",
+        0.0
+      ],
+      [
+        "Dakshitha Perera",
         0.0
       ],
       [
@@ -3006,7 +3006,7 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 111,
+      "leads_30d": 110,
       "leads_total": 319,
       "opps_total": 230,
       "opps_qualified": 1,
@@ -3018,8 +3018,8 @@
       "leads_30d": 97,
       "leads_total": 308,
       "opps_total": 143,
-      "opps_qualified": 2,
-      "opps_won": 3
+      "opps_qualified": 1,
+      "opps_won": 4
     }
   },
   "round_robin": {
