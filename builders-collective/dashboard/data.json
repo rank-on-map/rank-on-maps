@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T06:27:48.613733+00:00",
+  "generated_at": "2026-10-06T06:58:13.728927+00:00",
   "totals": {
     "total_leads": 1227,
-    "leads_30d": 399,
+    "leads_30d": 397,
     "total_opps": 864,
     "calls_booked": 108,
     "ppas_signed": 27,
@@ -11,11 +11,11 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8357.6,
+    "spend": 8366.39,
     "leads": 279
   },
   "channels_30d": {
-    "REA": 88,
+    "REA": 86,
     "Meta": 290,
     "Contact": 7,
     "Eligibility": 8,
@@ -36,8 +36,8 @@
     "Other": 124
   },
   "stages": {
-    "?": 137,
-    "New Lead": 294,
+    "?": 138,
+    "New Lead": 293,
     "Booked": 63,
     "Nurturing": 25,
     "Lost": 232,
@@ -301,10 +301,6 @@
       ],
       [
         "Selina Bromley",
-        0.0
-      ],
-      [
-        "Graeme",
         0.0
       ],
       [
@@ -2996,7 +2992,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 99,
+      "leads_30d": 98,
       "leads_total": 286,
       "opps_total": 228,
       "opps_qualified": 1,
@@ -3014,7 +3010,7 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 112,
+      "leads_30d": 111,
       "leads_total": 318,
       "opps_total": 229,
       "opps_qualified": 1,
