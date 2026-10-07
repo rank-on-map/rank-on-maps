@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T16:28:52.893802+00:00",
+  "generated_at": "2026-10-07T16:59:18.659605+00:00",
   "totals": {
-    "total_leads": 1238,
-    "leads_30d": 381,
+    "total_leads": 100,
+    "leads_30d": 100,
     "total_opps": 873,
     "calls_booked": 107,
     "ppas_signed": 28,
@@ -11,29 +11,25 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8402.110001,
+    "spend": 8402.25,
     "leads": 282
   },
   "channels_30d": {
-    "REA": 81,
-    "Meta": 279,
-    "Contact": 9,
-    "Eligibility": 7,
-    "Other": 5
-  },
-  "channels_booked_30d": {
-    "Meta": 30,
-    "REA": 2,
-    "Contact": 2,
+    "REA": 22,
+    "Meta": 73,
+    "Contact": 3,
     "Eligibility": 1,
     "Other": 1
   },
+  "channels_booked_30d": {
+    "Meta": 5
+  },
   "channels_total": {
-    "REA": 589,
-    "Meta": 299,
-    "Contact": 21,
-    "Eligibility": 205,
-    "Other": 124
+    "REA": 22,
+    "Meta": 73,
+    "Contact": 3,
+    "Eligibility": 1,
+    "Other": 1
   },
   "stages": {
     "New Lead": 298,
@@ -3012,8 +3008,8 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 94,
-      "leads_total": 289,
+      "leads_30d": 22,
+      "leads_total": 22,
       "opps_total": 230,
       "opps_qualified": 1,
       "opps_won": 4
@@ -3021,8 +3017,8 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 83,
-      "leads_total": 232,
+      "leads_30d": 21,
+      "leads_total": 21,
       "opps_total": 234,
       "opps_qualified": 0,
       "opps_won": 11
@@ -3030,8 +3026,8 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 105,
-      "leads_total": 321,
+      "leads_30d": 27,
+      "leads_total": 27,
       "opps_total": 232,
       "opps_qualified": 1,
       "opps_won": 8
@@ -3039,8 +3035,8 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 94,
-      "leads_total": 311,
+      "leads_30d": 29,
+      "leads_total": 29,
       "opps_total": 145,
       "opps_qualified": 1,
       "opps_won": 4
@@ -3048,27 +3044,13 @@
   },
   "round_robin": {
     "last12": [
-      "Masih",
-      "Abdullah",
-      "David",
-      "Hasib",
-      "Masih",
-      "Abdullah",
-      "David",
-      "Hasib",
-      "Masih",
-      "Abdullah",
-      "David",
       "Abdullah"
     ],
     "balance": {
-      "Masih": 3,
-      "Abdullah": 4,
-      "David": 3,
-      "Hasib": 2
+      "Abdullah": 1
     },
     "health": "healthy",
-    "sequence_arrow": "Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Hasib \u2192 Masih \u2192 Abdullah \u2192 David \u2192 Abdullah"
+    "sequence_arrow": "Abdullah"
   },
   "appointments": []
 }
