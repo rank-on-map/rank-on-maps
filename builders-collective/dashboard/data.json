@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-08T00:06:58.563855+00:00",
+  "generated_at": "2026-10-08T00:37:25.164733+00:00",
   "totals": {
-    "total_leads": 1238,
-    "leads_30d": 381,
-    "total_opps": 873,
+    "total_leads": 1239,
+    "leads_30d": 382,
+    "total_opps": 874,
     "calls_booked": 107,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8214.97,
+    "spend": 8219.559942,
     "leads": 281
   },
   "channels_30d": {
+    "Meta": 280,
     "REA": 81,
-    "Meta": 279,
     "Contact": 9,
     "Eligibility": 7,
     "Other": 5
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 300,
     "REA": 589,
-    "Meta": 299,
     "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 298,
+    "New Lead": 299,
     "?": 142,
     "Booked": 62,
     "Nurturing": 26,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Clinton Ashwin",
+        0.0
       ],
       [
         "Gerrald Manuel",
@@ -3039,9 +3043,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 94,
-      "leads_total": 311,
-      "opps_total": 145,
+      "leads_30d": 95,
+      "leads_total": 312,
+      "opps_total": 146,
       "opps_qualified": 1,
       "opps_won": 4
     }
