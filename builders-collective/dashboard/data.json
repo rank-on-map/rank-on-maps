@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-08T07:43:18.208066+00:00",
+  "generated_at": "2026-10-08T08:13:42.134081+00:00",
   "totals": {
-    "total_leads": 1000,
+    "total_leads": 1243,
     "leads_30d": 385,
-    "total_opps": 876,
+    "total_opps": 877,
     "calls_booked": 107,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8307.92,
-    "leads": 284
+    "spend": 8312.819821,
+    "leads": 285
   },
   "channels_30d": {
-    "Meta": 282,
-    "REA": 82,
+    "Meta": 283,
+    "REA": 81,
     "Contact": 9,
     "Eligibility": 7,
     "Other": 5
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 302,
-    "REA": 410,
-    "Contact": 18,
-    "Eligibility": 189,
-    "Other": 81
+    "Meta": 303,
+    "REA": 590,
+    "Contact": 21,
+    "Eligibility": 205,
+    "Other": 124
   },
   "stages": {
-    "New Lead": 299,
+    "New Lead": 300,
     "?": 144,
     "Booked": 62,
     "Nurturing": 26,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Mark Petz",
+        0.0
       ],
       [
         "Renee Lane",
@@ -3017,7 +3021,7 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 95,
-      "leads_total": 238,
+      "leads_total": 290,
       "opps_total": 231,
       "opps_qualified": 1,
       "opps_won": 4
@@ -3025,8 +3029,8 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 84,
-      "leads_total": 186,
+      "leads_30d": 83,
+      "leads_total": 233,
       "opps_total": 235,
       "opps_qualified": 0,
       "opps_won": 11
@@ -3034,9 +3038,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 105,
-      "leads_total": 258,
-      "opps_total": 232,
+      "leads_30d": 106,
+      "leads_total": 322,
+      "opps_total": 233,
       "opps_qualified": 1,
       "opps_won": 8
     },
@@ -3044,7 +3048,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 96,
-      "leads_total": 258,
+      "leads_total": 313,
       "opps_total": 146,
       "opps_qualified": 1,
       "opps_won": 4
