@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-08T20:56:00.650061+00:00",
+  "generated_at": "2026-10-08T21:26:24.707365+00:00",
   "totals": {
     "total_leads": 1249,
     "leads_30d": 387,
-    "total_opps": 500,
-    "calls_booked": 53,
-    "ppas_signed": 3,
-    "pipeline_value": 43975000,
-    "mixed_unit_deals": 1,
-    "valued_builds": 57
+    "total_opps": 400,
+    "calls_booked": 45,
+    "ppas_signed": 0,
+    "pipeline_value": 29850000,
+    "mixed_unit_deals": 0,
+    "valued_builds": 38
   },
   "meta_spend": {
-    "spend": 8452.81,
+    "spend": 8453.18,
     "leads": 291
   },
   "channels_30d": {
@@ -36,17 +36,16 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 210,
-    "Booked": 44,
-    "Nurturing": 15,
-    "?": 133,
-    "Lost": 67,
-    "Not Yet Ready": 22,
+    "New Lead": 186,
+    "Booked": 40,
+    "Nurturing": 13,
+    "?": 116,
+    "Lost": 30,
+    "Not Yet Ready": 10,
     "Showed Up": 2,
-    "Builder Shortlist Sent": 2,
+    "Builder Shortlist Sent": 1,
     "Qualified": 1,
-    "Contract Review": 1,
-    "Won \u2014 Build Confirmed": 3
+    "Contract Review": 1
   },
   "stage_top_deals": {
     "New Lead": [
@@ -793,102 +792,6 @@
       [
         "Brad Dyer",
         0.0
-      ],
-      [
-        "Paige Corunna",
-        0.0
-      ],
-      [
-        "Molly Sim\u2019s ",
-        0.0
-      ],
-      [
-        "Jamie  Schofield ",
-        0.0
-      ],
-      [
-        "Julie Andrews",
-        0.0
-      ],
-      [
-        "Ashley Dilworth",
-        0.0
-      ],
-      [
-        "Rinchen Choden",
-        0.0
-      ],
-      [
-        "KESAVAN KUTTY VG PANICKER",
-        0.0
-      ],
-      [
-        "G Asok",
-        0.0
-      ],
-      [
-        "Samuel Platt",
-        0.0
-      ],
-      [
-        "Prisca",
-        0.0
-      ],
-      [
-        "Caleb Whitegge",
-        0.0
-      ],
-      [
-        "Bevan Ong",
-        0.0
-      ],
-      [
-        "Adele Cowin",
-        0.0
-      ],
-      [
-        "Sam Elliott",
-        0.0
-      ],
-      [
-        "Natasha Kovacevic ",
-        0.0
-      ],
-      [
-        "David Jonker",
-        0.0
-      ],
-      [
-        "Diethard Lewin",
-        0.0
-      ],
-      [
-        "Ashley Eldon",
-        0.0
-      ],
-      [
-        "Kira Webb",
-        0.0
-      ],
-      [
-        "Kloe Gordon",
-        0.0
-      ],
-      [
-        "Bob Bobby",
-        0.0
-      ],
-      [
-        "Charmaine Orlowski",
-        0.0
-      ],
-      [
-        "Jordan Spampinato ",
-        0.0
-      ],
-      [
-        "Annalise Theodorakis",
-        0.0
       ]
     ],
     "Nurturing": [
@@ -942,14 +845,6 @@
       ],
       [
         "Kim Lewis",
-        0.0
-      ],
-      [
-        "Jaymie Robinson",
-        0.0
-      ],
-      [
-        "Cathy Chau",
         0.0
       ]
     ],
@@ -1113,22 +1008,6 @@
       [
         "Kenny Mckinnon",
         0.0
-      ],
-      [
-        "Wajiha Ali",
-        0.0
-      ],
-      [
-        "Sharaine Howson",
-        0.0
-      ],
-      [
-        "Declan  Kendrick ",
-        0.0
-      ],
-      [
-        "Pasquale Bambaci",
-        0.0
       ]
     ],
     "Showed Up": [
@@ -1152,10 +1031,6 @@
       [
         "Rabab Difaii",
         0.0
-      ],
-      [
-        "Solaimuthu Muthu",
-        0.0
       ]
     ],
     "Contract Review": [
@@ -1164,27 +1039,10 @@
         0.0
       ]
     ],
-    "Won \u2014 Build Confirmed": [
-      [
-        "Hayden Wood",
-        30000.0
-      ],
-      [
-        "Katerina De Battista ",
-        0.0
-      ],
-      [
-        "Jess  Buck ",
-        0.0
-      ]
-    ],
+    "Won \u2014 Build Confirmed": [],
     "Not Yet Ready": [
       [
         "Kuwar Batra",
-        775000.0
-      ],
-      [
-        "Janak Bhandari",
         775000.0
       ],
       [
@@ -1222,50 +1080,6 @@
       [
         "laurence mitchell",
         0.0
-      ],
-      [
-        "",
-        0.0
-      ],
-      [
-        "Jane Wanjiru",
-        0.0
-      ],
-      [
-        "Margot Slaughter",
-        0.0
-      ],
-      [
-        "Jaiden Barker",
-        0.0
-      ],
-      [
-        "Sydney  Payne",
-        0.0
-      ],
-      [
-        "Devon Smith",
-        0.0
-      ],
-      [
-        "Partap Singh",
-        0.0
-      ],
-      [
-        "Sam Evans ",
-        0.0
-      ],
-      [
-        "Deanne  Terpstra ",
-        0.0
-      ],
-      [
-        "Adam Strongman",
-        0.0
-      ],
-      [
-        "Braydon  Fidge",
-        0.0
       ]
     ],
     "Lost": [
@@ -1274,47 +1088,7 @@
         1075000.0
       ],
       [
-        "Denny Uneputty",
-        1075000.0
-      ],
-      [
-        "Monisha Monisha",
-        925000.0
-      ],
-      [
-        "Arron Mc Kenna",
-        925000.0
-      ],
-      [
         "Hardikkumar  Gandhi ",
-        775000.0
-      ],
-      [
-        "Emi Vijitra Taboon",
-        775000.0
-      ],
-      [
-        "Manny Vekaria",
-        775000.0
-      ],
-      [
-        "pranjal Patel",
-        775000.0
-      ],
-      [
-        "Narayanan Kannan",
-        775000.0
-      ],
-      [
-        "Jimmy Foley",
-        775000.0
-      ],
-      [
-        "Ric Bien Hipolito",
-        775000.0
-      ],
-      [
-        "Adam williams",
         775000.0
       ],
       [
@@ -1324,14 +1098,6 @@
       [
         "Rica lyn Marquez",
         625000.0
-      ],
-      [
-        "Christopher Nicdao",
-        475000.0
-      ],
-      [
-        "Toni Zwicker",
-        325000.0
       ],
       [
         "Scott Laundy",
@@ -1436,115 +1202,15 @@
       [
         "Mo Wang",
         0.0
-      ],
-      [
-        "Peter Luobikis",
-        0.0
-      ],
-      [
-        "Carla Murphy",
-        0.0
-      ],
-      [
-        "Keegan Bennett",
-        0.0
-      ],
-      [
-        "Eve Williamson ",
-        0.0
-      ],
-      [
-        "Hasindu yenuka",
-        0.0
-      ],
-      [
-        "Arezo Sharifi",
-        0.0
-      ],
-      [
-        "Ting",
-        0.0
-      ],
-      [
-        "Grace Quach",
-        0.0
-      ],
-      [
-        "PREETHY TITTU",
-        0.0
-      ],
-      [
-        "Zohaib  Shan",
-        0.0
-      ],
-      [
-        "Tiffany Christopher",
-        0.0
-      ],
-      [
-        "Sarah Moyes",
-        0.0
-      ],
-      [
-        "Carmel Morgan",
-        0.0
-      ],
-      [
-        "Bronson Scanlan ",
-        0.0
-      ],
-      [
-        "Andrea Chin",
-        0.0
-      ],
-      [
-        "Iesha Deane",
-        0.0
-      ],
-      [
-        "Sadiq Wafa",
-        0.0
-      ],
-      [
-        "Nikita Goveas",
-        0.0
-      ],
-      [
-        "Kavya Wijenayake",
-        0.0
-      ],
-      [
-        "Symonne Sykes",
-        0.0
-      ],
-      [
-        "Cody Jayes",
-        0.0
-      ],
-      [
-        "Sam Ph",
-        0.0
-      ],
-      [
-        "Jeyakumar Tharmakulasingam 1",
-        0.0
-      ],
-      [
-        "Stephen  Davies",
-        0.0
-      ],
-      [
-        "Vance Vu",
-        0.0
       ]
     ]
   },
   "stage_pipeline_value": {
-    "?": 26900000.0,
+    "?": 22700000.0,
     "Booked": 1875000.0,
     "Qualified": 775000.0,
-    "Lost": 12250000.0,
-    "Not Yet Ready": 2175000.0
+    "Lost": 3100000.0,
+    "Not Yet Ready": 1400000.0
   },
   "per_rep": {
     "nNlkTC2z33NTPyxTxdE8": {
@@ -1552,7 +1218,7 @@
       "initial": "D",
       "leads_30d": 95,
       "leads_total": 291,
-      "opps_total": 134,
+      "opps_total": 108,
       "opps_qualified": 1,
       "opps_won": 0
     },
@@ -1561,25 +1227,25 @@
       "initial": "A",
       "leads_30d": 85,
       "leads_total": 235,
-      "opps_total": 133,
+      "opps_total": 98,
       "opps_qualified": 0,
-      "opps_won": 1
+      "opps_won": 0
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 105,
       "leads_total": 323,
-      "opps_total": 132,
+      "opps_total": 109,
       "opps_qualified": 0,
-      "opps_won": 2
+      "opps_won": 0
     },
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
       "leads_30d": 97,
       "leads_total": 315,
-      "opps_total": 91,
+      "opps_total": 84,
       "opps_qualified": 0,
       "opps_won": 0
     }
