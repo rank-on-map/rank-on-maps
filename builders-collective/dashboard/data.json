@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T07:12:52.218476+00:00",
+  "generated_at": "2026-10-08T07:43:18.208066+00:00",
   "totals": {
-    "total_leads": 1242,
+    "total_leads": 1000,
     "leads_30d": 385,
     "total_opps": 876,
     "calls_booked": 107,
@@ -11,7 +11,7 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8299.599822,
+    "spend": 8307.92,
     "leads": 284
   },
   "channels_30d": {
@@ -30,14 +30,14 @@
   },
   "channels_total": {
     "Meta": 302,
-    "REA": 590,
-    "Contact": 21,
-    "Eligibility": 205,
-    "Other": 124
+    "REA": 410,
+    "Contact": 18,
+    "Eligibility": 189,
+    "Other": 81
   },
   "stages": {
-    "New Lead": 301,
-    "?": 142,
+    "New Lead": 299,
+    "?": 144,
     "Booked": 62,
     "Nurturing": 26,
     "Lost": 232,
@@ -284,10 +284,6 @@
         0.0
       ],
       [
-        "Emily Harding",
-        0.0
-      ],
-      [
         "Helen Emmerich",
         0.0
       ],
@@ -453,10 +449,6 @@
       ],
       [
         "Vp",
-        0.0
-      ],
-      [
-        "Raku",
         0.0
       ],
       [
@@ -3025,7 +3017,7 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 95,
-      "leads_total": 290,
+      "leads_total": 238,
       "opps_total": 231,
       "opps_qualified": 1,
       "opps_won": 4
@@ -3034,7 +3026,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 84,
-      "leads_total": 233,
+      "leads_total": 186,
       "opps_total": 235,
       "opps_qualified": 0,
       "opps_won": 11
@@ -3043,7 +3035,7 @@
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 105,
-      "leads_total": 321,
+      "leads_total": 258,
       "opps_total": 232,
       "opps_qualified": 1,
       "opps_won": 8
@@ -3052,7 +3044,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 96,
-      "leads_total": 313,
+      "leads_total": 258,
       "opps_total": 146,
       "opps_qualified": 1,
       "opps_won": 4
