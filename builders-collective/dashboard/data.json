@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-08T12:17:15.838347+00:00",
+  "generated_at": "2026-10-08T12:48:03.915073+00:00",
   "totals": {
-    "total_leads": 1247,
+    "total_leads": 1248,
     "leads_30d": 389,
-    "total_opps": 881,
+    "total_opps": 882,
     "calls_booked": 108,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,8 +11,8 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8377.989576,
-    "leads": 289
+    "spend": 8395.54,
+    "leads": 290
   },
   "channels_30d": {
     "Meta": 287,
@@ -22,21 +22,21 @@
     "Other": 5
   },
   "channels_booked_30d": {
-    "Meta": 31,
+    "Meta": 30,
     "REA": 2,
     "Contact": 2,
     "Eligibility": 1,
     "Other": 1
   },
   "channels_total": {
-    "Meta": 307,
+    "Meta": 308,
     "REA": 590,
     "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 302,
+    "New Lead": 303,
     "Booked": 63,
     "Nurturing": 27,
     "?": 144,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Natasha Rajak",
+        0.0
       ],
       [
         "Aileen Sales",
@@ -3064,8 +3068,8 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 97,
-      "leads_total": 314,
-      "opps_total": 147,
+      "leads_total": 315,
+      "opps_total": 148,
       "opps_qualified": 1,
       "opps_won": 4
     }
