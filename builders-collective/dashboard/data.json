@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-08T13:48:59.287449+00:00",
+  "generated_at": "2026-10-08T14:19:27.428073+00:00",
   "totals": {
-    "total_leads": 1248,
-    "leads_30d": 389,
-    "total_opps": 882,
+    "total_leads": 1249,
+    "leads_30d": 388,
+    "total_opps": 883,
     "calls_booked": 108,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8417.169673,
+    "spend": 8430.63,
     "leads": 290
   },
   "channels_30d": {
-    "Meta": 287,
-    "REA": 81,
+    "Meta": 288,
+    "REA": 79,
     "Contact": 9,
     "Eligibility": 7,
     "Other": 5
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 308,
+    "Meta": 309,
     "REA": 590,
     "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 303,
+    "New Lead": 304,
     "Booked": 63,
     "Nurturing": 27,
     "?": 144,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Sharon Kardol",
+        0.0
       ],
       [
         "Natasha Rajak",
@@ -3040,7 +3044,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 96,
+      "leads_30d": 95,
       "leads_total": 291,
       "opps_total": 232,
       "opps_qualified": 1,
@@ -3049,16 +3053,16 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 84,
-      "leads_total": 234,
-      "opps_total": 236,
+      "leads_30d": 85,
+      "leads_total": 235,
+      "opps_total": 237,
       "opps_qualified": 0,
       "opps_won": 11
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 107,
+      "leads_30d": 106,
       "leads_total": 323,
       "opps_total": 234,
       "opps_qualified": 1,
