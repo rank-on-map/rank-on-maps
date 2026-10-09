@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-09T15:41:32.328736+00:00",
+  "generated_at": "2026-10-09T16:13:41.696683+00:00",
   "totals": {
-    "total_leads": 1256,
+    "total_leads": 1257,
     "leads_30d": 382,
-    "total_opps": 887,
+    "total_opps": 888,
     "calls_booked": 106,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8443.299997,
+    "spend": 8446.600007,
     "leads": 286
   },
   "channels_30d": {
-    "REA": 79,
     "Meta": 283,
+    "REA": 79,
     "Contact": 9,
     "Eligibility": 7,
     "Other": 4
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 314,
     "REA": 593,
-    "Meta": 313,
     "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 294,
+    "New Lead": 295,
     "Booked": 58,
     "?": 160,
     "Nurturing": 27,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Jomise Jose",
+        0.0
       ],
       [
         "Maurice Whelan",
@@ -2997,8 +3001,8 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 93,
-      "leads_total": 293,
-      "opps_total": 233,
+      "leads_total": 294,
+      "opps_total": 234,
       "opps_qualified": 1,
       "opps_won": 4
     },
