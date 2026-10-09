@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-09T22:31:39.687042+00:00",
+  "generated_at": "2026-10-09T23:03:43.488193+00:00",
   "totals": {
-    "total_leads": 1258,
-    "leads_30d": 381,
-    "total_opps": 889,
+    "total_leads": 1259,
+    "leads_30d": 382,
+    "total_opps": 890,
     "calls_booked": 106,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,11 +11,11 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8448.66,
+    "spend": 8448.83,
     "leads": 286
   },
   "channels_30d": {
-    "Meta": 283,
+    "Meta": 284,
     "REA": 78,
     "Contact": 9,
     "Eligibility": 7,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 315,
+    "Meta": 316,
     "REA": 593,
     "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 296,
+    "New Lead": 297,
     "Booked": 58,
     "?": 160,
     "Nurturing": 27,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "RoelPontillas",
+        0.0
       ],
       [
         "Kurt Zalmstra",
@@ -3031,9 +3035,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 98,
-      "leads_total": 318,
-      "opps_total": 137,
+      "leads_30d": 99,
+      "leads_total": 319,
+      "opps_total": 138,
       "opps_qualified": 1,
       "opps_won": 4
     }
