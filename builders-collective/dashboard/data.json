@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T06:25:50.012321+00:00",
+  "generated_at": "2026-10-09T06:57:48.930435+00:00",
   "totals": {
     "total_leads": 1251,
     "leads_30d": 386,
@@ -11,7 +11,7 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8306.21,
+    "spend": 8314.97,
     "leads": 284
   },
   "channels_30d": {
@@ -36,11 +36,11 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 295,
+    "New Lead": 292,
     "Booked": 58,
-    "?": 156,
+    "?": 160,
     "Nurturing": 27,
-    "Not Yet Ready": 69,
+    "Not Yet Ready": 68,
     "Lost": 232,
     "Showed Up": 10,
     "Builder Shortlist Sent": 4,
@@ -264,10 +264,6 @@
         0.0
       ],
       [
-        "Clinton Ashwin",
-        0.0
-      ],
-      [
         "Gerrald Manuel",
         0.0
       ],
@@ -372,10 +368,6 @@
         0.0
       ],
       [
-        "Jason McIsaac",
-        0.0
-      ],
-      [
         "Chayne Beveridge",
         0.0
       ],
@@ -417,10 +409,6 @@
       ],
       [
         "Nadia Moore",
-        0.0
-      ],
-      [
-        "Jaycee White",
         0.0
       ],
       [
@@ -1871,10 +1859,6 @@
       ],
       [
         "Martin Kennedy",
-        0.0
-      ],
-      [
-        "laurence mitchell",
         0.0
       ],
       [
