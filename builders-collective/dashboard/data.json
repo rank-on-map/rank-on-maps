@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-09T03:01:43.828820+00:00",
+  "generated_at": "2026-10-09T03:32:12.669702+00:00",
   "totals": {
     "total_leads": 1249,
-    "leads_30d": 385,
+    "leads_30d": 384,
     "total_opps": 883,
-    "calls_booked": 108,
+    "calls_booked": 107,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
     "mixed_unit_deals": 20,
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8256.319875,
+    "spend": 8265.53068,
     "leads": 282
   },
   "channels_30d": {
@@ -19,10 +19,10 @@
     "REA": 78,
     "Contact": 9,
     "Eligibility": 7,
-    "Other": 5
+    "Other": 4
   },
   "channels_booked_30d": {
-    "Meta": 30,
+    "Meta": 29,
     "REA": 2,
     "Contact": 2,
     "Eligibility": 1,
@@ -37,12 +37,12 @@
   },
   "stages": {
     "New Lead": 304,
-    "Booked": 63,
-    "Nurturing": 27,
-    "?": 144,
+    "Booked": 59,
+    "?": 146,
+    "Nurturing": 26,
     "Lost": 232,
     "Not Yet Ready": 68,
-    "Showed Up": 7,
+    "Showed Up": 10,
     "Builder Shortlist Sent": 4,
     "Qualified": 3,
     "Contract Review": 1,
@@ -1282,10 +1282,6 @@
         625000.0
       ],
       [
-        "Kristi Reeves Glossop",
-        0.0
-      ],
-      [
         "Jacki Werner",
         0.0
       ],
@@ -1404,6 +1400,10 @@
         0.0
       ],
       [
+        "Kristi Reeves Glossop",
+        0.0
+      ],
+      [
         "Rupal",
         0.0
       ],
@@ -1436,23 +1436,11 @@
         0.0
       ],
       [
-        "Richard Causer",
-        0.0
-      ],
-      [
-        "Isaac Barclay",
-        0.0
-      ],
-      [
         "Tarak Alapati ",
         0.0
       ],
       [
         "Luke Robinson",
-        0.0
-      ],
-      [
-        "Geoffrey Dykes",
         0.0
       ],
       [
@@ -1469,10 +1457,6 @@
       ],
       [
         "Nicola Richards",
-        0.0
-      ],
-      [
-        "Shabana Ali",
         0.0
       ],
       [
@@ -1580,10 +1564,6 @@
         0.0
       ],
       [
-        "Akhuar Akhuar ",
-        0.0
-      ],
-      [
         "William Moir",
         0.0
       ],
@@ -1634,6 +1614,14 @@
     ],
     "Showed Up": [
       [
+        "Isaac Barclay",
+        0.0
+      ],
+      [
+        "Shabana Ali",
+        0.0
+      ],
+      [
         "David Jehan",
         0.0
       ],
@@ -1643,6 +1631,10 @@
       ],
       [
         "Chris Jones",
+        0.0
+      ],
+      [
+        "Akhuar Akhuar ",
         0.0
       ],
       [
