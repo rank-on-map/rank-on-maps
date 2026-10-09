@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-09T04:02:42.603493+00:00",
+  "generated_at": "2026-10-09T04:34:48.429366+00:00",
   "totals": {
-    "total_leads": 1249,
-    "leads_30d": 384,
-    "total_opps": 883,
+    "total_leads": 1250,
+    "leads_30d": 385,
+    "total_opps": 884,
     "calls_booked": 107,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,11 +11,11 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8269.09,
-    "leads": 282
+    "spend": 8278.86,
+    "leads": 283
   },
   "channels_30d": {
-    "Meta": 286,
+    "Meta": 287,
     "REA": 78,
     "Contact": 9,
     "Eligibility": 7,
@@ -29,19 +29,19 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 309,
+    "Meta": 310,
     "REA": 590,
     "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 304,
+    "New Lead": 296,
     "Booked": 59,
-    "?": 146,
+    "?": 154,
     "Nurturing": 26,
+    "Not Yet Ready": 69,
     "Lost": 232,
-    "Not Yet Ready": 68,
     "Showed Up": 10,
     "Builder Shortlist Sent": 4,
     "Qualified": 3,
@@ -224,6 +224,10 @@
         325000.0
       ],
       [
+        "Johnny Gee",
+        0.0
+      ],
+      [
         "Sharon Kardol",
         0.0
       ],
@@ -360,10 +364,6 @@
         0.0
       ],
       [
-        "Selina Bromley",
-        0.0
-      ],
-      [
         "Rosa Fsrrugia",
         0.0
       ],
@@ -372,15 +372,7 @@
         0.0
       ],
       [
-        "James Brown",
-        0.0
-      ],
-      [
         "Jason McIsaac",
-        0.0
-      ],
-      [
-        "Lumena Julia",
         0.0
       ],
       [
@@ -389,10 +381,6 @@
       ],
       [
         "Kristal Boyce",
-        0.0
-      ],
-      [
-        "Matthew Moore",
         0.0
       ],
       [
@@ -428,10 +416,6 @@
         0.0
       ],
       [
-        "Sue Papai",
-        0.0
-      ],
-      [
         "Nadia Moore",
         0.0
       ],
@@ -441,10 +425,6 @@
       ],
       [
         "Kim Gleeson",
-        0.0
-      ],
-      [
-        "Alex Winning",
         0.0
       ],
       [
@@ -481,10 +461,6 @@
       ],
       [
         "Tania Arnold",
-        0.0
-      ],
-      [
-        "Pedro Aguilar",
         0.0
       ],
       [
@@ -556,10 +532,6 @@
         0.0
       ],
       [
-        "Rob Vader",
-        0.0
-      ],
-      [
         "Danielle Ward",
         0.0
       ],
@@ -581,10 +553,6 @@
       ],
       [
         "Nicole White",
-        0.0
-      ],
-      [
-        "Kurt Kelly",
         0.0
       ],
       [
@@ -1878,6 +1846,10 @@
         625000.0
       ],
       [
+        "Alex Winning",
+        0.0
+      ],
+      [
         "Ellis Ward",
         0.0
       ],
@@ -3036,9 +3008,9 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 94,
-      "leads_total": 291,
-      "opps_total": 232,
+      "leads_30d": 95,
+      "leads_total": 292,
+      "opps_total": 233,
       "opps_qualified": 1,
       "opps_won": 4
     },
