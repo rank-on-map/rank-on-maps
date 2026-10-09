@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-09T21:59:33.687564+00:00",
+  "generated_at": "2026-10-09T22:31:39.687042+00:00",
   "totals": {
-    "total_leads": 1257,
-    "leads_30d": 380,
-    "total_opps": 888,
+    "total_leads": 1258,
+    "leads_30d": 381,
+    "total_opps": 889,
     "calls_booked": 106,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,11 +11,11 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8448.59,
+    "spend": 8448.66,
     "leads": 286
   },
   "channels_30d": {
-    "Meta": 282,
+    "Meta": 283,
     "REA": 78,
     "Contact": 9,
     "Eligibility": 7,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 314,
+    "Meta": 315,
     "REA": 593,
     "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 295,
+    "New Lead": 296,
     "Booked": 58,
     "?": 160,
     "Nurturing": 27,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Kurt Zalmstra",
+        0.0
       ],
       [
         "Jomise Jose",
@@ -3018,9 +3022,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 102,
-      "leads_total": 324,
-      "opps_total": 235,
+      "leads_30d": 103,
+      "leads_total": 325,
+      "opps_total": 236,
       "opps_qualified": 1,
       "opps_won": 8
     },
