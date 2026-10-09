@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-09T10:10:14.454178+00:00",
+  "generated_at": "2026-10-09T10:42:14.599340+00:00",
   "totals": {
-    "total_leads": 1252,
-    "leads_30d": 381,
-    "total_opps": 885,
+    "total_leads": 1254,
+    "leads_30d": 382,
+    "total_opps": 886,
     "calls_booked": 106,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8364.35,
-    "leads": 284
+    "spend": 8371.92,
+    "leads": 285
   },
   "channels_30d": {
+    "Meta": 284,
     "REA": 78,
-    "Meta": 283,
     "Contact": 9,
     "Eligibility": 7,
     "Other": 4
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "REA": 591,
-    "Meta": 311,
+    "Meta": 312,
+    "REA": 592,
     "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 292,
+    "New Lead": 293,
     "Booked": 58,
     "?": 160,
     "Nurturing": 27,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Deeraj Essoo",
+        0.0
       ],
       [
         "Birgit Yavuz",
@@ -2988,7 +2992,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 94,
+      "leads_30d": 93,
       "leads_total": 293,
       "opps_total": 233,
       "opps_qualified": 1,
@@ -3015,9 +3019,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 96,
-      "leads_total": 315,
-      "opps_total": 136,
+      "leads_30d": 98,
+      "leads_total": 317,
+      "opps_total": 137,
       "opps_qualified": 1,
       "opps_won": 4
     }
