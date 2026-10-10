@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-10T10:01:33.848635+00:00",
+  "generated_at": "2026-10-10T10:33:32.904155+00:00",
   "totals": {
-    "total_leads": 1262,
-    "leads_30d": 382,
-    "total_opps": 890,
+    "total_leads": 1263,
+    "leads_30d": 383,
+    "total_opps": 891,
     "calls_booked": 106,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8391.909934,
+    "spend": 8398.859937,
     "leads": 280
   },
   "channels_30d": {
+    "Meta": 282,
     "REA": 81,
-    "Meta": 281,
     "Contact": 9,
     "Eligibility": 7,
     "Other": 4
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 317,
     "REA": 596,
-    "Meta": 316,
     "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 297,
+    "New Lead": 298,
     "Booked": 58,
     "?": 160,
     "Nurturing": 27,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Kylie Evans",
+        0.0
       ],
       [
         "RoelPontillas",
@@ -3017,9 +3021,9 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 82,
-      "leads_total": 236,
-      "opps_total": 238,
+      "leads_30d": 83,
+      "leads_total": 237,
+      "opps_total": 239,
       "opps_qualified": 0,
       "opps_won": 11
     },
