@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T20:42:49.468813+00:00",
+  "generated_at": "2026-10-10T21:30:06.086010+00:00",
   "totals": {
     "total_leads": 1266,
-    "leads_30d": 380,
+    "leads_30d": 379,
     "total_opps": 892,
     "calls_booked": 106,
     "ppas_signed": 28,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8451.35,
+    "spend": 8451.36,
     "leads": 281
   },
   "channels_30d": {
     "REA": 81,
-    "Meta": 279,
+    "Meta": 278,
     "Contact": 9,
     "Eligibility": 7,
     "Other": 4
@@ -3034,7 +3034,7 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 102,
+      "leads_30d": 101,
       "leads_total": 325,
       "opps_total": 236,
       "opps_qualified": 1,
