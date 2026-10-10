@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-10T16:48:23.018423+00:00",
+  "generated_at": "2026-10-10T17:31:01.245810+00:00",
   "totals": {
-    "total_leads": 1264,
-    "leads_30d": 379,
-    "total_opps": 891,
+    "total_leads": 1265,
+    "leads_30d": 380,
+    "total_opps": 892,
     "calls_booked": 106,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8451.24,
+    "spend": 8451.29,
     "leads": 281
   },
   "channels_30d": {
+    "Meta": 280,
     "REA": 80,
-    "Meta": 279,
     "Contact": 9,
     "Eligibility": 7,
     "Other": 4
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 318,
     "REA": 597,
-    "Meta": 317,
     "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 298,
+    "New Lead": 299,
     "Booked": 58,
     "?": 160,
     "Nurturing": 27,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Kevin Patrick Flaherty",
+        0.0
       ],
       [
         "Kylie Evans",
@@ -3012,9 +3016,9 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 93,
-      "leads_total": 295,
-      "opps_total": 234,
+      "leads_30d": 94,
+      "leads_total": 296,
+      "opps_total": 235,
       "opps_qualified": 1,
       "opps_won": 4
     },
