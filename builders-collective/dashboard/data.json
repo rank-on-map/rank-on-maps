@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T09:14:10.035934+00:00",
+  "generated_at": "2026-10-10T10:01:33.848635+00:00",
   "totals": {
     "total_leads": 1262,
-    "leads_30d": 383,
+    "leads_30d": 382,
     "total_opps": 890,
     "calls_booked": 106,
     "ppas_signed": 28,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8382.12,
+    "spend": 8391.909934,
     "leads": 280
   },
   "channels_30d": {
     "REA": 81,
-    "Meta": 282,
+    "Meta": 281,
     "Contact": 9,
     "Eligibility": 7,
     "Other": 4
@@ -3008,7 +3008,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 94,
+      "leads_30d": 93,
       "leads_total": 295,
       "opps_total": 234,
       "opps_qualified": 1,
