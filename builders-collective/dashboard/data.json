@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-11T06:54:17.059608+00:00",
+  "generated_at": "2026-10-11T07:24:38.807046+00:00",
   "totals": {
-    "total_leads": 1272,
+    "total_leads": 1273,
     "leads_30d": 379,
-    "total_opps": 896,
+    "total_opps": 897,
     "calls_booked": 106,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,8 +11,8 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8251.46,
-    "leads": 279
+    "spend": 8259.589926,
+    "leads": 280
   },
   "channels_30d": {
     "Meta": 279,
@@ -22,21 +22,21 @@
     "Other": 4
   },
   "channels_booked_30d": {
-    "Meta": 26,
+    "Meta": 25,
     "REA": 2,
     "Contact": 2,
     "Eligibility": 1,
     "Other": 1
   },
   "channels_total": {
-    "Meta": 322,
+    "Meta": 323,
     "REA": 600,
     "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 303,
+    "New Lead": 304,
     "Booked": 58,
     "?": 160,
     "Nurturing": 27,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Nathan Barker",
+        0.0
       ],
       [
         "Ronnie OBrien",
@@ -3051,8 +3055,8 @@
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 103,
-      "leads_total": 327,
-      "opps_total": 237,
+      "leads_total": 328,
+      "opps_total": 238,
       "opps_qualified": 1,
       "opps_won": 8
     },
