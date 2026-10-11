@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T23:57:50.803344+00:00",
+  "generated_at": "2026-10-11T00:28:16.499304+00:00",
   "totals": {
     "total_leads": 1267,
-    "leads_30d": 379,
+    "leads_30d": 378,
     "total_opps": 892,
     "calls_booked": 106,
     "ppas_signed": 28,
@@ -11,14 +11,14 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8451.6,
-    "leads": 281
+    "spend": 8155.13,
+    "leads": 275
   },
   "channels_30d": {
     "REA": 82,
     "Meta": 277,
     "Contact": 9,
-    "Eligibility": 7,
+    "Eligibility": 6,
     "Other": 4
   },
   "channels_booked_30d": {
@@ -3025,7 +3025,7 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 81,
+      "leads_30d": 80,
       "leads_total": 237,
       "opps_total": 239,
       "opps_qualified": 0,
