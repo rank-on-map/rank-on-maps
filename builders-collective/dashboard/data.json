@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-11T15:31:30.335064+00:00",
+  "generated_at": "2026-10-11T16:02:31.967645+00:00",
   "totals": {
     "total_leads": 1279,
     "leads_30d": 382,
-    "total_opps": 100,
-    "calls_booked": 5,
+    "total_opps": 200,
+    "calls_booked": 12,
     "ppas_signed": 0,
-    "pipeline_value": 5025000,
+    "pipeline_value": 14350000,
     "mixed_unit_deals": 0,
-    "valued_builds": 6
+    "valued_builds": 19
   },
   "meta_spend": {
-    "spend": 8440.16,
+    "spend": 8444.09001,
     "leads": 284
   },
   "channels_30d": {
@@ -22,7 +22,8 @@
     "Other": 3
   },
   "channels_booked_30d": {
-    "Meta": 5
+    "Meta": 10,
+    "REA": 2
   },
   "channels_total": {
     "Meta": 327,
@@ -32,10 +33,12 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 62,
-    "Booked": 5,
-    "?": 31,
-    "Nurturing": 2
+    "New Lead": 103,
+    "Booked": 12,
+    "?": 74,
+    "Nurturing": 6,
+    "Not Yet Ready": 2,
+    "Lost": 3
   },
   "stage_top_deals": {
     "New Lead": [
@@ -286,6 +289,170 @@
       [
         "Daniel Kontor",
         0.0
+      ],
+      [
+        "Nadia Moore",
+        0.0
+      ],
+      [
+        "Kim Gleeson",
+        0.0
+      ],
+      [
+        "James Fox",
+        0.0
+      ],
+      [
+        "Gregory Smith",
+        0.0
+      ],
+      [
+        "Mark Morrison",
+        0.0
+      ],
+      [
+        "Elahee",
+        0.0
+      ],
+      [
+        "Vp",
+        0.0
+      ],
+      [
+        "Christine Clohessy",
+        0.0
+      ],
+      [
+        "Cue Cue",
+        0.0
+      ],
+      [
+        "Tania Arnold",
+        0.0
+      ],
+      [
+        "Jessica Bernath",
+        0.0
+      ],
+      [
+        "Brendan Sammon",
+        0.0
+      ],
+      [
+        "Fayth Dickson",
+        0.0
+      ],
+      [
+        "Hazel Wilky",
+        0.0
+      ],
+      [
+        "Mandy Dobson",
+        0.0
+      ],
+      [
+        "Kamando Sikazwe",
+        0.0
+      ],
+      [
+        "Fiona Jane Hinds",
+        0.0
+      ],
+      [
+        "James Czarnocki",
+        0.0
+      ],
+      [
+        "Jules Ward",
+        0.0
+      ],
+      [
+        "Patricia Moller",
+        0.0
+      ],
+      [
+        "Kingsley Suessenbach",
+        0.0
+      ],
+      [
+        "David Van Den Akker",
+        0.0
+      ],
+      [
+        "Miriam Abt",
+        0.0
+      ],
+      [
+        "Emma Kerley",
+        0.0
+      ],
+      [
+        "Justine Sherrell",
+        0.0
+      ],
+      [
+        "Nadia Paki",
+        0.0
+      ],
+      [
+        "John Phillips",
+        0.0
+      ],
+      [
+        "Danielle Ward",
+        0.0
+      ],
+      [
+        "Marc Goddard",
+        0.0
+      ],
+      [
+        "Karl A Mcdonald",
+        0.0
+      ],
+      [
+        "Nikki Tresidder",
+        0.0
+      ],
+      [
+        "Rob Wedge",
+        0.0
+      ],
+      [
+        "Nicole White",
+        0.0
+      ],
+      [
+        "Remi Locke",
+        0.0
+      ],
+      [
+        "Amber Wilkinson Moore",
+        0.0
+      ],
+      [
+        "Daniel LeMay",
+        0.0
+      ],
+      [
+        "Mark Fawcett",
+        0.0
+      ],
+      [
+        "Teresa Courtnay",
+        0.0
+      ],
+      [
+        "Nicholas Elward",
+        0.0
+      ],
+      [
+        "Bianca Capello",
+        0.0
+      ],
+      [
+        "John De Luca",
+        0.0
       ]
     ],
     "Nurturing": [
@@ -296,9 +463,37 @@
       [
         "Sarah Waite",
         0.0
+      ],
+      [
+        "Brad Wood",
+        0.0
+      ],
+      [
+        "Benji Hofmeester",
+        0.0
+      ],
+      [
+        "Kate",
+        0.0
+      ],
+      [
+        "Tayla Sheppey",
+        0.0
       ]
     ],
     "Booked": [
+      [
+        "Connor Arnold",
+        625000.0
+      ],
+      [
+        "Jeni Hampson",
+        625000.0
+      ],
+      [
+        "John Koshkuson",
+        625000.0
+      ],
       [
         "Ellis Landon",
         0.0
@@ -318,6 +513,22 @@
       [
         "Francis Van Der Meer",
         0.0
+      ],
+      [
+        "Alan O\u2019Toole",
+        0.0
+      ],
+      [
+        "Tony Caird",
+        0.0
+      ],
+      [
+        "Joel Taylor",
+        0.0
+      ],
+      [
+        "Rajalakshmi Nair",
+        0.0
       ]
     ],
     "Showed Up": [],
@@ -326,11 +537,34 @@
     "Builder Shortlist Sent": [],
     "Contract Review": [],
     "Won \u2014 Build Confirmed": [],
-    "Not Yet Ready": [],
-    "Lost": []
+    "Not Yet Ready": [
+      [
+        "Alex Winning",
+        0.0
+      ],
+      [
+        "Ellis Ward",
+        0.0
+      ]
+    ],
+    "Lost": [
+      [
+        "Scott Laundy",
+        0.0
+      ],
+      [
+        "Tara Sekuloff",
+        0.0
+      ],
+      [
+        "Ricky Milward",
+        0.0
+      ]
+    ]
   },
   "stage_pipeline_value": {
-    "?": 5025000.0
+    "?": 12475000.0,
+    "Booked": 1875000.0
   },
   "per_rep": {
     "nNlkTC2z33NTPyxTxdE8": {
@@ -338,7 +572,7 @@
       "initial": "D",
       "leads_30d": 93,
       "leads_total": 298,
-      "opps_total": 22,
+      "opps_total": 51,
       "opps_qualified": 0,
       "opps_won": 0
     },
@@ -347,7 +581,7 @@
       "initial": "A",
       "leads_30d": 81,
       "leads_total": 239,
-      "opps_total": 24,
+      "opps_total": 46,
       "opps_qualified": 0,
       "opps_won": 0
     },
@@ -356,7 +590,7 @@
       "initial": "H",
       "leads_30d": 105,
       "leads_total": 331,
-      "opps_total": 31,
+      "opps_total": 60,
       "opps_qualified": 0,
       "opps_won": 0
     },
@@ -365,7 +599,7 @@
       "initial": "M",
       "leads_30d": 100,
       "leads_total": 326,
-      "opps_total": 23,
+      "opps_total": 38,
       "opps_qualified": 0,
       "opps_won": 0
     }
