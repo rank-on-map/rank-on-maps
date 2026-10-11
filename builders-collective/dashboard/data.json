@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-11T17:46:07.499239+00:00",
+  "generated_at": "2026-10-11T18:29:11.002163+00:00",
   "totals": {
-    "total_leads": 1279,
-    "leads_30d": 382,
-    "total_opps": 901,
+    "total_leads": 1280,
+    "leads_30d": 383,
+    "total_opps": 902,
     "calls_booked": 106,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,11 +11,11 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8445.23,
+    "spend": 8445.34,
     "leads": 284
   },
   "channels_30d": {
-    "Meta": 282,
+    "Meta": 283,
     "REA": 83,
     "Contact": 9,
     "Eligibility": 5,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 327,
+    "Meta": 328,
     "REA": 602,
     "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 308,
+    "New Lead": 309,
     "Booked": 58,
     "?": 160,
     "Nurturing": 27,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Jon Markovic",
+        0.0
       ],
       [
         "Jason Cargo",
@@ -3079,9 +3083,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 100,
-      "leads_total": 326,
-      "opps_total": 140,
+      "leads_30d": 101,
+      "leads_total": 327,
+      "opps_total": 141,
       "opps_qualified": 1,
       "opps_won": 4
     }
