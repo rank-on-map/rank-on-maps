@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-12T01:21:13.708634+00:00",
+  "generated_at": "2026-10-12T01:51:37.370909+00:00",
   "totals": {
-    "total_leads": 1283,
-    "leads_30d": 385,
-    "total_opps": 904,
+    "total_leads": 1284,
+    "leads_30d": 386,
+    "total_opps": 905,
     "calls_booked": 104,
     "ppas_signed": 29,
     "pipeline_value": 151100000,
@@ -11,11 +11,11 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8253.65,
+    "spend": 8259.28,
     "leads": 278
   },
   "channels_30d": {
-    "Meta": 284,
+    "Meta": 285,
     "REA": 84,
     "Contact": 9,
     "Eligibility": 5,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 330,
+    "Meta": 331,
     "REA": 603,
     "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 311,
+    "New Lead": 312,
     "Booked": 56,
     "?": 160,
     "Not Yet Ready": 70,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Rebecca Ann",
+        0.0
       ],
       [
         "Lesley Hartley",
@@ -3082,9 +3086,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 105,
-      "leads_total": 331,
-      "opps_total": 239,
+      "leads_30d": 106,
+      "leads_total": 332,
+      "opps_total": 240,
       "opps_qualified": 1,
       "opps_won": 8
     },
