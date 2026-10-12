@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-12T01:51:37.370909+00:00",
+  "generated_at": "2026-10-12T02:22:02.669224+00:00",
   "totals": {
-    "total_leads": 1284,
-    "leads_30d": 386,
-    "total_opps": 905,
+    "total_leads": 1285,
+    "leads_30d": 387,
+    "total_opps": 906,
     "calls_booked": 104,
     "ppas_signed": 29,
     "pipeline_value": 151100000,
@@ -11,13 +11,13 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8259.28,
-    "leads": 278
+    "spend": 8264.65,
+    "leads": 279
   },
   "channels_30d": {
+    "Contact": 10,
     "Meta": 285,
     "REA": 84,
-    "Contact": 9,
     "Eligibility": 5,
     "Other": 3
   },
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
+    "Contact": 22,
     "Meta": 331,
     "REA": 603,
-    "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 312,
+    "New Lead": 313,
     "Booked": 56,
     "?": 160,
     "Not Yet Ready": 70,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Gracie  Halfacree",
+        0.0
       ],
       [
         "Rebecca Ann",
@@ -3068,9 +3072,9 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 94,
-      "leads_total": 299,
-      "opps_total": 238,
+      "leads_30d": 95,
+      "leads_total": 300,
+      "opps_total": 239,
       "opps_qualified": 1,
       "opps_won": 5
     },
