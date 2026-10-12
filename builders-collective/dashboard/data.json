@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-12T08:58:52.679100+00:00",
+  "generated_at": "2026-10-12T09:29:16.307526+00:00",
   "totals": {
     "total_leads": 1293,
-    "leads_30d": 390,
+    "leads_30d": 389,
     "total_opps": 911,
-    "calls_booked": 105,
+    "calls_booked": 104,
     "ppas_signed": 29,
     "pipeline_value": 151100000,
     "mixed_unit_deals": 20,
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8366.12,
+    "spend": 8370.159995,
     "leads": 284
   },
   "channels_30d": {
     "Meta": 286,
-    "REA": 86,
+    "REA": 85,
     "Contact": 10,
     "Eligibility": 5,
     "Other": 3
   },
   "channels_booked_30d": {
-    "Meta": 23,
+    "Meta": 22,
     "REA": 2,
     "Contact": 2,
     "Eligibility": 1,
@@ -37,8 +37,8 @@
   },
   "stages": {
     "New Lead": 316,
-    "Booked": 57,
-    "?": 161,
+    "Booked": 56,
+    "?": 162,
     "Not Yet Ready": 70,
     "Nurturing": 27,
     "Lost": 232,
@@ -1449,10 +1449,6 @@
       ],
       [
         "Huma Rasuly",
-        0.0
-      ],
-      [
-        "Ellis Landon",
         0.0
       ],
       [
@@ -3088,7 +3084,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 94,
+      "leads_30d": 93,
       "leads_total": 301,
       "opps_total": 240,
       "opps_qualified": 1,
