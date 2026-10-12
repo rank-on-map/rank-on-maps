@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-12T06:57:10.995712+00:00",
+  "generated_at": "2026-10-12T07:27:34.821945+00:00",
   "totals": {
-    "total_leads": 1290,
-    "leads_30d": 390,
-    "total_opps": 909,
+    "total_leads": 1292,
+    "leads_30d": 392,
+    "total_opps": 910,
     "calls_booked": 105,
     "ppas_signed": 29,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8328.379842,
+    "spend": 8336.37,
     "leads": 282
   },
   "channels_30d": {
-    "REA": 86,
-    "Meta": 286,
+    "REA": 87,
+    "Meta": 287,
     "Contact": 10,
     "Eligibility": 5,
     "Other": 3
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "REA": 605,
-    "Meta": 334,
+    "REA": 606,
+    "Meta": 335,
     "Contact": 22,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 314,
+    "New Lead": 315,
     "Booked": 57,
     "?": 161,
     "Not Yet Ready": 70,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Sonia Carter",
+        0.0
       ],
       [
         "Garth Williams",
@@ -3098,17 +3102,17 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 106,
-      "leads_total": 333,
-      "opps_total": 240,
+      "leads_30d": 107,
+      "leads_total": 334,
+      "opps_total": 241,
       "opps_qualified": 1,
       "opps_won": 8
     },
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 103,
-      "leads_total": 329,
+      "leads_30d": 104,
+      "leads_total": 330,
       "opps_total": 142,
       "opps_qualified": 1,
       "opps_won": 4
