@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T06:26:43.303660+00:00",
+  "generated_at": "2026-10-12T06:57:10.995712+00:00",
   "totals": {
-    "total_leads": 1288,
-    "leads_30d": 388,
+    "total_leads": 1290,
+    "leads_30d": 390,
     "total_opps": 909,
     "calls_booked": 105,
     "ppas_signed": 29,
@@ -11,13 +11,13 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8323.470236,
+    "spend": 8328.379842,
     "leads": 282
   },
   "channels_30d": {
+    "REA": 86,
     "Meta": 286,
     "Contact": 10,
-    "REA": 84,
     "Eligibility": 5,
     "Other": 3
   },
@@ -29,16 +29,16 @@
     "Other": 1
   },
   "channels_total": {
+    "REA": 605,
     "Meta": 334,
     "Contact": 22,
-    "REA": 603,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 315,
+    "New Lead": 314,
     "Booked": 57,
-    "?": 160,
+    "?": 161,
     "Not Yet Ready": 70,
     "Nurturing": 27,
     "Lost": 232,
@@ -697,10 +697,6 @@
       ],
       [
         "Chloe Toft",
-        0.0
-      ],
-      [
-        "Vanessa Hurcom",
         0.0
       ],
       [
@@ -3093,8 +3089,8 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 82,
-      "leads_total": 241,
+      "leads_30d": 83,
+      "leads_total": 242,
       "opps_total": 243,
       "opps_qualified": 0,
       "opps_won": 11
@@ -3102,8 +3098,8 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 105,
-      "leads_total": 332,
+      "leads_30d": 106,
+      "leads_total": 333,
       "opps_total": 240,
       "opps_qualified": 1,
       "opps_won": 8
