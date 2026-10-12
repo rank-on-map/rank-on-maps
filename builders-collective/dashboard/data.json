@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-12T00:50:47.356364+00:00",
+  "generated_at": "2026-10-12T01:21:13.708634+00:00",
   "totals": {
     "total_leads": 1283,
-    "leads_30d": 386,
+    "leads_30d": 385,
     "total_opps": 904,
-    "calls_booked": 106,
-    "ppas_signed": 28,
+    "calls_booked": 104,
+    "ppas_signed": 29,
     "pipeline_value": 151100000,
     "mixed_unit_deals": 20,
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8250.28,
-    "leads": 277
+    "spend": 8253.65,
+    "leads": 278
   },
   "channels_30d": {
-    "Meta": 285,
+    "Meta": 284,
     "REA": 84,
     "Contact": 9,
     "Eligibility": 5,
     "Other": 3
   },
   "channels_booked_30d": {
-    "Meta": 25,
+    "Meta": 23,
     "REA": 2,
     "Contact": 2,
     "Eligibility": 1,
@@ -37,16 +37,16 @@
   },
   "stages": {
     "New Lead": 311,
-    "Booked": 58,
+    "Booked": 56,
     "?": 160,
+    "Not Yet Ready": 70,
     "Nurturing": 27,
-    "Not Yet Ready": 68,
     "Lost": 232,
     "Showed Up": 10,
-    "Builder Shortlist Sent": 4,
+    "Builder Shortlist Sent": 3,
     "Qualified": 3,
     "Contract Review": 1,
-    "Won \u2014 Build Confirmed": 28,
+    "Won \u2014 Build Confirmed": 29,
     "Site Visit Scheduled": 2
   },
   "stage_top_deals": {
@@ -1432,10 +1432,6 @@
         0.0
       ],
       [
-        "Kristi Reeves Glossop",
-        0.0
-      ],
-      [
         "Rupal",
         0.0
       ],
@@ -1457,10 +1453,6 @@
       ],
       [
         "Joel Taylor",
-        0.0
-      ],
-      [
-        "Rajalakshmi Nair",
         0.0
       ],
       [
@@ -1718,10 +1710,6 @@
       [
         "Solaimuthu Muthu",
         0.0
-      ],
-      [
-        "Jordan Bruce",
-        0.0
       ]
     ],
     "Contract Review": [
@@ -1828,6 +1816,10 @@
         0.0
       ],
       [
+        "Jordan Bruce",
+        0.0
+      ],
+      [
         "Manish Malla",
         0.0
       ],
@@ -1906,7 +1898,15 @@
         625000.0
       ],
       [
+        "Kristi Reeves Glossop",
+        0.0
+      ],
+      [
         "Alex Winning",
+        0.0
+      ],
+      [
+        "Rajalakshmi Nair",
         0.0
       ],
       [
@@ -3068,12 +3068,12 @@
       "leads_total": 299,
       "opps_total": 238,
       "opps_qualified": 1,
-      "opps_won": 4
+      "opps_won": 5
     },
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 82,
+      "leads_30d": 81,
       "leads_total": 240,
       "opps_total": 242,
       "opps_qualified": 0,
