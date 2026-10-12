@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T02:52:28.612865+00:00",
+  "generated_at": "2026-10-12T03:22:55.937012+00:00",
   "totals": {
     "total_leads": 1286,
     "leads_30d": 388,
@@ -11,8 +11,8 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8271.109956,
-    "leads": 279
+    "spend": 8276.84,
+    "leads": 280
   },
   "channels_30d": {
     "Meta": 286,
