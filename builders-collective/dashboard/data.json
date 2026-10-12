@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-12T00:20:20.830069+00:00",
+  "generated_at": "2026-10-12T00:50:47.356364+00:00",
   "totals": {
-    "total_leads": 1282,
-    "leads_30d": 385,
-    "total_opps": 903,
+    "total_leads": 1283,
+    "leads_30d": 386,
+    "total_opps": 904,
     "calls_booked": 106,
     "ppas_signed": 28,
     "pipeline_value": 151100000,
@@ -11,11 +11,11 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8244.45,
+    "spend": 8250.28,
     "leads": 277
   },
   "channels_30d": {
-    "Meta": 284,
+    "Meta": 285,
     "REA": 84,
     "Contact": 9,
     "Eligibility": 5,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 329,
+    "Meta": 330,
     "REA": 603,
     "Contact": 21,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 310,
+    "New Lead": 311,
     "Booked": 58,
     "?": 160,
     "Nurturing": 27,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Lesley Hartley",
+        0.0
       ],
       [
         "Goce Talevski",
@@ -3060,9 +3064,9 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 93,
-      "leads_total": 298,
-      "opps_total": 237,
+      "leads_30d": 94,
+      "leads_total": 299,
+      "opps_total": 238,
       "opps_qualified": 1,
       "opps_won": 4
     },
