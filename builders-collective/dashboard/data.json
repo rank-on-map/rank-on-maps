@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-10-12T03:22:55.937012+00:00",
+  "generated_at": "2026-10-12T03:53:20.128378+00:00",
   "totals": {
-    "total_leads": 1286,
-    "leads_30d": 388,
-    "total_opps": 907,
-    "calls_booked": 104,
+    "total_leads": 1287,
+    "leads_30d": 389,
+    "total_opps": 908,
+    "calls_booked": 105,
     "ppas_signed": 29,
     "pipeline_value": 151100000,
     "mixed_unit_deals": 20,
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8276.84,
-    "leads": 280
+    "spend": 8282.5,
+    "leads": 281
   },
   "channels_30d": {
-    "Meta": 286,
+    "Meta": 287,
     "Contact": 10,
     "REA": 84,
     "Eligibility": 5,
     "Other": 3
   },
   "channels_booked_30d": {
-    "Meta": 23,
+    "Meta": 24,
     "REA": 2,
     "Contact": 2,
     "Eligibility": 1,
     "Other": 1
   },
   "channels_total": {
-    "Meta": 332,
+    "Meta": 333,
     "Contact": 22,
     "REA": 603,
     "Eligibility": 205,
@@ -37,7 +37,7 @@
   },
   "stages": {
     "New Lead": 314,
-    "Booked": 56,
+    "Booked": 57,
     "?": 160,
     "Not Yet Ready": 70,
     "Nurturing": 27,
@@ -224,6 +224,10 @@
         325000.0
       ],
       [
+        "Rhiana Bermingham",
+        0.0
+      ],
+      [
         "Gina Rogers",
         0.0
       ],
@@ -249,10 +253,6 @@
       ],
       [
         "Jason Cargo",
-        0.0
-      ],
-      [
-        "Huma Rasuly",
         0.0
       ],
       [
@@ -1438,6 +1438,10 @@
       [
         "John Koshkuson",
         625000.0
+      ],
+      [
+        "Huma Rasuly",
+        0.0
       ],
       [
         "Ellis Landon",
@@ -3085,9 +3089,9 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 81,
-      "leads_total": 240,
-      "opps_total": 242,
+      "leads_30d": 82,
+      "leads_total": 241,
+      "opps_total": 243,
       "opps_qualified": 0,
       "opps_won": 11
     },
