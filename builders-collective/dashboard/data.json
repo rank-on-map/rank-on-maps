@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-12T07:27:34.821945+00:00",
+  "generated_at": "2026-10-12T07:57:57.773535+00:00",
   "totals": {
-    "total_leads": 1292,
+    "total_leads": 1293,
     "leads_30d": 392,
-    "total_opps": 910,
+    "total_opps": 911,
     "calls_booked": 105,
     "ppas_signed": 29,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8336.37,
-    "leads": 282
+    "spend": 8345.42,
+    "leads": 283
   },
   "channels_30d": {
-    "REA": 87,
     "Meta": 287,
+    "REA": 87,
     "Contact": 10,
     "Eligibility": 5,
     "Other": 3
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 336,
     "REA": 606,
-    "Meta": 335,
     "Contact": 22,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 315,
+    "New Lead": 316,
     "Booked": 57,
     "?": 161,
     "Not Yet Ready": 70,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Gregory Hopson",
+        0.0
       ],
       [
         "Sonia Carter",
@@ -3112,8 +3116,8 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 104,
-      "leads_total": 330,
-      "opps_total": 142,
+      "leads_total": 331,
+      "opps_total": 143,
       "opps_qualified": 1,
       "opps_won": 4
     }
