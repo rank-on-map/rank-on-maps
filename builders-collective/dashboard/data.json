@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-12T10:30:02.489661+00:00",
+  "generated_at": "2026-10-12T11:00:47.820098+00:00",
   "totals": {
     "total_leads": 1295,
     "leads_30d": 390,
-    "total_opps": 900,
-    "calls_booked": 100,
-    "ppas_signed": 24,
-    "pipeline_value": 150325000,
-    "mixed_unit_deals": 14,
-    "valued_builds": 201
+    "total_opps": 913,
+    "calls_booked": 105,
+    "ppas_signed": 29,
+    "pipeline_value": 151100000,
+    "mixed_unit_deals": 20,
+    "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8388.860576,
-    "leads": 284
+    "spend": 8392.009899,
+    "leads": 286
   },
   "channels_30d": {
     "Meta": 287,
@@ -36,17 +36,17 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 316,
+    "New Lead": 317,
     "Booked": 57,
     "?": 162,
-    "Not Yet Ready": 66,
+    "Not Yet Ready": 70,
     "Nurturing": 27,
-    "Lost": 229,
+    "Lost": 232,
     "Showed Up": 10,
     "Builder Shortlist Sent": 3,
     "Qualified": 3,
     "Contract Review": 1,
-    "Won \u2014 Build Confirmed": 24,
+    "Won \u2014 Build Confirmed": 29,
     "Site Visit Scheduled": 2
   },
   "stage_top_deals": {
@@ -1314,6 +1314,10 @@
       [
         "ted marchese \u2014 REA",
         0.0
+      ],
+      [
+        "Cherith Ferguson \u2014 Eligibility",
+        0.0
       ]
     ],
     "Nurturing": [
@@ -1804,6 +1808,26 @@
         25000.0
       ],
       [
+        "Codey Stewart",
+        25000.0
+      ],
+      [
+        "James Bismard",
+        25000.0
+      ],
+      [
+        "Arskie David",
+        25000.0
+      ],
+      [
+        "Keah Hall",
+        25000.0
+      ],
+      [
+        "Lee Anne Boon \u2014 Eligibility",
+        25000.0
+      ],
+      [
         "Stephen Devisoe",
         20000.0
       ],
@@ -2104,6 +2128,22 @@
       [
         "Omar autelitano",
         0.0
+      ],
+      [
+        "Rico",
+        0.0
+      ],
+      [
+        "Andrej and Donna ",
+        0.0
+      ],
+      [
+        "Nic Shields \u2014 Eligibility",
+        0.0
+      ],
+      [
+        "Promise Nechikwira",
+        0.0
       ]
     ],
     "Lost": [
@@ -2368,6 +2408,10 @@
         775000.0
       ],
       [
+        "Hermann Kengwah Kinfer",
+        775000.0
+      ],
+      [
         "Ali Alizada",
         625000.0
       ],
@@ -2458,6 +2502,10 @@
       [
         "Dechen Wangmo",
         325000.0
+      ],
+      [
+        "Shynae Otway",
+        25000.0
       ],
       [
         "Scott Laundy",
@@ -3022,6 +3070,10 @@
       [
         "Maria Polson \u2014 Eligibility",
         0.0
+      ],
+      [
+        "Kate De Guzman \u2014 Eligibility",
+        0.0
       ]
     ]
   },
@@ -3029,7 +3081,7 @@
     "?": 31875000.0,
     "Booked": 3575000.0,
     "Qualified": 775000.0,
-    "Lost": 68500000.0,
+    "Lost": 69275000.0,
     "Not Yet Ready": 10575000.0,
     "Won \u2014 Build Confirmed": 2800000.0,
     "Nurturing": 2325000.0,
@@ -3042,7 +3094,7 @@
       "initial": "D",
       "leads_30d": 93,
       "leads_total": 302,
-      "opps_total": 237,
+      "opps_total": 241,
       "opps_qualified": 1,
       "opps_won": 5
     },
@@ -3051,16 +3103,16 @@
       "initial": "A",
       "leads_30d": 83,
       "leads_total": 243,
-      "opps_total": 237,
+      "opps_total": 244,
       "opps_qualified": 0,
-      "opps_won": 6
+      "opps_won": 11
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 107,
       "leads_total": 334,
-      "opps_total": 240,
+      "opps_total": 241,
       "opps_qualified": 1,
       "opps_won": 8
     },
@@ -3069,7 +3121,7 @@
       "initial": "M",
       "leads_30d": 104,
       "leads_total": 331,
-      "opps_total": 142,
+      "opps_total": 143,
       "opps_qualified": 1,
       "opps_won": 4
     }
