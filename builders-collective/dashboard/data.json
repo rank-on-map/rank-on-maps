@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-12T02:22:02.669224+00:00",
+  "generated_at": "2026-10-12T02:52:28.612865+00:00",
   "totals": {
-    "total_leads": 1285,
-    "leads_30d": 387,
-    "total_opps": 906,
+    "total_leads": 1286,
+    "leads_30d": 388,
+    "total_opps": 907,
     "calls_booked": 104,
     "ppas_signed": 29,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8264.65,
+    "spend": 8271.109956,
     "leads": 279
   },
   "channels_30d": {
+    "Meta": 286,
     "Contact": 10,
-    "Meta": 285,
     "REA": 84,
     "Eligibility": 5,
     "Other": 3
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 332,
     "Contact": 22,
-    "Meta": 331,
     "REA": 603,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 313,
+    "New Lead": 314,
     "Booked": 56,
     "?": 160,
     "Not Yet Ready": 70,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Gina Rogers",
+        0.0
       ],
       [
         "Gracie  Halfacree",
@@ -3099,9 +3103,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 102,
-      "leads_total": 328,
-      "opps_total": 141,
+      "leads_30d": 103,
+      "leads_total": 329,
+      "opps_total": 142,
       "opps_qualified": 1,
       "opps_won": 4
     }
