@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-12T14:35:00.537674+00:00",
+  "generated_at": "2026-10-12T15:05:45.937705+00:00",
   "totals": {
-    "total_leads": 1297,
-    "leads_30d": 387,
-    "total_opps": 913,
+    "total_leads": 1298,
+    "leads_30d": 388,
+    "total_opps": 914,
     "calls_booked": 105,
     "ppas_signed": 29,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8460.83,
-    "leads": 286
+    "spend": 8466.099944,
+    "leads": 287
   },
   "channels_30d": {
+    "Meta": 285,
     "REA": 86,
-    "Meta": 284,
     "Contact": 10,
     "Eligibility": 4,
     "Other": 3
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 339,
     "REA": 608,
-    "Meta": 338,
     "Contact": 22,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 317,
+    "New Lead": 318,
     "Booked": 57,
     "?": 162,
     "Not Yet Ready": 70,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Peta Lock",
+        0.0
       ],
       [
         "Lewis Plackett",
@@ -3110,9 +3114,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 105,
-      "leads_total": 335,
-      "opps_total": 241,
+      "leads_30d": 106,
+      "leads_total": 336,
+      "opps_total": 242,
       "opps_qualified": 1,
       "opps_won": 8
     },
