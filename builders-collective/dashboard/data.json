@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13T02:22:33.142712+00:00",
+  "generated_at": "2026-10-13T02:53:00.109783+00:00",
   "totals": {
-    "total_leads": 1300,
-    "leads_30d": 389,
+    "total_leads": 900,
+    "leads_30d": 387,
     "total_opps": 915,
     "calls_booked": 105,
     "ppas_signed": 29,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8101.22,
+    "spend": 8107.699998,
     "leads": 279
   },
   "channels_30d": {
-    "Meta": 285,
-    "REA": 87,
+    "Meta": 284,
+    "REA": 86,
     "Contact": 10,
     "Eligibility": 4,
     "Other": 3
@@ -30,10 +30,10 @@
   },
   "channels_total": {
     "Meta": 340,
-    "REA": 609,
-    "Contact": 22,
-    "Eligibility": 205,
-    "Other": 124
+    "REA": 333,
+    "Contact": 16,
+    "Eligibility": 149,
+    "Other": 62
   },
   "stages": {
     "New Lead": 319,
@@ -3101,7 +3101,7 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 93,
-      "leads_total": 303,
+      "leads_total": 217,
       "opps_total": 241,
       "opps_qualified": 1,
       "opps_won": 5
@@ -3110,7 +3110,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 82,
-      "leads_total": 243,
+      "leads_total": 171,
       "opps_total": 244,
       "opps_qualified": 0,
       "opps_won": 11
@@ -3118,8 +3118,8 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 106,
-      "leads_total": 336,
+      "leads_30d": 104,
+      "leads_total": 236,
       "opps_total": 242,
       "opps_qualified": 1,
       "opps_won": 8
@@ -3128,7 +3128,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 105,
-      "leads_total": 333,
+      "leads_total": 232,
       "opps_total": 144,
       "opps_qualified": 1,
       "opps_won": 4
