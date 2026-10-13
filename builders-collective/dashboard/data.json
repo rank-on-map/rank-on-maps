@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-13T13:41:49.127416+00:00",
+  "generated_at": "2026-10-13T14:12:28.084969+00:00",
   "totals": {
-    "total_leads": 1305,
-    "leads_30d": 384,
-    "total_opps": 917,
+    "total_leads": 800,
+    "leads_30d": 385,
+    "total_opps": 918,
     "calls_booked": 105,
     "ppas_signed": 29,
     "pipeline_value": 151100000,
@@ -11,11 +11,11 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8271.73,
-    "leads": 281
+    "spend": 8279.49,
+    "leads": 282
   },
   "channels_30d": {
-    "Meta": 283,
+    "Meta": 284,
     "REA": 84,
     "Contact": 10,
     "Eligibility": 4,
@@ -29,15 +29,15 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 342,
-    "REA": 612,
-    "Contact": 22,
-    "Eligibility": 205,
-    "Other": 124
+    "Meta": 343,
+    "REA": 293,
+    "Contact": 16,
+    "Eligibility": 104,
+    "Other": 44
   },
   "stages": {
+    "New Lead": 319,
     "?": 166,
-    "New Lead": 318,
     "Booked": 57,
     "Not Yet Ready": 70,
     "Nurturing": 26,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Joanne Thomas",
+        0.0
       ],
       [
         "Verity Drewettsen",
@@ -3093,7 +3097,7 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 91,
-      "leads_total": 305,
+      "leads_total": 190,
       "opps_total": 242,
       "opps_qualified": 1,
       "opps_won": 5
@@ -3102,7 +3106,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 81,
-      "leads_total": 245,
+      "leads_total": 155,
       "opps_total": 245,
       "opps_qualified": 0,
       "opps_won": 11
@@ -3110,9 +3114,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 104,
-      "leads_total": 336,
-      "opps_total": 242,
+      "leads_30d": 105,
+      "leads_total": 209,
+      "opps_total": 243,
       "opps_qualified": 1,
       "opps_won": 8
     },
@@ -3120,7 +3124,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 105,
-      "leads_total": 334,
+      "leads_total": 210,
       "opps_total": 144,
       "opps_qualified": 1,
       "opps_won": 4
