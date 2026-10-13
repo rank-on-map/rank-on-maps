@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-13T16:14:42.556836+00:00",
+  "generated_at": "2026-10-13T16:45:33.789917+00:00",
   "totals": {
-    "total_leads": 1307,
-    "leads_30d": 383,
-    "total_opps": 918,
+    "total_leads": 1308,
+    "leads_30d": 384,
+    "total_opps": 919,
     "calls_booked": 105,
     "ppas_signed": 29,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8296.31,
+    "spend": 8296.37,
     "leads": 282
   },
   "channels_30d": {
+    "Meta": 282,
     "REA": 85,
-    "Meta": 281,
     "Contact": 10,
     "Eligibility": 4,
     "Other": 3
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 344,
     "REA": 613,
-    "Meta": 343,
     "Contact": 22,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 319,
+    "New Lead": 320,
     "?": 166,
     "Booked": 57,
     "Not Yet Ready": 70,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Renata Ferrari",
+        0.0
       ],
       [
         "Joanne Thomas",
@@ -3123,9 +3127,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 105,
-      "leads_total": 335,
-      "opps_total": 144,
+      "leads_30d": 106,
+      "leads_total": 336,
+      "opps_total": 145,
       "opps_qualified": 1,
       "opps_won": 4
     }
