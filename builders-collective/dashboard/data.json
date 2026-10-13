@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-13T07:06:08.799908+00:00",
+  "generated_at": "2026-10-13T07:36:35.489199+00:00",
   "totals": {
-    "total_leads": 1304,
-    "leads_30d": 389,
-    "total_opps": 916,
+    "total_leads": 1305,
+    "leads_30d": 390,
+    "total_opps": 917,
     "calls_booked": 105,
     "ppas_signed": 29,
     "pipeline_value": 151100000,
@@ -11,12 +11,12 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8161.84,
+    "spend": 8168.57988,
     "leads": 280
   },
   "channels_30d": {
+    "Meta": 285,
     "REA": 88,
-    "Meta": 284,
     "Contact": 10,
     "Eligibility": 4,
     "Other": 3
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 342,
     "REA": 612,
-    "Meta": 341,
     "Contact": 22,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 320,
+    "New Lead": 321,
     "Booked": 57,
     "?": 162,
     "Not Yet Ready": 70,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Isaac Thokk",
+        0.0
       ],
       [
         "Verity Drewettsen",
@@ -3104,9 +3108,9 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 94,
-      "leads_total": 304,
-      "opps_total": 241,
+      "leads_30d": 95,
+      "leads_total": 305,
+      "opps_total": 242,
       "opps_qualified": 1,
       "opps_won": 5
     },
