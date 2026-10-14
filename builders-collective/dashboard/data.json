@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-14T11:53:42.461261+00:00",
+  "generated_at": "2026-10-14T12:24:07.077071+00:00",
   "totals": {
-    "total_leads": 1314,
-    "leads_30d": 380,
-    "total_opps": 923,
+    "total_leads": 1315,
+    "leads_30d": 381,
+    "total_opps": 924,
     "calls_booked": 105,
     "ppas_signed": 31,
     "pipeline_value": 151100000,
@@ -11,11 +11,11 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8157.53,
+    "spend": 8168.15,
     "leads": 280
   },
   "channels_30d": {
-    "Meta": 278,
+    "Meta": 279,
     "REA": 86,
     "Contact": 9,
     "Eligibility": 4,
@@ -29,15 +29,15 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 348,
+    "Meta": 349,
     "REA": 615,
     "Contact": 22,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
+    "New Lead": 323,
     "Booked": 57,
-    "New Lead": 322,
     "?": 167,
     "Not Yet Ready": 70,
     "Nurturing": 27,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Christie Molinaroli",
+        0.0
       ],
       [
         "Zoe Teasdale",
@@ -3121,9 +3125,9 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 79,
-      "leads_total": 246,
-      "opps_total": 246,
+      "leads_30d": 80,
+      "leads_total": 247,
+      "opps_total": 247,
       "opps_qualified": 0,
       "opps_won": 13
     },
