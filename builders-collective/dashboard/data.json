@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-14T07:04:29.875341+00:00",
+  "generated_at": "2026-10-14T07:35:01.445302+00:00",
   "totals": {
-    "total_leads": 1310,
-    "leads_30d": 382,
-    "total_opps": 900,
-    "calls_booked": 99,
-    "ppas_signed": 26,
-    "pipeline_value": 147225000,
-    "mixed_unit_deals": 16,
-    "valued_builds": 197
+    "total_leads": 1311,
+    "leads_30d": 383,
+    "total_opps": 920,
+    "calls_booked": 104,
+    "ppas_signed": 31,
+    "pipeline_value": 151100000,
+    "mixed_unit_deals": 22,
+    "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8072.189892,
+    "spend": 8081.990229,
     "leads": 276
   },
   "channels_30d": {
+    "Meta": 279,
     "REA": 87,
-    "Meta": 278,
     "Contact": 10,
     "Eligibility": 4,
     "Other": 3
@@ -29,21 +29,21 @@
     "Other": 1
   },
   "channels_total": {
+    "Meta": 345,
     "REA": 615,
-    "Meta": 344,
     "Contact": 22,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 319,
+    "New Lead": 321,
     "?": 166,
     "Booked": 56,
-    "Not Yet Ready": 65,
+    "Not Yet Ready": 70,
     "Nurturing": 27,
-    "Lost": 224,
+    "Lost": 232,
     "Showed Up": 9,
-    "Won \u2014 Build Confirmed": 26,
+    "Won \u2014 Build Confirmed": 31,
     "Qualified": 3,
     "Contract Review": 1,
     "Site Visit Scheduled": 3,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Jason Gledhill",
+        0.0
       ],
       [
         "Renata Ferrari",
@@ -1326,6 +1330,10 @@
       [
         "ted marchese \u2014 REA",
         0.0
+      ],
+      [
+        "Cherith Ferguson \u2014 Eligibility",
+        0.0
       ]
     ],
     "Nurturing": [
@@ -1812,6 +1820,26 @@
         25000.0
       ],
       [
+        "Codey Stewart",
+        25000.0
+      ],
+      [
+        "James Bismard",
+        25000.0
+      ],
+      [
+        "Arskie David",
+        25000.0
+      ],
+      [
+        "Keah Hall",
+        25000.0
+      ],
+      [
+        "Lee Anne Boon \u2014 Eligibility",
+        25000.0
+      ],
+      [
         "Stephen Devisoe",
         20000.0
       ],
@@ -1867,6 +1895,10 @@
       ],
       [
         "Nassa Atekhis",
+        775000.0
+      ],
+      [
+        "Abhi Prasad",
         775000.0
       ],
       [
@@ -2108,6 +2140,22 @@
       [
         "Omar autelitano",
         0.0
+      ],
+      [
+        "Rico",
+        0.0
+      ],
+      [
+        "Andrej and Donna ",
+        0.0
+      ],
+      [
+        "Nic Shields \u2014 Eligibility",
+        0.0
+      ],
+      [
+        "Promise Nechikwira",
+        0.0
       ]
     ],
     "Lost": [
@@ -2189,6 +2237,10 @@
       ],
       [
         "Dhan Gurung",
+        925000.0
+      ],
+      [
+        "Divya patel",
         925000.0
       ],
       [
@@ -2364,6 +2416,14 @@
         775000.0
       ],
       [
+        "Ashu Arora",
+        775000.0
+      ],
+      [
+        "Hermann Kengwah Kinfer",
+        775000.0
+      ],
+      [
         "Ali Alizada",
         625000.0
       ],
@@ -2436,6 +2496,10 @@
         625000.0
       ],
       [
+        "Sheenu Chitra",
+        625000.0
+      ],
+      [
         "Christopher Nicdao",
         475000.0
       ],
@@ -2450,6 +2514,10 @@
       [
         "Dechen Wangmo",
         325000.0
+      ],
+      [
+        "Shynae Otway",
+        25000.0
       ],
       [
         "Scott Laundy",
@@ -3006,6 +3074,18 @@
       [
         "Mandeep Gill",
         0.0
+      ],
+      [
+        "G Singh",
+        0.0
+      ],
+      [
+        "Maria Polson \u2014 Eligibility",
+        0.0
+      ],
+      [
+        "Kate De Guzman \u2014 Eligibility",
+        0.0
       ]
     ]
   },
@@ -3013,8 +3093,8 @@
     "?": 31875000.0,
     "Booked": 3575000.0,
     "Qualified": 775000.0,
-    "Lost": 66175000.0,
-    "Not Yet Ready": 9800000.0,
+    "Lost": 69275000.0,
+    "Not Yet Ready": 10575000.0,
     "Won \u2014 Build Confirmed": 2800000.0,
     "Nurturing": 2325000.0,
     "New Lead": 29275000.0,
@@ -3026,25 +3106,25 @@
       "initial": "D",
       "leads_30d": 91,
       "leads_total": 306,
-      "opps_total": 233,
+      "opps_total": 242,
       "opps_qualified": 1,
       "opps_won": 5
     },
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 79,
-      "leads_total": 245,
-      "opps_total": 238,
+      "leads_30d": 80,
+      "leads_total": 246,
+      "opps_total": 246,
       "opps_qualified": 0,
-      "opps_won": 8
+      "opps_won": 13
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 103,
       "leads_total": 337,
-      "opps_total": 241,
+      "opps_total": 243,
       "opps_qualified": 1,
       "opps_won": 8
     },
@@ -3053,7 +3133,7 @@
       "initial": "M",
       "leads_30d": 106,
       "leads_total": 337,
-      "opps_total": 144,
+      "opps_total": 145,
       "opps_qualified": 1,
       "opps_won": 4
     }
