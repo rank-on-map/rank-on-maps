@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-14T06:03:31.513204+00:00",
+  "generated_at": "2026-10-14T06:33:59.765789+00:00",
   "totals": {
-    "total_leads": 1310,
+    "total_leads": 900,
     "leads_30d": 383,
     "total_opps": 919,
-    "calls_booked": 105,
+    "calls_booked": 104,
     "ppas_signed": 31,
     "pipeline_value": 151100000,
     "mixed_unit_deals": 22,
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8057.400017,
+    "spend": 8065.88,
     "leads": 276
   },
   "channels_30d": {
@@ -29,18 +29,18 @@
     "Other": 1
   },
   "channels_total": {
-    "REA": 615,
+    "REA": 337,
     "Meta": 344,
-    "Contact": 22,
-    "Eligibility": 205,
-    "Other": 124
+    "Contact": 16,
+    "Eligibility": 142,
+    "Other": 61
   },
   "stages": {
-    "New Lead": 317,
-    "?": 169,
-    "Booked": 57,
+    "New Lead": 320,
+    "?": 166,
+    "Booked": 56,
     "Not Yet Ready": 70,
-    "Nurturing": 26,
+    "Nurturing": 27,
     "Lost": 232,
     "Showed Up": 9,
     "Won \u2014 Build Confirmed": 31,
@@ -448,6 +448,10 @@
         0.0
       ],
       [
+        "Brad Robertson",
+        0.0
+      ],
+      [
         "Natalie Tuckey",
         0.0
       ],
@@ -668,6 +672,10 @@
         0.0
       ],
       [
+        "Richard Causer",
+        0.0
+      ],
+      [
         "Bianca Capello",
         0.0
       ],
@@ -701,6 +709,10 @@
       ],
       [
         "Aleecia Williams",
+        0.0
+      ],
+      [
+        "Geoffrey Dykes",
         0.0
       ],
       [
@@ -1370,6 +1382,10 @@
         0.0
       ],
       [
+        "Koryom Chuang",
+        0.0
+      ],
+      [
         "Faye Smith",
         0.0
       ],
@@ -1521,10 +1537,6 @@
       ],
       [
         "Em Parker",
-        0.0
-      ],
-      [
-        "Koryom Chuang",
         0.0
       ],
       [
@@ -3089,7 +3101,7 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 91,
-      "leads_total": 306,
+      "leads_total": 217,
       "opps_total": 242,
       "opps_qualified": 1,
       "opps_won": 5
@@ -3098,7 +3110,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 80,
-      "leads_total": 245,
+      "leads_total": 171,
       "opps_total": 245,
       "opps_qualified": 0,
       "opps_won": 13
@@ -3107,7 +3119,7 @@
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 103,
-      "leads_total": 337,
+      "leads_total": 236,
       "opps_total": 243,
       "opps_qualified": 1,
       "opps_won": 8
@@ -3116,7 +3128,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 106,
-      "leads_total": 337,
+      "leads_total": 232,
       "opps_total": 145,
       "opps_qualified": 1,
       "opps_won": 4
