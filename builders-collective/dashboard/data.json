@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-14T07:35:01.445302+00:00",
+  "generated_at": "2026-10-14T08:05:30.504992+00:00",
   "totals": {
-    "total_leads": 1311,
+    "total_leads": 1000,
     "leads_30d": 383,
-    "total_opps": 920,
+    "total_opps": 921,
     "calls_booked": 104,
     "ppas_signed": 31,
     "pipeline_value": 151100000,
@@ -11,8 +11,8 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8081.990229,
-    "leads": 276
+    "spend": 8091.139918,
+    "leads": 278
   },
   "channels_30d": {
     "Meta": 279,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 345,
-    "REA": 615,
-    "Contact": 22,
-    "Eligibility": 205,
-    "Other": 124
+    "Meta": 346,
+    "REA": 397,
+    "Contact": 17,
+    "Eligibility": 172,
+    "Other": 68
   },
   "stages": {
-    "New Lead": 321,
+    "New Lead": 322,
     "?": 166,
     "Booked": 56,
     "Not Yet Ready": 70,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Monaro Tukaki",
+        0.0
       ],
       [
         "Jason Gledhill",
@@ -3105,8 +3109,8 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 91,
-      "leads_total": 306,
-      "opps_total": 242,
+      "leads_total": 244,
+      "opps_total": 243,
       "opps_qualified": 1,
       "opps_won": 5
     },
@@ -3114,7 +3118,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 80,
-      "leads_total": 246,
+      "leads_total": 185,
       "opps_total": 246,
       "opps_qualified": 0,
       "opps_won": 13
@@ -3123,7 +3127,7 @@
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 103,
-      "leads_total": 337,
+      "leads_total": 257,
       "opps_total": 243,
       "opps_qualified": 1,
       "opps_won": 8
@@ -3132,7 +3136,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 106,
-      "leads_total": 337,
+      "leads_total": 266,
       "opps_total": 145,
       "opps_qualified": 1,
       "opps_won": 4
