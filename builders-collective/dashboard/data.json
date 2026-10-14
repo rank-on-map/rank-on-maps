@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-14T12:54:34.090814+00:00",
+  "generated_at": "2026-10-14T13:25:06.078231+00:00",
   "totals": {
-    "total_leads": 1316,
-    "leads_30d": 382,
-    "total_opps": 925,
+    "total_leads": 1317,
+    "leads_30d": 383,
+    "total_opps": 926,
     "calls_booked": 105,
     "ppas_signed": 31,
     "pipeline_value": 151100000,
@@ -11,11 +11,11 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8174.960031,
+    "spend": 8180.369777,
     "leads": 282
   },
   "channels_30d": {
-    "Meta": 280,
+    "Meta": 281,
     "REA": 86,
     "Contact": 9,
     "Eligibility": 4,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 350,
+    "Meta": 351,
     "REA": 615,
     "Contact": 22,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 324,
+    "New Lead": 325,
     "Booked": 57,
     "?": 167,
     "Not Yet Ready": 70,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Julie Hayden",
+        0.0
       ],
       [
         "Ceri Keeping",
@@ -3138,9 +3142,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 103,
-      "leads_total": 338,
-      "opps_total": 244,
+      "leads_30d": 104,
+      "leads_total": 339,
+      "opps_total": 245,
       "opps_qualified": 1,
       "opps_won": 8
     },
