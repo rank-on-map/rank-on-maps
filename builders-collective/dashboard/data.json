@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-14T05:32:58.990211+00:00",
+  "generated_at": "2026-10-14T06:03:31.513204+00:00",
   "totals": {
-    "total_leads": 1309,
-    "leads_30d": 382,
+    "total_leads": 1310,
+    "leads_30d": 383,
     "total_opps": 919,
     "calls_booked": 105,
-    "ppas_signed": 29,
+    "ppas_signed": 31,
     "pipeline_value": 151100000,
-    "mixed_unit_deals": 20,
+    "mixed_unit_deals": 22,
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8048.61982,
+    "spend": 8057.400017,
     "leads": 276
   },
   "channels_30d": {
-    "REA": 86,
+    "REA": 87,
     "Meta": 279,
     "Contact": 10,
     "Eligibility": 4,
@@ -29,25 +29,25 @@
     "Other": 1
   },
   "channels_total": {
-    "REA": 614,
+    "REA": 615,
     "Meta": 344,
     "Contact": 22,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 320,
-    "?": 166,
+    "New Lead": 317,
+    "?": 169,
     "Booked": 57,
     "Not Yet Ready": 70,
     "Nurturing": 26,
     "Lost": 232,
-    "Showed Up": 10,
-    "Builder Shortlist Sent": 3,
+    "Showed Up": 9,
+    "Won \u2014 Build Confirmed": 31,
     "Qualified": 3,
     "Contract Review": 1,
-    "Won \u2014 Build Confirmed": 29,
-    "Site Visit Scheduled": 2
+    "Site Visit Scheduled": 3,
+    "Builder Shortlist Sent": 1
   },
   "stage_top_deals": {
     "New Lead": [
@@ -336,10 +336,6 @@
         0.0
       ],
       [
-        "Maurice Whelan",
-        0.0
-      ],
-      [
         "Deeraj Essoo",
         0.0
       ],
@@ -360,10 +356,6 @@
         0.0
       ],
       [
-        "Lesley Nicoll",
-        0.0
-      ],
-      [
         "Marita Hanisch",
         0.0
       ],
@@ -373,10 +365,6 @@
       ],
       [
         "Renee Lane",
-        0.0
-      ],
-      [
-        "Lani May Moore",
         0.0
       ],
       [
@@ -1682,10 +1670,6 @@
         0.0
       ],
       [
-        "Moy Lynn",
-        0.0
-      ],
-      [
         "Chris Jones",
         0.0
       ],
@@ -1730,6 +1714,10 @@
         625000.0
       ],
       [
+        "Moy Lynn",
+        0.0
+      ],
+      [
         "Test  Deez",
         0.0
       ]
@@ -1738,14 +1726,6 @@
       [
         "Philip Mensah",
         30000.0
-      ],
-      [
-        "Rabab Difaii",
-        0.0
-      ],
-      [
-        "Solaimuthu Muthu",
-        0.0
       ]
     ],
     "Contract Review": [
@@ -1786,6 +1766,14 @@
       [
         "Eric Mensah",
         27000.0
+      ],
+      [
+        "Rabab Difaii",
+        25000.0
+      ],
+      [
+        "Solaimuthu Muthu",
+        25000.0
       ],
       [
         "Brenton Engelbrecht",
@@ -3113,7 +3101,7 @@
       "leads_total": 245,
       "opps_total": 245,
       "opps_qualified": 0,
-      "opps_won": 11
+      "opps_won": 13
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
@@ -3127,8 +3115,8 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 105,
-      "leads_total": 336,
+      "leads_30d": 106,
+      "leads_total": 337,
       "opps_total": 145,
       "opps_qualified": 1,
       "opps_won": 4
