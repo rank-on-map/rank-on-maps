@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-14T12:24:07.077071+00:00",
+  "generated_at": "2026-10-14T12:54:34.090814+00:00",
   "totals": {
-    "total_leads": 1315,
-    "leads_30d": 381,
-    "total_opps": 924,
+    "total_leads": 1316,
+    "leads_30d": 382,
+    "total_opps": 925,
     "calls_booked": 105,
     "ppas_signed": 31,
     "pipeline_value": 151100000,
@@ -11,11 +11,11 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8168.15,
-    "leads": 280
+    "spend": 8174.960031,
+    "leads": 282
   },
   "channels_30d": {
-    "Meta": 279,
+    "Meta": 280,
     "REA": 86,
     "Contact": 9,
     "Eligibility": 4,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 349,
+    "Meta": 350,
     "REA": 615,
     "Contact": 22,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 323,
+    "New Lead": 324,
     "Booked": 57,
     "?": 167,
     "Not Yet Ready": 70,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Ceri Keeping",
+        0.0
       ],
       [
         "Christie Molinaroli",
@@ -3116,9 +3120,9 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 90,
-      "leads_total": 307,
-      "opps_total": 243,
+      "leads_30d": 91,
+      "leads_total": 308,
+      "opps_total": 244,
       "opps_qualified": 1,
       "opps_won": 5
     },
