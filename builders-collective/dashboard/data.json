@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-14T13:55:39.570257+00:00",
+  "generated_at": "2026-10-14T14:26:17.727899+00:00",
   "totals": {
-    "total_leads": 1317,
-    "leads_30d": 383,
-    "total_opps": 926,
+    "total_leads": 1318,
+    "leads_30d": 384,
+    "total_opps": 927,
     "calls_booked": 105,
     "ppas_signed": 31,
     "pipeline_value": 151100000,
@@ -11,11 +11,11 @@
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 8187.23,
-    "leads": 283
+    "spend": 8194.18,
+    "leads": 284
   },
   "channels_30d": {
-    "Meta": 281,
+    "Meta": 282,
     "REA": 86,
     "Contact": 9,
     "Eligibility": 4,
@@ -29,14 +29,14 @@
     "Other": 1
   },
   "channels_total": {
-    "Meta": 351,
+    "Meta": 352,
     "REA": 615,
     "Contact": 22,
     "Eligibility": 205,
     "Other": 124
   },
   "stages": {
-    "New Lead": 325,
+    "New Lead": 326,
     "Booked": 57,
     "?": 167,
     "Not Yet Ready": 70,
@@ -222,6 +222,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Mish Shell",
+        0.0
       ],
       [
         "Julie Hayden",
@@ -3151,9 +3155,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 105,
-      "leads_total": 338,
-      "opps_total": 146,
+      "leads_30d": 106,
+      "leads_total": 339,
+      "opps_total": 147,
       "opps_qualified": 1,
       "opps_won": 4
     }
