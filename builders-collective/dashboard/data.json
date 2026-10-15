@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:26:07.121091+00:00",
+  "generated_at": "2026-10-15T07:56:51.823396+00:00",
   "totals": {
     "total_leads": 1323,
     "leads_30d": 372,
@@ -11,7 +11,7 @@
     "valued_builds": 207
   },
   "meta_spend": {
-    "spend": 8029.140399,
+    "spend": 8034.729985,
     "leads": 267
   },
   "channels_30d": {
@@ -35,8 +35,8 @@
     "Other": 124
   },
   "stages": {
-    "?": 185,
-    "New Lead": 321,
+    "?": 186,
+    "New Lead": 320,
     "Booked": 56,
     "Not Yet Ready": 70,
     "Nurturing": 27,
@@ -656,10 +656,6 @@
       ],
       [
         "Remi Locke",
-        0.0
-      ],
-      [
-        "Amber Wilkinson Moore",
         0.0
       ],
       [
