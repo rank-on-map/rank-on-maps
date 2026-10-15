@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-10-15T05:54:18.598459+00:00",
+  "generated_at": "2026-10-15T06:24:55.417268+00:00",
   "totals": {
-    "total_leads": 700,
-    "leads_30d": 379,
+    "total_leads": 1300,
+    "leads_30d": 377,
     "total_opps": 939,
-    "calls_booked_ever": 161,
+    "calls_booked_ever": 162,
     "ppas_signed": 31,
     "pipeline_value": 154675000,
     "mixed_unit_deals": 22,
     "valued_builds": 207
   },
   "meta_spend": {
-    "spend": 8009.09,
+    "spend": 8014.829844,
     "leads": 267
   },
   "channels_30d": {
-    "Meta": 279,
+    "Meta": 278,
     "Eligibility": 5,
     "REA": 84,
     "Contact": 8,
-    "Other": 3
+    "Other": 2
   },
   "channels_booked_30d": {
-    "Meta": 40,
+    "Meta": 41,
     "REA": 2,
     "Contact": 2,
     "Eligibility": 1
   },
   "channels_total": {
     "Meta": 355,
-    "Eligibility": 64,
-    "REA": 241,
-    "Contact": 13,
-    "Other": 27
+    "Eligibility": 202,
+    "REA": 605,
+    "Contact": 22,
+    "Other": 116
   },
   "stages": {
-    "?": 184,
-    "New Lead": 323,
-    "Booked": 55,
+    "?": 185,
+    "New Lead": 321,
+    "Booked": 56,
     "Not Yet Ready": 70,
     "Nurturing": 27,
     "Lost": 232,
@@ -328,10 +328,6 @@
       ],
       [
         "Chris Smith",
-        0.0
-      ],
-      [
-        "Nathan Barker",
         0.0
       ],
       [
@@ -672,10 +668,6 @@
       ],
       [
         "Mark Fawcett",
-        0.0
-      ],
-      [
-        "Teresa Courtnay",
         0.0
       ],
       [
@@ -1476,6 +1468,10 @@
       ],
       [
         "Huma Rasuly",
+        0.0
+      ],
+      [
+        "Nathan Barker",
         0.0
       ],
       [
@@ -3108,7 +3104,7 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 88,
-      "leads_total": 169,
+      "leads_total": 297,
       "opps_total": 253,
       "opps_qualified": 1,
       "opps_won": 5
@@ -3117,7 +3113,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 80,
-      "leads_total": 138,
+      "leads_total": 241,
       "opps_total": 248,
       "opps_qualified": 0,
       "opps_won": 13
@@ -3126,7 +3122,7 @@
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 104,
-      "leads_total": 184,
+      "leads_total": 340,
       "opps_total": 247,
       "opps_qualified": 1,
       "opps_won": 8
@@ -3134,8 +3130,8 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 104,
-      "leads_total": 182,
+      "leads_30d": 103,
+      "leads_total": 338,
       "opps_total": 147,
       "opps_qualified": 1,
       "opps_won": 4
