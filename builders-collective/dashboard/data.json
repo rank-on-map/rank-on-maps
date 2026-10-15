@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-15T03:51:53.500071+00:00",
+  "generated_at": "2026-10-15T04:22:42.029520+00:00",
   "totals": {
-    "total_leads": 1322,
+    "total_leads": 1300,
     "leads_30d": 380,
-    "total_opps": 930,
+    "total_opps": 938,
     "calls_booked_ever": 161,
     "ppas_signed": 31,
-    "pipeline_value": 151100000,
+    "pipeline_value": 154675000,
     "mixed_unit_deals": 22,
-    "valued_builds": 202
+    "valued_builds": 207
   },
   "meta_spend": {
-    "spend": 7981.05,
-    "leads": 265
+    "spend": 7985.47,
+    "leads": 266
   },
   "channels_30d": {
     "Eligibility": 5,
@@ -28,15 +28,15 @@
     "Eligibility": 1
   },
   "channels_total": {
-    "Eligibility": 206,
+    "Eligibility": 202,
     "Meta": 354,
-    "REA": 616,
+    "REA": 606,
     "Contact": 22,
-    "Other": 124
+    "Other": 116
   },
   "stages": {
+    "?": 176,
     "New Lead": 329,
-    "?": 168,
     "Booked": 56,
     "Not Yet Ready": 70,
     "Nurturing": 27,
@@ -3121,7 +3121,7 @@
     ]
   },
   "stage_pipeline_value": {
-    "?": 31875000.0,
+    "?": 35450000.0,
     "Booked": 3575000.0,
     "Qualified": 775000.0,
     "Lost": 69275000.0,
@@ -3136,8 +3136,8 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 89,
-      "leads_total": 309,
-      "opps_total": 245,
+      "leads_total": 298,
+      "opps_total": 253,
       "opps_qualified": 1,
       "opps_won": 5
     },
@@ -3145,7 +3145,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 80,
-      "leads_total": 248,
+      "leads_total": 241,
       "opps_total": 248,
       "opps_qualified": 0,
       "opps_won": 13
@@ -3154,7 +3154,7 @@
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 104,
-      "leads_total": 341,
+      "leads_total": 339,
       "opps_total": 246,
       "opps_qualified": 1,
       "opps_won": 8
@@ -3163,7 +3163,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 104,
-      "leads_total": 339,
+      "leads_total": 338,
       "opps_total": 147,
       "opps_qualified": 1,
       "opps_won": 4
