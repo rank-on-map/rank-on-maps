@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:53:10.846832+00:00",
+  "generated_at": "2026-10-15T05:23:41.051018+00:00",
   "totals": {
     "total_leads": 1323,
     "leads_30d": 380,
@@ -11,7 +11,7 @@
     "valued_builds": 207
   },
   "meta_spend": {
-    "spend": 7994.83,
+    "spend": 8002.12,
     "leads": 267
   },
   "channels_30d": {
@@ -35,9 +35,9 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 330,
-    "?": 176,
-    "Booked": 56,
+    "?": 181,
+    "New Lead": 326,
+    "Booked": 55,
     "Not Yet Ready": 70,
     "Nurturing": 27,
     "Lost": 232,
@@ -223,10 +223,6 @@
         325000.0
       ],
       [
-        "Jeremy Blair",
-        0.0
-      ],
-      [
         "Da Br",
         0.0
       ],
@@ -271,10 +267,6 @@
         0.0
       ],
       [
-        "Joanne Thomas",
-        0.0
-      ],
-      [
         "Verity Drewettsen",
         0.0
       ],
@@ -312,10 +304,6 @@
       ],
       [
         "Gracie  Halfacree",
-        0.0
-      ],
-      [
-        "Rebecca Ann",
         0.0
       ],
       [
@@ -444,10 +432,6 @@
       ],
       [
         "Joey Adam Asmadi Omar",
-        0.0
-      ],
-      [
-        "Jo Bell",
         0.0
       ],
       [
@@ -1512,10 +1496,6 @@
       ],
       [
         "Sarah Waite",
-        0.0
-      ],
-      [
-        "Nicola Knowles",
         0.0
       ],
       [
