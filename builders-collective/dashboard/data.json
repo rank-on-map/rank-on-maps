@@ -1,32 +1,31 @@
 {
-  "generated_at": "2026-10-15T02:19:51.063478+00:00",
+  "generated_at": "2026-10-15T02:41:56.298835+00:00",
   "totals": {
     "total_leads": 1319,
-    "leads_30d": 379,
+    "leads_30d": 378,
     "total_opps": 928,
-    "calls_booked": 105,
+    "calls_booked_ever": 161,
     "ppas_signed": 31,
     "pipeline_value": 151100000,
     "mixed_unit_deals": 22,
     "valued_builds": 202
   },
   "meta_spend": {
-    "spend": 7962.0,
+    "spend": 7967.52,
     "leads": 265
   },
   "channels_30d": {
-    "Meta": 280,
+    "Meta": 279,
     "REA": 84,
     "Contact": 8,
     "Eligibility": 4,
     "Other": 3
   },
   "channels_booked_30d": {
-    "Meta": 21,
+    "Meta": 41,
     "REA": 2,
-    "Contact": 1,
-    "Eligibility": 1,
-    "Other": 1
+    "Contact": 2,
+    "Eligibility": 1
   },
   "channels_total": {
     "Meta": 353,
@@ -3132,7 +3131,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 89,
+      "leads_30d": 88,
       "leads_total": 308,
       "opps_total": 244,
       "opps_qualified": 1,
