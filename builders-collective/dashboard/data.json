@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T05:23:41.051018+00:00",
+  "generated_at": "2026-10-15T05:54:18.598459+00:00",
   "totals": {
-    "total_leads": 1323,
-    "leads_30d": 380,
+    "total_leads": 700,
+    "leads_30d": 379,
     "total_opps": 939,
     "calls_booked_ever": 161,
     "ppas_signed": 31,
@@ -11,32 +11,32 @@
     "valued_builds": 207
   },
   "meta_spend": {
-    "spend": 8002.12,
+    "spend": 8009.09,
     "leads": 267
   },
   "channels_30d": {
-    "Meta": 280,
+    "Meta": 279,
     "Eligibility": 5,
     "REA": 84,
     "Contact": 8,
     "Other": 3
   },
   "channels_booked_30d": {
-    "Meta": 41,
+    "Meta": 40,
     "REA": 2,
     "Contact": 2,
     "Eligibility": 1
   },
   "channels_total": {
     "Meta": 355,
-    "Eligibility": 206,
-    "REA": 616,
-    "Contact": 22,
-    "Other": 124
+    "Eligibility": 64,
+    "REA": 241,
+    "Contact": 13,
+    "Other": 27
   },
   "stages": {
-    "?": 181,
-    "New Lead": 326,
+    "?": 184,
+    "New Lead": 323,
     "Booked": 55,
     "Not Yet Ready": 70,
     "Nurturing": 27,
@@ -379,10 +379,6 @@
         0.0
       ],
       [
-        "Aileen Sales",
-        0.0
-      ],
-      [
         "Marita Hanisch",
         0.0
       ],
@@ -392,10 +388,6 @@
       ],
       [
         "Renee Lane",
-        0.0
-      ],
-      [
-        "Gerrald Manuel",
         0.0
       ],
       [
@@ -560,10 +552,6 @@
       ],
       [
         "Elahee",
-        0.0
-      ],
-      [
-        "Vp",
         0.0
       ],
       [
@@ -3120,7 +3108,7 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 88,
-      "leads_total": 309,
+      "leads_total": 169,
       "opps_total": 253,
       "opps_qualified": 1,
       "opps_won": 5
@@ -3129,7 +3117,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 80,
-      "leads_total": 248,
+      "leads_total": 138,
       "opps_total": 248,
       "opps_qualified": 0,
       "opps_won": 13
@@ -3137,8 +3125,8 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 105,
-      "leads_total": 342,
+      "leads_30d": 104,
+      "leads_total": 184,
       "opps_total": 247,
       "opps_qualified": 1,
       "opps_won": 8
@@ -3147,7 +3135,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 104,
-      "leads_total": 339,
+      "leads_total": 182,
       "opps_total": 147,
       "opps_qualified": 1,
       "opps_won": 4
