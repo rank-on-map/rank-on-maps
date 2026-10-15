@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T07:56:51.823396+00:00",
+  "generated_at": "2026-10-15T08:27:26.789773+00:00",
   "totals": {
-    "total_leads": 1323,
-    "leads_30d": 372,
+    "total_leads": 900,
+    "leads_30d": 371,
     "total_opps": 939,
     "calls_booked_ever": 162,
     "ppas_signed": 31,
@@ -11,11 +11,11 @@
     "valued_builds": 207
   },
   "meta_spend": {
-    "spend": 8034.729985,
+    "spend": 8040.59,
     "leads": 267
   },
   "channels_30d": {
-    "Meta": 273,
+    "Meta": 272,
     "Eligibility": 5,
     "REA": 84,
     "Contact": 8,
@@ -29,17 +29,17 @@
   },
   "channels_total": {
     "Meta": 355,
-    "Eligibility": 206,
-    "REA": 616,
-    "Contact": 22,
-    "Other": 124
+    "Eligibility": 139,
+    "REA": 331,
+    "Contact": 16,
+    "Other": 59
   },
   "stages": {
-    "?": 186,
-    "New Lead": 320,
-    "Booked": 56,
+    "?": 184,
+    "New Lead": 322,
+    "Booked": 55,
     "Not Yet Ready": 70,
-    "Nurturing": 27,
+    "Nurturing": 28,
     "Lost": 232,
     "Showed Up": 9,
     "Won \u2014 Build Confirmed": 31,
@@ -283,6 +283,10 @@
         0.0
       ],
       [
+        "Philip Hughes",
+        0.0
+      ],
+      [
         "Gregory Hopson",
         0.0
       ],
@@ -432,6 +436,10 @@
       ],
       [
         "Wendy Zoccoli",
+        0.0
+      ],
+      [
+        "Lee Murphy",
         0.0
       ],
       [
@@ -1389,6 +1397,10 @@
         0.0
       ],
       [
+        "Siona Cobb",
+        0.0
+      ],
+      [
         "Sophie Hura",
         0.0
       ],
@@ -1540,10 +1552,6 @@
       ],
       [
         "Siham Benz",
-        0.0
-      ],
-      [
-        "Siona Cobb",
         0.0
       ],
       [
@@ -3099,8 +3107,8 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 87,
-      "leads_total": 309,
+      "leads_30d": 86,
+      "leads_total": 213,
       "opps_total": 253,
       "opps_qualified": 1,
       "opps_won": 5
@@ -3109,7 +3117,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 78,
-      "leads_total": 248,
+      "leads_total": 173,
       "opps_total": 248,
       "opps_qualified": 0,
       "opps_won": 13
@@ -3118,7 +3126,7 @@
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 103,
-      "leads_total": 342,
+      "leads_total": 239,
       "opps_total": 247,
       "opps_qualified": 1,
       "opps_won": 8
@@ -3127,7 +3135,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 102,
-      "leads_total": 339,
+      "leads_total": 233,
       "opps_total": 147,
       "opps_qualified": 1,
       "opps_won": 4
