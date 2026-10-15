@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-15T13:03:42.354355+00:00",
+  "generated_at": "2026-10-15T13:34:22.643386+00:00",
   "totals": {
-    "total_leads": 1324,
-    "leads_30d": 366,
-    "total_opps": 940,
+    "total_leads": 1325,
+    "leads_30d": 365,
+    "total_opps": 941,
     "calls_booked_ever": 162,
     "ppas_signed": 31,
     "pipeline_value": 154675000,
@@ -11,13 +11,13 @@
     "valued_builds": 207
   },
   "meta_spend": {
-    "spend": 8107.44,
-    "leads": 268
+    "spend": 8116.75,
+    "leads": 269
   },
   "channels_30d": {
     "Meta": 268,
     "Eligibility": 5,
-    "REA": 83,
+    "REA": 82,
     "Contact": 8,
     "Other": 2
   },
@@ -28,14 +28,14 @@
     "Eligibility": 1
   },
   "channels_total": {
-    "Meta": 356,
+    "Meta": 357,
     "Eligibility": 206,
     "REA": 616,
     "Contact": 22,
     "Other": 124
   },
   "stages": {
-    "New Lead": 318,
+    "New Lead": 319,
     "?": 189,
     "Booked": 55,
     "Not Yet Ready": 70,
@@ -221,6 +221,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Natasha Bull",
+        0.0
       ],
       [
         "Denise OShea",
@@ -3101,8 +3105,8 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 77,
-      "leads_total": 248,
-      "opps_total": 248,
+      "leads_total": 249,
+      "opps_total": 249,
       "opps_qualified": 0,
       "opps_won": 13
     },
@@ -3118,7 +3122,7 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 102,
+      "leads_30d": 101,
       "leads_total": 340,
       "opps_total": 148,
       "opps_qualified": 1,
