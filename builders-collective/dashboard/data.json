@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-15T16:07:59.883928+00:00",
+  "generated_at": "2026-10-15T16:38:47.459842+00:00",
   "totals": {
     "total_leads": 1325,
     "leads_30d": 364,
-    "total_opps": 900,
+    "total_opps": 941,
     "calls_booked_ever": 162,
-    "ppas_signed": 23,
-    "pipeline_value": 144750000,
-    "mixed_unit_deals": 14,
-    "valued_builds": 194
+    "ppas_signed": 31,
+    "pipeline_value": 154675000,
+    "mixed_unit_deals": 22,
+    "valued_builds": 207
   },
   "meta_spend": {
-    "spend": 8141.95,
+    "spend": 8142.31,
     "leads": 269
   },
   "channels_30d": {
@@ -35,14 +35,14 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 317,
+    "New Lead": 319,
     "?": 189,
     "Booked": 55,
-    "Not Yet Ready": 56,
-    "Nurturing": 27,
-    "Lost": 216,
+    "Not Yet Ready": 70,
+    "Nurturing": 28,
+    "Lost": 232,
     "Showed Up": 9,
-    "Won \u2014 Build Confirmed": 23,
+    "Won \u2014 Build Confirmed": 31,
     "Qualified": 3,
     "Contract Review": 1,
     "Site Visit Scheduled": 3,
@@ -108,6 +108,10 @@
       ],
       [
         "bhupinder singh \u2014 REA",
+        775000.0
+      ],
+      [
+        "Balamurugan Arumugam",
         775000.0
       ],
       [
@@ -1317,6 +1321,10 @@
       [
         "ted marchese \u2014 REA",
         0.0
+      ],
+      [
+        "Cherith Ferguson \u2014 Eligibility",
+        0.0
       ]
     ],
     "Nurturing": [
@@ -1426,6 +1434,10 @@
       ],
       [
         "Courtney Fear",
+        0.0
+      ],
+      [
+        "Gabriel Purea",
         0.0
       ]
     ],
@@ -1755,6 +1767,10 @@
         30000.0
       ],
       [
+        "Junclar Curit",
+        30000.0
+      ],
+      [
         "Eric Mensah",
         27000.0
       ],
@@ -1795,6 +1811,30 @@
         25000.0
       ],
       [
+        "Codey Stewart",
+        25000.0
+      ],
+      [
+        "James Bismard",
+        25000.0
+      ],
+      [
+        "Arskie David",
+        25000.0
+      ],
+      [
+        "Keah Hall",
+        25000.0
+      ],
+      [
+        "Lee Anne Boon \u2014 Eligibility",
+        25000.0
+      ],
+      [
+        "Stephen Devisoe",
+        20000.0
+      ],
+      [
         "maddison ",
         18000.0
       ],
@@ -1821,6 +1861,10 @@
       [
         "Dakshitha Perera",
         0.0
+      ],
+      [
+        "Omar Al Doski",
+        0.0
       ]
     ],
     "Not Yet Ready": [
@@ -1838,6 +1882,14 @@
       ],
       [
         "amandeep kaur \u2014 REA",
+        775000.0
+      ],
+      [
+        "Nassa Atekhis",
+        775000.0
+      ],
+      [
+        "Abhi Prasad",
         775000.0
       ],
       [
@@ -1866,6 +1918,14 @@
       ],
       [
         "kiralee holcombe \u2014 REA",
+        625000.0
+      ],
+      [
+        "hasna adheeb",
+        625000.0
+      ],
+      [
+        "Andrew Tan",
         625000.0
       ],
       [
@@ -2047,6 +2107,46 @@
       [
         "Louis Peel",
         0.0
+      ],
+      [
+        "Archit",
+        0.0
+      ],
+      [
+        "Jason Williams",
+        0.0
+      ],
+      [
+        "Susannah",
+        0.0
+      ],
+      [
+        "lester caballes",
+        0.0
+      ],
+      [
+        "Laurence Bromley",
+        0.0
+      ],
+      [
+        "Omar autelitano",
+        0.0
+      ],
+      [
+        "Rico",
+        0.0
+      ],
+      [
+        "Andrej and Donna ",
+        0.0
+      ],
+      [
+        "Nic Shields \u2014 Eligibility",
+        0.0
+      ],
+      [
+        "Promise Nechikwira",
+        0.0
       ]
     ],
     "Lost": [
@@ -2120,6 +2220,18 @@
       ],
       [
         "billy ollabis \u2014 REA",
+        925000.0
+      ],
+      [
+        "Jinu George",
+        925000.0
+      ],
+      [
+        "Dhan Gurung",
+        925000.0
+      ],
+      [
+        "Divya patel",
         925000.0
       ],
       [
@@ -2291,6 +2403,18 @@
         775000.0
       ],
       [
+        "Mehran Kh",
+        775000.0
+      ],
+      [
+        "Ashu Arora",
+        775000.0
+      ],
+      [
+        "Hermann Kengwah Kinfer",
+        775000.0
+      ],
+      [
         "Ali Alizada",
         625000.0
       ],
@@ -2359,6 +2483,14 @@
         625000.0
       ],
       [
+        "Laura Soucek",
+        625000.0
+      ],
+      [
+        "Sheenu Chitra",
+        625000.0
+      ],
+      [
         "Christopher Nicdao",
         475000.0
       ],
@@ -2373,6 +2505,10 @@
       [
         "Dechen Wangmo",
         325000.0
+      ],
+      [
+        "Shynae Otway",
+        25000.0
       ],
       [
         "Scott Laundy",
@@ -2913,6 +3049,34 @@
       [
         "Michael  Allia ",
         0.0
+      ],
+      [
+        "Aleksandra Dimovski",
+        0.0
+      ],
+      [
+        "Primrose Ngwende",
+        0.0
+      ],
+      [
+        "Denzil Stephens ",
+        0.0
+      ],
+      [
+        "Mandeep Gill",
+        0.0
+      ],
+      [
+        "G Singh",
+        0.0
+      ],
+      [
+        "Maria Polson \u2014 Eligibility",
+        0.0
+      ],
+      [
+        "Kate De Guzman \u2014 Eligibility",
+        0.0
       ]
     ]
   },
@@ -2920,11 +3084,11 @@
     "?": 35450000.0,
     "Booked": 3575000.0,
     "Qualified": 775000.0,
-    "Lost": 62925000.0,
-    "Not Yet Ready": 7775000.0,
+    "Lost": 69275000.0,
+    "Not Yet Ready": 10575000.0,
     "Won \u2014 Build Confirmed": 2800000.0,
     "Nurturing": 2325000.0,
-    "New Lead": 28500000.0,
+    "New Lead": 29275000.0,
     "Site Visit Scheduled": 625000.0
   },
   "per_rep": {
@@ -2933,34 +3097,34 @@
       "initial": "D",
       "leads_30d": 84,
       "leads_total": 309,
-      "opps_total": 234,
+      "opps_total": 253,
       "opps_qualified": 1,
-      "opps_won": 4
+      "opps_won": 5
     },
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 76,
       "leads_total": 249,
-      "opps_total": 242,
+      "opps_total": 249,
       "opps_qualified": 0,
-      "opps_won": 8
+      "opps_won": 13
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 101,
       "leads_total": 342,
-      "opps_total": 234,
+      "opps_total": 247,
       "opps_qualified": 1,
-      "opps_won": 6
+      "opps_won": 8
     },
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
       "leads_30d": 101,
       "leads_total": 340,
-      "opps_total": 147,
+      "opps_total": 148,
       "opps_qualified": 1,
       "opps_won": 4
     }
