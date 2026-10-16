@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-10-16T06:34:49.960365+00:00",
+  "generated_at": "2026-10-16T07:07:02.948302+00:00",
   "totals": {
-    "total_leads": 800,
-    "leads_30d": 360,
-    "total_opps": 941,
-    "calls_booked_ever": 162,
+    "total_leads": 1328,
+    "leads_30d": 362,
+    "total_opps": 943,
+    "calls_booked_ever": 163,
     "ppas_signed": 31,
     "pipeline_value": 154675000,
     "mixed_unit_deals": 22,
     "valued_builds": 207
   },
   "meta_spend": {
-    "spend": 7969.23006,
-    "leads": 259
+    "spend": 7976.57,
+    "leads": 261
   },
   "channels_30d": {
+    "Meta": 264,
     "REA": 83,
-    "Meta": 262,
     "Eligibility": 5,
     "Contact": 8,
     "Other": 2
   },
   "channels_booked_30d": {
-    "Meta": 40,
+    "Meta": 41,
     "REA": 2,
     "Contact": 2,
     "Eligibility": 1
   },
   "channels_total": {
-    "REA": 286,
-    "Meta": 357,
-    "Eligibility": 101,
-    "Contact": 16,
-    "Other": 40
+    "Meta": 359,
+    "REA": 617,
+    "Eligibility": 206,
+    "Contact": 22,
+    "Other": 124
   },
   "stages": {
-    "New Lead": 318,
-    "?": 190,
-    "Booked": 55,
+    "New Lead": 291,
+    "Booked": 56,
+    "?": 191,
     "Not Yet Ready": 70,
     "Nurturing": 28,
-    "Lost": 232,
+    "Lost": 259,
     "Showed Up": 9,
     "Won \u2014 Build Confirmed": 31,
     "Qualified": 3,
@@ -50,10 +50,6 @@
   },
   "stage_top_deals": {
     "New Lead": [
-      [
-        "ashu tiwari \u2014 REA",
-        925000.0
-      ],
       [
         "angela kelly \u2014 REA",
         925000.0
@@ -71,14 +67,6 @@
         775000.0
       ],
       [
-        "janaka sumathipala \u2014 REA",
-        775000.0
-      ],
-      [
-        "yeshey tshomo \u2014 REA",
-        775000.0
-      ],
-      [
         "josephine mah \u2014 REA",
         775000.0
       ],
@@ -91,15 +79,7 @@
         775000.0
       ],
       [
-        "art tesico \u2014 REA",
-        775000.0
-      ],
-      [
         "wyatt fernihough \u2014 REA",
-        775000.0
-      ],
-      [
-        "arnold baldonado \u2014 REA",
         775000.0
       ],
       [
@@ -111,35 +91,7 @@
         775000.0
       ],
       [
-        "Balamurugan Arumugam",
-        775000.0
-      ],
-      [
-        "maryanne giacoppo \u2014 REA",
-        625000.0
-      ],
-      [
-        "amir irfan \u2014 REA",
-        625000.0
-      ],
-      [
-        "annet poni \u2014 REA",
-        625000.0
-      ],
-      [
-        "natalia farage \u2014 REA",
-        625000.0
-      ],
-      [
-        "raj kaur \u2014 REA",
-        625000.0
-      ],
-      [
         "maria carmody \u2014 REA",
-        625000.0
-      ],
-      [
-        "tracy greenland \u2014 REA",
         625000.0
       ],
       [
@@ -155,35 +107,11 @@
         625000.0
       ],
       [
-        "jheneil sunga \u2014 REA",
-        625000.0
-      ],
-      [
-        "brendan hardy \u2014 REA",
-        625000.0
-      ],
-      [
-        "shaina e \u2014 REA",
-        625000.0
-      ],
-      [
         "bree dawson \u2014 REA",
         625000.0
       ],
       [
-        "siddharth siddharth \u2014 REA",
-        625000.0
-      ],
-      [
         "ellen matthews \u2014 REA",
-        625000.0
-      ],
-      [
-        "andy tanujaya \u2014 REA",
-        625000.0
-      ],
-      [
-        "joanne appaya \u2014 REA",
         625000.0
       ],
       [
@@ -195,32 +123,16 @@
         625000.0
       ],
       [
-        "sitalakshmi arjuna rao \u2014 REA",
-        625000.0
-      ],
-      [
         "ben mbenjele \u2014 REA",
         625000.0
       ],
       [
-        "manisha shankar \u2014 REA",
-        625000.0
-      ],
-      [
-        "fuatai williams \u2014 REA",
-        625000.0
-      ],
-      [
-        "tina and shaun tink \u2014 REA",
-        475000.0
-      ],
-      [
-        "sana aziz \u2014 REA",
-        475000.0
-      ],
-      [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Emma Gaunt",
+        0.0
       ],
       [
         "Natasha Bull",
@@ -1059,10 +971,6 @@
         0.0
       ],
       [
-        "Prisca",
-        0.0
-      ],
-      [
         "Caleb Whitegge",
         0.0
       ],
@@ -1287,27 +1195,11 @@
         0.0
       ],
       [
-        "vaeda ballesteros \u2014 REA",
-        0.0
-      ],
-      [
-        "rochelle anderson \u2014 REA",
-        0.0
-      ],
-      [
         "par kapoor \u2014 REA",
         0.0
       ],
       [
         "Enid Biggs",
-        0.0
-      ],
-      [
-        "diem do \u2014 REA",
-        0.0
-      ],
-      [
-        "wojciech jaroszynski \u2014 REA",
         0.0
       ],
       [
@@ -1457,6 +1349,10 @@
       [
         "John Koshkuson",
         625000.0
+      ],
+      [
+        "Dolly Winch",
+        0.0
       ],
       [
         "Huma Rasuly",
@@ -2211,6 +2107,10 @@
         925000.0
       ],
       [
+        "ashu tiwari \u2014 REA",
+        925000.0
+      ],
+      [
         "tiffany thong \u2014 REA",
         925000.0
       ],
@@ -2335,6 +2235,14 @@
         775000.0
       ],
       [
+        "janaka sumathipala \u2014 REA",
+        775000.0
+      ],
+      [
+        "yeshey tshomo \u2014 REA",
+        775000.0
+      ],
+      [
         "michael sobola \u2014 REA",
         775000.0
       ],
@@ -2367,6 +2275,10 @@
         775000.0
       ],
       [
+        "art tesico \u2014 REA",
+        775000.0
+      ],
+      [
         "lovemore rungwe \u2014 REA",
         775000.0
       ],
@@ -2380,6 +2292,10 @@
       ],
       [
         "anil maurya \u2014 REA",
+        775000.0
+      ],
+      [
+        "arnold baldonado \u2014 REA",
         775000.0
       ],
       [
@@ -2439,7 +2355,19 @@
         625000.0
       ],
       [
+        "maryanne giacoppo \u2014 REA",
+        625000.0
+      ],
+      [
         "stacey cutinho \u2014 REA",
+        625000.0
+      ],
+      [
+        "amir irfan \u2014 REA",
+        625000.0
+      ],
+      [
+        "annet poni \u2014 REA",
         625000.0
       ],
       [
@@ -2455,7 +2383,19 @@
         625000.0
       ],
       [
+        "natalia farage \u2014 REA",
+        625000.0
+      ],
+      [
         "jane damodaram \u2014 REA",
+        625000.0
+      ],
+      [
+        "raj kaur \u2014 REA",
+        625000.0
+      ],
+      [
+        "tracy greenland \u2014 REA",
         625000.0
       ],
       [
@@ -2463,7 +2403,39 @@
         625000.0
       ],
       [
+        "jheneil sunga \u2014 REA",
+        625000.0
+      ],
+      [
         "austin van \u2014 REA",
+        625000.0
+      ],
+      [
+        "brendan hardy \u2014 REA",
+        625000.0
+      ],
+      [
+        "shaina e \u2014 REA",
+        625000.0
+      ],
+      [
+        "siddharth siddharth \u2014 REA",
+        625000.0
+      ],
+      [
+        "andy tanujaya \u2014 REA",
+        625000.0
+      ],
+      [
+        "joanne appaya \u2014 REA",
+        625000.0
+      ],
+      [
+        "sitalakshmi arjuna rao \u2014 REA",
+        625000.0
+      ],
+      [
+        "manisha shankar \u2014 REA",
         625000.0
       ],
       [
@@ -2479,6 +2451,10 @@
         625000.0
       ],
       [
+        "fuatai williams \u2014 REA",
+        625000.0
+      ],
+      [
         "Laura Soucek",
         625000.0
       ],
@@ -2488,6 +2464,14 @@
       ],
       [
         "Christopher Nicdao",
+        475000.0
+      ],
+      [
+        "tina and shaun tink \u2014 REA",
+        475000.0
+      ],
+      [
+        "sana aziz \u2014 REA",
         475000.0
       ],
       [
@@ -2632,6 +2616,10 @@
       ],
       [
         "Arezo Sharifi",
+        0.0
+      ],
+      [
+        "Prisca",
         0.0
       ],
       [
@@ -3003,6 +2991,10 @@
         0.0
       ],
       [
+        "vaeda ballesteros \u2014 REA",
+        0.0
+      ],
+      [
         "diane parallag \u2014 REA",
         0.0
       ],
@@ -3015,11 +3007,23 @@
         0.0
       ],
       [
+        "rochelle anderson \u2014 REA",
+        0.0
+      ],
+      [
         "sam j \u2014 REA",
         0.0
       ],
       [
         "bhavit bhalsod \u2014 REA",
+        0.0
+      ],
+      [
+        "diem do \u2014 REA",
+        0.0
+      ],
+      [
+        "wojciech jaroszynski \u2014 REA",
         0.0
       ],
       [
@@ -3077,23 +3081,23 @@
     ]
   },
   "stage_pipeline_value": {
-    "?": 35450000.0,
+    "?": 36225000.0,
     "Booked": 3575000.0,
     "Qualified": 775000.0,
-    "Lost": 69275000.0,
+    "Lost": 83625000.0,
     "Not Yet Ready": 10575000.0,
     "Won \u2014 Build Confirmed": 2800000.0,
     "Nurturing": 2325000.0,
-    "New Lead": 29275000.0,
-    "Site Visit Scheduled": 625000.0
+    "Site Visit Scheduled": 625000.0,
+    "New Lead": 14150000.0
   },
   "per_rep": {
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 82,
-      "leads_total": 191,
-      "opps_total": 253,
+      "leads_30d": 83,
+      "leads_total": 310,
+      "opps_total": 223,
       "opps_qualified": 1,
       "opps_won": 5
     },
@@ -3101,7 +3105,7 @@
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 75,
-      "leads_total": 157,
+      "leads_total": 249,
       "opps_total": 249,
       "opps_qualified": 0,
       "opps_won": 13
@@ -3109,9 +3113,9 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 101,
-      "leads_total": 212,
-      "opps_total": 247,
+      "leads_30d": 102,
+      "leads_total": 344,
+      "opps_total": 205,
       "opps_qualified": 1,
       "opps_won": 8
     },
@@ -3119,7 +3123,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 100,
-      "leads_total": 205,
+      "leads_total": 340,
       "opps_total": 148,
       "opps_qualified": 1,
       "opps_won": 4
