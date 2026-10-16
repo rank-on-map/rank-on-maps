@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T03:53:23.862095+00:00",
+  "generated_at": "2026-10-16T04:24:08.878618+00:00",
   "totals": {
     "total_leads": 1326,
     "leads_30d": 362,
@@ -11,7 +11,7 @@
     "valued_builds": 207
   },
   "meta_spend": {
-    "spend": 7933.289949,
+    "spend": 7939.859941,
     "leads": 259
   },
   "channels_30d": {
@@ -35,8 +35,8 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 319,
-    "?": 189,
+    "New Lead": 318,
+    "?": 190,
     "Booked": 55,
     "Not Yet Ready": 70,
     "Nurturing": 28,
@@ -276,10 +276,6 @@
       ],
       [
         "Brent Crossman",
-        0.0
-      ],
-      [
-        "Peta Lock",
         0.0
       ],
       [
