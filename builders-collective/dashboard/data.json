@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-16T09:11:51.636448+00:00",
+  "generated_at": "2026-10-16T09:43:31.923506+00:00",
   "totals": {
     "total_leads": 1329,
     "leads_30d": 362,
-    "total_opps": 400,
+    "total_opps": 600,
     "calls_booked_ever": 164,
-    "ppas_signed": 1,
-    "pipeline_value": 25050000,
-    "mixed_unit_deals": 1,
-    "valued_builds": 32
+    "ppas_signed": 10,
+    "pipeline_value": 52800000,
+    "mixed_unit_deals": 4,
+    "valued_builds": 68
   },
   "meta_spend": {
-    "spend": 8011.23,
+    "spend": 8019.9,
     "leads": 261
   },
   "channels_30d": {
@@ -35,14 +35,14 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 176,
-    "Booked": 27,
-    "?": 150,
-    "Not Yet Ready": 9,
-    "Nurturing": 16,
-    "Lost": 15,
-    "Showed Up": 3,
-    "Won \u2014 Build Confirmed": 1,
+    "New Lead": 222,
+    "Booked": 40,
+    "?": 187,
+    "Not Yet Ready": 31,
+    "Nurturing": 19,
+    "Lost": 84,
+    "Showed Up": 4,
+    "Won \u2014 Build Confirmed": 10,
     "Qualified": 1,
     "Contract Review": 1,
     "Site Visit Scheduled": 1
@@ -752,6 +752,190 @@
       [
         "Sheree Howard",
         0.0
+      ],
+      [
+        "Desmond Reginald Minter",
+        0.0
+      ],
+      [
+        "Jacob Milovitch",
+        0.0
+      ],
+      [
+        "Nicole Carrazedo",
+        0.0
+      ],
+      [
+        "Lyssa Campbell",
+        0.0
+      ],
+      [
+        "Jason Grigio",
+        0.0
+      ],
+      [
+        "yasin buke",
+        0.0
+      ],
+      [
+        "lee katherine lim",
+        0.0
+      ],
+      [
+        "s_verden@hotmail.com",
+        0.0
+      ],
+      [
+        "krisada kongtakool",
+        0.0
+      ],
+      [
+        "roni larden",
+        0.0
+      ],
+      [
+        "rin chainet",
+        0.0
+      ],
+      [
+        "hemlata bhanot",
+        0.0
+      ],
+      [
+        "david cloudesley",
+        0.0
+      ],
+      [
+        "Florence  Vint",
+        0.0
+      ],
+      [
+        "Bradley Kuhn",
+        0.0
+      ],
+      [
+        "Brad Dyer",
+        0.0
+      ],
+      [
+        "Paige Corunna",
+        0.0
+      ],
+      [
+        "Molly Sim\u2019s ",
+        0.0
+      ],
+      [
+        "Jamie  Schofield ",
+        0.0
+      ],
+      [
+        "Julie Andrews",
+        0.0
+      ],
+      [
+        "Ashley Dilworth",
+        0.0
+      ],
+      [
+        "Rinchen Choden",
+        0.0
+      ],
+      [
+        "KESAVAN KUTTY VG PANICKER",
+        0.0
+      ],
+      [
+        "G Asok",
+        0.0
+      ],
+      [
+        "Samuel Platt",
+        0.0
+      ],
+      [
+        "Caleb Whitegge",
+        0.0
+      ],
+      [
+        "Bevan Ong",
+        0.0
+      ],
+      [
+        "Adele Cowin",
+        0.0
+      ],
+      [
+        "Sam Elliott",
+        0.0
+      ],
+      [
+        "Natasha Kovacevic ",
+        0.0
+      ],
+      [
+        "David Jonker",
+        0.0
+      ],
+      [
+        "Diethard Lewin",
+        0.0
+      ],
+      [
+        "Ashley Eldon",
+        0.0
+      ],
+      [
+        "Kira Webb",
+        0.0
+      ],
+      [
+        "Kloe Gordon",
+        0.0
+      ],
+      [
+        "Bob Bobby",
+        0.0
+      ],
+      [
+        "Charmaine Orlowski",
+        0.0
+      ],
+      [
+        "Jordan Spampinato ",
+        0.0
+      ],
+      [
+        "Annalise Theodorakis",
+        0.0
+      ],
+      [
+        "Jesse Grant",
+        0.0
+      ],
+      [
+        "Mark Parikh",
+        0.0
+      ],
+      [
+        "Casey Taylor",
+        0.0
+      ],
+      [
+        "Wayne Morgan",
+        0.0
+      ],
+      [
+        "Lucas  Glass",
+        0.0
+      ],
+      [
+        "Erica Huriwai",
+        0.0
+      ],
+      [
+        "Nicole  Bridger",
+        0.0
       ]
     ],
     "Nurturing": [
@@ -817,6 +1001,18 @@
       ],
       [
         "Sophie Hura",
+        0.0
+      ],
+      [
+        "Kim Lewis",
+        0.0
+      ],
+      [
+        "Jaymie Robinson",
+        0.0
+      ],
+      [
+        "Cathy Chau",
         0.0
       ]
     ],
@@ -928,6 +1124,58 @@
       [
         "Shirley Wg",
         0.0
+      ],
+      [
+        "Judy Underhill",
+        0.0
+      ],
+      [
+        "Monica d",
+        0.0
+      ],
+      [
+        "wazza...",
+        0.0
+      ],
+      [
+        "Cheyenne Doughty",
+        0.0
+      ],
+      [
+        "Tracy And Paul Thomson",
+        0.0
+      ],
+      [
+        "Chantel Nind",
+        0.0
+      ],
+      [
+        "Kenny Mckinnon",
+        0.0
+      ],
+      [
+        "Wajiha Ali",
+        0.0
+      ],
+      [
+        "Sharaine Howson",
+        0.0
+      ],
+      [
+        "Declan  Kendrick ",
+        0.0
+      ],
+      [
+        "Pasquale Bambaci",
+        0.0
+      ],
+      [
+        "Simeon Omonze ",
+        0.0
+      ],
+      [
+        "Lauren Athanasoff",
+        0.0
       ]
     ],
     "Showed Up": [
@@ -941,6 +1189,10 @@
       ],
       [
         "David Jehan",
+        0.0
+      ],
+      [
+        "Chris Jones",
         0.0
       ]
     ],
@@ -965,11 +1217,63 @@
     ],
     "Won \u2014 Build Confirmed": [
       [
+        "Nicholas Mentiplay",
+        775000.0
+      ],
+      [
+        "clement Mensah",
+        625000.0
+      ],
+      [
+        "Hayden Wood",
+        30000.0
+      ],
+      [
+        "Eric Mensah",
+        27000.0
+      ],
+      [
         "Rabab Difaii",
         25000.0
+      ],
+      [
+        "Solaimuthu Muthu",
+        25000.0
+      ],
+      [
+        "Katerina De Battista ",
+        0.0
+      ],
+      [
+        "Jess  Buck ",
+        0.0
+      ],
+      [
+        "Jordan Bruce",
+        0.0
+      ],
+      [
+        "Manish Malla",
+        0.0
       ]
     ],
     "Not Yet Ready": [
+      [
+        "Joel Ritchie",
+        1075000.0
+      ],
+      [
+        "Kuwar Batra",
+        775000.0
+      ],
+      [
+        "Janak Bhandari",
+        775000.0
+      ],
+      [
+        "Aiza Alburo",
+        625000.0
+      ],
       [
         "Kristi Reeves Glossop",
         0.0
@@ -1005,9 +1309,157 @@
       [
         "Christie Halstead",
         0.0
+      ],
+      [
+        "Martin Kennedy",
+        0.0
+      ],
+      [
+        "",
+        0.0
+      ],
+      [
+        "Jane Wanjiru",
+        0.0
+      ],
+      [
+        "Margot Slaughter",
+        0.0
+      ],
+      [
+        "Jaiden Barker",
+        0.0
+      ],
+      [
+        "Sydney  Payne",
+        0.0
+      ],
+      [
+        "Devon Smith",
+        0.0
+      ],
+      [
+        "Partap Singh",
+        0.0
+      ],
+      [
+        "Sam Evans ",
+        0.0
+      ],
+      [
+        "Deanne  Terpstra ",
+        0.0
+      ],
+      [
+        "Adam Strongman",
+        0.0
+      ],
+      [
+        "Braydon  Fidge",
+        0.0
+      ],
+      [
+        "Janelle Sim",
+        0.0
+      ],
+      [
+        "Michelle  P",
+        0.0
+      ],
+      [
+        "Prabesh Khatri",
+        0.0
+      ],
+      [
+        "Mariam Atieh",
+        0.0
+      ],
+      [
+        "Noah Weston",
+        0.0
+      ],
+      [
+        "",
+        0.0
       ]
     ],
     "Lost": [
+      [
+        "KARIN Dautzenberg",
+        1225000.0
+      ],
+      [
+        "Jody Cole",
+        1075000.0
+      ],
+      [
+        "Denny Uneputty",
+        1075000.0
+      ],
+      [
+        "Monisha Monisha",
+        925000.0
+      ],
+      [
+        "Arron Mc Kenna",
+        925000.0
+      ],
+      [
+        "Hardikkumar  Gandhi ",
+        775000.0
+      ],
+      [
+        "Emi Vijitra Taboon",
+        775000.0
+      ],
+      [
+        "Manny Vekaria",
+        775000.0
+      ],
+      [
+        "pranjal Patel",
+        775000.0
+      ],
+      [
+        "Narayanan Kannan",
+        775000.0
+      ],
+      [
+        "Jimmy Foley",
+        775000.0
+      ],
+      [
+        "Ric Bien Hipolito",
+        775000.0
+      ],
+      [
+        "Adam williams",
+        775000.0
+      ],
+      [
+        "Donna Pryor",
+        775000.0
+      ],
+      [
+        "Miriam Igasan",
+        775000.0
+      ],
+      [
+        "Ali Alizada",
+        625000.0
+      ],
+      [
+        "Rica lyn Marquez",
+        625000.0
+      ],
+      [
+        "Christopher Nicdao",
+        475000.0
+      ],
+      [
+        "Toni Zwicker",
+        325000.0
+      ],
       [
         "Scott Laundy",
         0.0
@@ -1067,13 +1519,216 @@
       [
         "Ricky Ugle",
         0.0
+      ],
+      [
+        "Donald Clifton Jones",
+        0.0
+      ],
+      [
+        "bomber webster",
+        0.0
+      ],
+      [
+        "Jesse Marijanich",
+        0.0
+      ],
+      [
+        "Faruk Khan",
+        0.0
+      ],
+      [
+        "Jesse Alcedo",
+        0.0
+      ],
+      [
+        "Bronson Love",
+        0.0
+      ],
+      [
+        "Les Edwards",
+        0.0
+      ],
+      [
+        "Corfield Seinor",
+        0.0
+      ],
+      [
+        "John Marsh",
+        0.0
+      ],
+      [
+        "Faith Hornigold ",
+        0.0
+      ],
+      [
+        "Mo Wang",
+        0.0
+      ],
+      [
+        "Peter Luobikis",
+        0.0
+      ],
+      [
+        "Carla Murphy",
+        0.0
+      ],
+      [
+        "Keegan Bennett",
+        0.0
+      ],
+      [
+        "Eve Williamson ",
+        0.0
+      ],
+      [
+        "Hasindu yenuka",
+        0.0
+      ],
+      [
+        "Arezo Sharifi",
+        0.0
+      ],
+      [
+        "Prisca",
+        0.0
+      ],
+      [
+        "Ting",
+        0.0
+      ],
+      [
+        "Grace Quach",
+        0.0
+      ],
+      [
+        "PREETHY TITTU",
+        0.0
+      ],
+      [
+        "Zohaib  Shan",
+        0.0
+      ],
+      [
+        "Tiffany Christopher",
+        0.0
+      ],
+      [
+        "Sarah Moyes",
+        0.0
+      ],
+      [
+        "Carmel Morgan",
+        0.0
+      ],
+      [
+        "Bronson Scanlan ",
+        0.0
+      ],
+      [
+        "Andrea Chin",
+        0.0
+      ],
+      [
+        "Iesha Deane",
+        0.0
+      ],
+      [
+        "Sadiq Wafa",
+        0.0
+      ],
+      [
+        "Nikita Goveas",
+        0.0
+      ],
+      [
+        "Kavya Wijenayake",
+        0.0
+      ],
+      [
+        "Symonne Sykes",
+        0.0
+      ],
+      [
+        "Cody Jayes",
+        0.0
+      ],
+      [
+        "Sam Ph",
+        0.0
+      ],
+      [
+        "Jeyakumar Tharmakulasingam 1",
+        0.0
+      ],
+      [
+        "Stephen  Davies",
+        0.0
+      ],
+      [
+        "Vance Vu",
+        0.0
+      ],
+      [
+        "Clement Mathieux ",
+        0.0
+      ],
+      [
+        "Angelina Steele",
+        0.0
+      ],
+      [
+        "Christine Richter",
+        0.0
+      ],
+      [
+        "Michael Rozic",
+        0.0
+      ],
+      [
+        "",
+        0.0
+      ],
+      [
+        "Kevin Loreto",
+        0.0
+      ],
+      [
+        "Nicole Murazvu",
+        0.0
+      ],
+      [
+        "Megan Crossley",
+        0.0
+      ],
+      [
+        "Ettiene Terblanche",
+        0.0
+      ],
+      [
+        "Michelle Walker",
+        0.0
+      ],
+      [
+        "Riki Tai",
+        0.0
+      ],
+      [
+        "Jo Iongi",
+        0.0
+      ],
+      [
+        "Maya Sharpe",
+        0.0
       ]
     ]
   },
   "stage_pipeline_value": {
-    "?": 22400000.0,
+    "?": 30475000.0,
     "Booked": 1875000.0,
-    "Qualified": 775000.0
+    "Qualified": 775000.0,
+    "Lost": 15025000.0,
+    "Not Yet Ready": 3250000.0,
+    "Won \u2014 Build Confirmed": 1400000.0
   },
   "per_rep": {
     "nNlkTC2z33NTPyxTxdE8": {
@@ -1081,36 +1736,36 @@
       "initial": "D",
       "leads_30d": 84,
       "leads_total": 311,
-      "opps_total": 91,
+      "opps_total": 139,
       "opps_qualified": 1,
-      "opps_won": 0
+      "opps_won": 3
     },
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
       "leads_30d": 75,
       "leads_total": 249,
-      "opps_total": 95,
+      "opps_total": 158,
       "opps_qualified": 0,
-      "opps_won": 1
+      "opps_won": 3
     },
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 101,
       "leads_total": 344,
-      "opps_total": 90,
+      "opps_total": 123,
       "opps_qualified": 0,
-      "opps_won": 0
+      "opps_won": 3
     },
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
       "leads_30d": 100,
       "leads_total": 340,
-      "opps_total": 76,
+      "opps_total": 95,
       "opps_qualified": 0,
-      "opps_won": 0
+      "opps_won": 1
     }
   },
   "round_robin": {
