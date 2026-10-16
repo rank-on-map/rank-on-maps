@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-10-16T07:07:02.948302+00:00",
+  "generated_at": "2026-10-16T07:37:56.790926+00:00",
   "totals": {
-    "total_leads": 1328,
-    "leads_30d": 362,
+    "total_leads": 1329,
+    "leads_30d": 363,
     "total_opps": 943,
-    "calls_booked_ever": 163,
+    "calls_booked_ever": 164,
     "ppas_signed": 31,
     "pipeline_value": 154675000,
     "mixed_unit_deals": 22,
     "valued_builds": 207
   },
   "meta_spend": {
-    "spend": 7976.57,
+    "spend": 7985.42,
     "leads": 261
   },
   "channels_30d": {
+    "REA": 84,
     "Meta": 264,
-    "REA": 83,
     "Eligibility": 5,
     "Contact": 8,
     "Other": 2
   },
   "channels_booked_30d": {
-    "Meta": 41,
+    "Meta": 42,
     "REA": 2,
     "Contact": 2,
     "Eligibility": 1
   },
   "channels_total": {
+    "REA": 618,
     "Meta": 359,
-    "REA": 617,
     "Eligibility": 206,
     "Contact": 22,
     "Other": 124
   },
   "stages": {
-    "New Lead": 291,
-    "Booked": 56,
+    "New Lead": 290,
+    "Booked": 55,
     "?": 191,
     "Not Yet Ready": 70,
-    "Nurturing": 28,
+    "Nurturing": 30,
     "Lost": 259,
     "Showed Up": 9,
     "Won \u2014 Build Confirmed": 31,
@@ -648,10 +648,6 @@
       ],
       [
         "Amy Attwood",
-        0.0
-      ],
-      [
-        "Samantha Zagar",
         0.0
       ],
       [
@@ -1281,6 +1277,10 @@
         0.0
       ],
       [
+        "Princess  Oyelowo",
+        0.0
+      ],
+      [
         "Kim Lewis",
         0.0
       ],
@@ -1290,6 +1290,10 @@
       ],
       [
         "Cathy Chau",
+        0.0
+      ],
+      [
+        "Leon Smith",
         0.0
       ],
       [
@@ -1395,6 +1399,10 @@
         0.0
       ],
       [
+        "Samantha Zagar",
+        0.0
+      ],
+      [
         "Kelby Wakeman",
         0.0
       ],
@@ -1455,10 +1463,6 @@
         0.0
       ],
       [
-        "Princess  Oyelowo",
-        0.0
-      ],
-      [
         "Cheyenne Doughty",
         0.0
       ],
@@ -1488,10 +1492,6 @@
       ],
       [
         "Pasquale Bambaci",
-        0.0
-      ],
-      [
-        "Leon Smith",
         0.0
       ],
       [
@@ -3095,8 +3095,8 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 83,
-      "leads_total": 310,
+      "leads_30d": 84,
+      "leads_total": 311,
       "opps_total": 223,
       "opps_qualified": 1,
       "opps_won": 5
