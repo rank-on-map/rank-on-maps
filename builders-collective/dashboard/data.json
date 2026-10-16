@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T07:37:56.790926+00:00",
+  "generated_at": "2026-10-16T08:08:39.337660+00:00",
   "totals": {
     "total_leads": 1329,
     "leads_30d": 363,
@@ -11,7 +11,7 @@
     "valued_builds": 207
   },
   "meta_spend": {
-    "spend": 7985.42,
+    "spend": 7993.059949,
     "leads": 261
   },
   "channels_30d": {
@@ -35,11 +35,11 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 290,
+    "New Lead": 283,
     "Booked": 55,
-    "?": 191,
+    "?": 203,
     "Not Yet Ready": 70,
-    "Nurturing": 30,
+    "Nurturing": 25,
     "Lost": 259,
     "Showed Up": 9,
     "Won \u2014 Build Confirmed": 31,
@@ -527,19 +527,11 @@
         0.0
       ],
       [
-        "Nadia Paki",
-        0.0
-      ],
-      [
         "John Phillips",
         0.0
       ],
       [
         "Danielle Ward",
-        0.0
-      ],
-      [
-        "Marc Goddard",
         0.0
       ],
       [
@@ -567,10 +559,6 @@
         0.0
       ],
       [
-        "Mark Fawcett",
-        0.0
-      ],
-      [
         "Nicholas Elward",
         0.0
       ],
@@ -588,10 +576,6 @@
       ],
       [
         "Codie Hickling",
-        0.0
-      ],
-      [
-        "Chris Lethlean",
         0.0
       ],
       [
@@ -627,23 +611,11 @@
         0.0
       ],
       [
-        "Kurt Eberhardt",
-        0.0
-      ],
-      [
-        "James Bailey",
-        0.0
-      ],
-      [
         "Viene Bermejo",
         0.0
       ],
       [
         "Christie Sessler",
-        0.0
-      ],
-      [
-        "Shani Collins",
         0.0
       ],
       [
@@ -1245,7 +1217,15 @@
         0.0
       ],
       [
+        "Mark Fawcett",
+        0.0
+      ],
+      [
         "Gerard Lamaro",
+        0.0
+      ],
+      [
+        "James Bailey",
         0.0
       ],
       [
@@ -1277,10 +1257,6 @@
         0.0
       ],
       [
-        "Princess  Oyelowo",
-        0.0
-      ],
-      [
         "Kim Lewis",
         0.0
       ],
@@ -1293,10 +1269,6 @@
         0.0
       ],
       [
-        "Leon Smith",
-        0.0
-      ],
-      [
         "Megan Kjellgren",
         0.0
       ],
@@ -1305,31 +1277,11 @@
         0.0
       ],
       [
-        "Isioma Onyemgba",
-        0.0
-      ],
-      [
-        "Joshua Endersby",
-        0.0
-      ],
-      [
         "Sarah Oldfield",
         0.0
       ],
       [
-        "Peter  Haydon-Wood ",
-        0.0
-      ],
-      [
-        "Hanna Zurub",
-        0.0
-      ],
-      [
         "Courtney Fear",
-        0.0
-      ],
-      [
-        "Gabriel Purea",
         0.0
       ]
     ],
