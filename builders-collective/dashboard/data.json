@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T08:08:39.337660+00:00",
+  "generated_at": "2026-10-16T08:40:16.496716+00:00",
   "totals": {
     "total_leads": 1329,
-    "leads_30d": 363,
+    "leads_30d": 362,
     "total_opps": 943,
     "calls_booked_ever": 164,
     "ppas_signed": 31,
@@ -11,12 +11,12 @@
     "valued_builds": 207
   },
   "meta_spend": {
-    "spend": 7993.059949,
+    "spend": 8002.02,
     "leads": 261
   },
   "channels_30d": {
     "REA": 84,
-    "Meta": 264,
+    "Meta": 263,
     "Eligibility": 5,
     "Contact": 8,
     "Other": 2
@@ -35,11 +35,11 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 283,
+    "New Lead": 282,
     "Booked": 55,
     "?": 203,
     "Not Yet Ready": 70,
-    "Nurturing": 25,
+    "Nurturing": 26,
     "Lost": 259,
     "Showed Up": 9,
     "Won \u2014 Build Confirmed": 31,
@@ -679,10 +679,6 @@
         0.0
       ],
       [
-        "Kara Savage",
-        0.0
-      ],
-      [
         "Paul Tabb",
         0.0
       ],
@@ -1226,6 +1222,10 @@
       ],
       [
         "James Bailey",
+        0.0
+      ],
+      [
+        "Kara Savage",
         0.0
       ],
       [
@@ -3065,7 +3065,7 @@
     "aWX3pK2BGS2WMaZzN5T4": {
       "name": "Hasib",
       "initial": "H",
-      "leads_30d": 102,
+      "leads_30d": 101,
       "leads_total": 344,
       "opps_total": 205,
       "opps_qualified": 1,
