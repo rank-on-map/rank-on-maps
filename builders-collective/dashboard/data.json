@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-17T03:29:33.402032+00:00",
+  "generated_at": "2026-10-17T04:00:11.543856+00:00",
   "totals": {
     "total_leads": 1334,
     "leads_30d": 359,
     "total_opps": 944,
-    "calls_booked_ever": 164,
+    "calls_booked_ever": 165,
     "ppas_signed": 31,
     "pipeline_value": 154675000,
     "mixed_unit_deals": 22,
     "valued_builds": 207
   },
   "meta_spend": {
-    "spend": 8019.219905,
+    "spend": 8027.99,
     "leads": 254
   },
   "channels_30d": {
@@ -22,7 +22,7 @@
     "Other": 2
   },
   "channels_booked_30d": {
-    "Meta": 39,
+    "Meta": 40,
     "REA": 2,
     "Contact": 2,
     "Eligibility": 1
@@ -35,8 +35,8 @@
     "Other": 124
   },
   "stages": {
-    "New Lead": 282,
-    "Booked": 55,
+    "New Lead": 281,
+    "Booked": 56,
     "?": 204,
     "Not Yet Ready": 70,
     "Nurturing": 26,
@@ -436,10 +436,6 @@
       ],
       [
         "Nadia Moore",
-        0.0
-      ],
-      [
-        "Kim Gleeson",
         0.0
       ],
       [
@@ -1328,6 +1324,10 @@
       ],
       [
         "Francis Van Der Meer",
+        0.0
+      ],
+      [
+        "Kim Gleeson",
         0.0
       ],
       [
