@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-17T13:42:53.939998+00:00",
+  "generated_at": "2026-10-17T14:13:28.055931+00:00",
   "totals": {
-    "total_leads": 1341,
+    "total_leads": 1342,
     "leads_30d": 360,
-    "total_opps": 949,
+    "total_opps": 950,
     "calls_booked_ever": 165,
     "ppas_signed": 31,
     "pipeline_value": 155450000,
@@ -11,8 +11,8 @@
     "valued_builds": 208
   },
   "meta_spend": {
-    "spend": 8169.73,
-    "leads": 257
+    "spend": 8175.649874,
+    "leads": 258
   },
   "channels_30d": {
     "Meta": 257,
@@ -28,14 +28,14 @@
     "Eligibility": 1
   },
   "channels_total": {
-    "Meta": 363,
+    "Meta": 364,
     "REA": 626,
     "Eligibility": 206,
     "Contact": 22,
     "Other": 124
   },
   "stages": {
-    "New Lead": 282,
+    "New Lead": 283,
     "?": 209,
     "Booked": 54,
     "Not Yet Ready": 70,
@@ -129,6 +129,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "Gladys Ugle",
+        0.0
       ],
       [
         "Ryan Walsh",
@@ -3047,7 +3051,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 83,
+      "leads_30d": 82,
       "leads_total": 313,
       "opps_total": 224,
       "opps_qualified": 1,
@@ -3074,9 +3078,9 @@
     "L3j2TVvp2VBUFZG6qP1l": {
       "name": "Masih",
       "initial": "M",
-      "leads_30d": 104,
-      "leads_total": 347,
-      "opps_total": 149,
+      "leads_30d": 105,
+      "leads_total": 348,
+      "opps_total": 150,
       "opps_qualified": 1,
       "opps_won": 4
     }
