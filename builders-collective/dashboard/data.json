@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T05:32:59.530607+00:00",
+  "generated_at": "2026-10-17T06:03:49.436873+00:00",
   "totals": {
     "total_leads": 1334,
-    "leads_30d": 359,
+    "leads_30d": 358,
     "total_opps": 946,
     "calls_booked_ever": 165,
     "ppas_signed": 31,
@@ -11,18 +11,18 @@
     "valued_builds": 208
   },
   "meta_spend": {
-    "spend": 8051.99,
+    "spend": 8061.23,
     "leads": 254
   },
   "channels_30d": {
     "REA": 86,
-    "Meta": 258,
+    "Meta": 257,
     "Eligibility": 5,
     "Contact": 8,
     "Other": 2
   },
   "channels_booked_30d": {
-    "Meta": 40,
+    "Meta": 39,
     "REA": 2,
     "Contact": 2,
     "Eligibility": 1
@@ -35,13 +35,13 @@
     "Other": 124
   },
   "stages": {
-    "?": 208,
+    "?": 209,
     "New Lead": 279,
-    "Booked": 56,
+    "Booked": 54,
     "Not Yet Ready": 70,
-    "Nurturing": 26,
+    "Nurturing": 25,
+    "Showed Up": 11,
     "Lost": 259,
-    "Showed Up": 9,
     "Won \u2014 Build Confirmed": 31,
     "Qualified": 3,
     "Contract Review": 1,
@@ -1233,10 +1233,6 @@
         0.0
       ],
       [
-        "Faye Smith",
-        0.0
-      ],
-      [
         "Siona Cobb",
         0.0
       ],
@@ -1324,10 +1320,6 @@
       ],
       [
         "Alan O\u2019Toole",
-        0.0
-      ],
-      [
-        "Tony Caird",
         0.0
       ],
       [
@@ -1443,10 +1435,6 @@
         0.0
       ],
       [
-        "Lauren Athanasoff",
-        0.0
-      ],
-      [
         "Geir Cuizon",
         0.0
       ],
@@ -1501,6 +1489,10 @@
     ],
     "Showed Up": [
       [
+        "Tony Caird",
+        0.0
+      ],
+      [
         "Isaac Barclay",
         0.0
       ],
@@ -1514,6 +1506,10 @@
       ],
       [
         "Chris Jones",
+        0.0
+      ],
+      [
+        "Lauren Athanasoff",
         0.0
       ],
       [
@@ -3039,7 +3035,7 @@
     "nNlkTC2z33NTPyxTxdE8": {
       "name": "David",
       "initial": "D",
-      "leads_30d": 82,
+      "leads_30d": 81,
       "leads_total": 311,
       "opps_total": 223,
       "opps_qualified": 1,
