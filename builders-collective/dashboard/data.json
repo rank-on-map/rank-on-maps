@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-17T16:48:19.383877+00:00",
+  "generated_at": "2026-10-17T17:18:54.900748+00:00",
   "totals": {
-    "total_leads": 1342,
-    "leads_30d": 358,
-    "total_opps": 950,
+    "total_leads": 600,
+    "leads_30d": 359,
+    "total_opps": 951,
     "calls_booked_ever": 165,
     "ppas_signed": 31,
     "pipeline_value": 155450000,
@@ -15,7 +15,7 @@
     "leads": 258
   },
   "channels_30d": {
-    "Meta": 256,
+    "Meta": 257,
     "REA": 88,
     "Eligibility": 5,
     "Contact": 7,
@@ -28,14 +28,14 @@
     "Eligibility": 1
   },
   "channels_total": {
-    "Meta": 364,
-    "REA": 626,
-    "Eligibility": 206,
-    "Contact": 22,
-    "Other": 124
+    "Meta": 365,
+    "REA": 175,
+    "Eligibility": 33,
+    "Contact": 11,
+    "Other": 16
   },
   "stages": {
-    "New Lead": 283,
+    "New Lead": 284,
     "?": 209,
     "Booked": 54,
     "Not Yet Ready": 70,
@@ -129,6 +129,10 @@
       [
         "shiju naroth \u2014 REA",
         325000.0
+      ],
+      [
+        "B Stemp",
+        0.0
       ],
       [
         "Gladys Ugle",
@@ -3052,7 +3056,7 @@
       "name": "David",
       "initial": "D",
       "leads_30d": 82,
-      "leads_total": 313,
+      "leads_total": 148,
       "opps_total": 224,
       "opps_qualified": 1,
       "opps_won": 5
@@ -3060,9 +3064,9 @@
     "94SP86nEZ9qrsSTJB2Qe": {
       "name": "Abdullah",
       "initial": "A",
-      "leads_30d": 73,
-      "leads_total": 251,
-      "opps_total": 252,
+      "leads_30d": 74,
+      "leads_total": 123,
+      "opps_total": 253,
       "opps_qualified": 0,
       "opps_won": 13
     },
@@ -3070,7 +3074,7 @@
       "name": "Hasib",
       "initial": "H",
       "leads_30d": 96,
-      "leads_total": 345,
+      "leads_total": 157,
       "opps_total": 206,
       "opps_qualified": 1,
       "opps_won": 8
@@ -3079,7 +3083,7 @@
       "name": "Masih",
       "initial": "M",
       "leads_30d": 105,
-      "leads_total": 348,
+      "leads_total": 156,
       "opps_total": 150,
       "opps_qualified": 1,
       "opps_won": 4
